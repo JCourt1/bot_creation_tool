@@ -1,0 +1,133 @@
+Most recent:
+
+cd /Project/bots/rasa_utils
+python -m bot -d ../models/current/dialogue -u ../models/current/nlu
+
+cd /Project/flask_active
+python app.py
+
+
+uwsgi --http :4000 --chdir /Desktop/Project/flask_active --manage-script-name --mount /=app:app
+
+### cd /Project/flask_active
+uwsgi --http :4000 --manage-script-name --mount /=app:app
+
+
+
+
+
+
+python -m rasa_core.run -d ../models/current/dialogue -u ../models/current/nlu_model --verbose --debug
+
+### Training
+
+## NLU model
+# working directory: /bots
+python -m rasa_nlu.train -c bot/config.yml --data data/nlu_data/nlu_data.md -o models --fixed_model_name default --project nlu_models --verbose
+
+## Dialogue model
+# working directory: /bots/training_bot
+python initialiseBot.py
+
+
+python -m bot -d ../models/dialogueModels/custom -u ../models/nlu_models/default
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+### MONGODB ###
+
+### Connect to the azure mongodb from the mongoldb shell:
+
+mongo mhtmongodb.documents.azure.com:10255 -u mhtmongodb -p 5xXKDKil2MeMigtUrUXHaksZwQocivCftlJ7CVtH842Gv9PmuSIphMc28enPsZUIPeikcfEjvkBCdSmkP5Wj7w== --ssl --sslAllowInvalidCertificates
+
+
+# Do a projection (only get userName)
+
+db.users.find({}, {"userName": 1}).pretty()
+
+
+# Find a particular user.
+
+db.users.find({"userName":"JoeC"} ).pretty()
+
+
+
+
+
+
+db.conversations.insert_one({"cid": BinData(0,"OGY1NDk2OGMtODg1YS00ZDQxLTk5ZDEtYjIxNzE1NzcxOTQz"),
+                 "otherField": "this other field"})
+
+
+-> in mongodb shell:
+db.conversations.insertOne({"cid": BinData(0,"OGY1NDk2OGMtODg1YS00ZDQxLTk5ZDEtYjIxNzE1NzcxOTQz"),                  "otherField": "this other field"})
+
+
+
+# Get the cids
+var res = db.users.find({"userName": "JoeC"}, {"cids": 1}).toArray()
+
+# use them to find info that has been stored
+conversations = db.conversations.find({"cid": {$in: res[0]["cids"]} })
+
+
+
+# in actual fact need to do this with findOne (it returns an object, not a cursor):
+
+In python, findOne is find_one:
+
+x = db.users.find_one({"userName": 'JoeC'}, {"cids": 1})
+conversations = db.conversations.find({ "cid": {$in: x['cids']} })
+
+and in Python, the key words need to be in quotes I think, like $in:
+
+conversations = db.conversations.find({ "cid": {"$in": x['cids']} })
+
+
+
+# inserting many:
+
+res[0]['cids'].forEach((item) => db.conversations.insert({"cid":item, "otherField":"this other field"}) )
+
+
+
+## deleting:
+
+db.conversations.deleteOne({"cid": BinData(0,"OGY1NDk2OGMtODg1YS00ZDQxLTk5ZDEtYjIxNzE1NzcxOTQz")})
+# delete everything that doesn't have a certain field:
+db.conversations.remove({"utterances": {"$exists": false}});
+
+
+# upsert
+
+key = {'userName':'JoeC'}
+
+data = {'key':'value', 'key2':'value'};
+
+or, to leave the rest untouched:
+data = {'$set':{'key2':'value2'}}
+
+then:
+
+db.users.update(key, data, upsert=True);
+
+
+
+
+## set an index to act like a "primary key"
+
+db.getCollection('conversations').ensureIndex({'a': 1}, {unique: true})
+//
+db.users.createIndex({userName: 1}, {unique:true})

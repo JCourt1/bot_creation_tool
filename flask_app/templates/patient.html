@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:300,400,500">
+    <link rel="stylesheet" type="text/css" href="{{ url_for('static', filename='patient/app2.css')}}">
+    <link rel="stylesheet" type="text/css" href="{{ url_for('static', filename='patient/index.css')}}">
+    <link rel="stylesheet" type="text/css" href="{{ url_for('static', filename='commonStyling.css')}}">
+    <link rel="stylesheet" type="text/css" href="{{ url_for('static', filename='modal.css')}}">
+    <title>MHT chatbot</title>
+  </head>
+
+  <body>
+
+    <div id="header">
+    </div>
+
+    <script> window.setupData = {{ setup_data|tojson|safe }}; </script>
+    <script src="{{ url_for('static', filename='header.js')}}"></script>
+
+
+    <div id="app">
+    </div>
+
+    <!-- <form action="{{ url_for('toggle') }}" method="post">
+        <div class="form-group">
+              <h1 class="mt-5">Start Bot/Stop Bot</h1>
+              <br>
+              <p>
+              <br>
+              <button type="submit"  name = "Submit">Submit</button>
+
+              </p>
+        </div>
+    </form> -->
+
+    <form action="{{ url_for('logout') }}" method="post" id="logOutForm">
+    </form>
+
+
+    <script>window.sessionStorage.setItem("hostForBot", "{{ bothost }}")</script>
+    <script src="{{ url_for('static', filename='patient/app2.js')}}"></script>
+  </body>
+
+</html>

@@ -1,0 +1,2 @@
+model_checkpoint_path: "/Users/joseph/Desktop/Bot_Final_Submission/flask_active/rasabot/models/nlu_models/default/intent_classifier_tensorflow_embedding.ckpt"
+all_model_checkpoint_paths: "/Users/joseph/Desktop/Bot_Final_Submission/flask_active/rasabot/models/nlu_models/default/intent_classifier_tensorflow_embedding.ckpt"

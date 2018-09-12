@@ -1,0 +1,937 @@
+
+branch_name = affirm
+self.branchesStack = ['affirm']
+self.branchesStack = ['affirm']
+self.branchesStack = ['affirm']
+
+branch_name = deny
+self.branchesStack = ['affirm', 'deny']
+branch_name = affirm
+self.branchesStack = ['affirm', 'affirm']
+branch_name = default
+self.branchesStack = ['affirm', 'default']
+
+
+
+
+
+branch_name = default
+self.branchesStack = ['default']
+self.branchesStack = ['default']
+branch_name = affirm
+self.branchesStack = ['default', 'affirm']
+branch_name = default
+self.branchesStack = ['default', 'default']
+Dialogue 1
+branch_name = default
+self.branchesStack = ['default']
+branch_name = Feeling
+self.branchesStack = ['Feeling']
+self.branchesStack = []
+branch_name = affirm
+self.branchesStack = ['affirm']
+self.branchesStack = ['affirm']
+self.branchesStack = ['affirm']
+branch_name = deny
+self.branchesStack = ['affirm', 'deny']
+branch_name = affirm
+self.branchesStack = ['affirm', 'affirm']
+branch_name = default
+self.branchesStack = ['affirm', 'default']
+branch_name = default
+self.branchesStack = ['default']
+self.branchesStack = ['default']
+branch_name = affirm
+self.branchesStack = ['default', 'affirm']
+branch_name = default
+self.branchesStack = ['default', 'default']
+Dialogue 1
+branch_name = default
+self.branchesStack = ['default']
+branch_name = Feeling
+self.branchesStack = ['Feeling']
+Special dialogue
+branch_name = affirm
+self.branchesStack = ['affirm']
+self.branchesStack = ['affirm']
+self.branchesStack = ['affirm']
+branch_name = deny
+self.branchesStack = ['affirm', 'deny']
+branch_name = affirm
+self.branchesStack = ['affirm', 'affirm']
+branch_name = default
+self.branchesStack = ['affirm', 'default']
+branch_name = default
+self.branchesStack = ['default']
+self.branchesStack = ['default']
+branch_name = affirm
+self.branchesStack = ['default', 'affirm']
+branch_name = default
+self.branchesStack = ['default', 'default']
+Dialogue 1
+branch_name = default
+self.branchesStack = ['default']
+branch_name = Feeling
+self.branchesStack = ['Feeling']
+Special dialogue
+Test dialogue
+branch_name = affirm
+self.branchesStack = ['affirm']
+self.branchesStack = ['affirm']
+self.branchesStack = ['affirm']
+branch_name = deny
+self.branchesStack = ['affirm', 'deny']
+branch_name = affirm
+self.branchesStack = ['affirm', 'affirm']
+branch_name = default
+self.branchesStack = ['affirm', 'default']
+branch_name = default
+self.branchesStack = ['default']
+self.branchesStack = ['default']
+branch_name = affirm
+self.branchesStack = ['default', 'affirm']
+branch_name = default
+self.branchesStack = ['default', 'default']
+Dialogue 1
+branch_name = default
+self.branchesStack = ['default']
+branch_name = Feeling
+self.branchesStack = ['Feeling']
+Special dialogue
+Test dialogue
+Another dialogue
+branch_name = affirm
+self.branchesStack = ['affirm']
+self.branchesStack = ['affirm']
+self.branchesStack = ['affirm']
+branch_name = deny
+self.branchesStack = ['affirm', 'deny']
+branch_name = affirm
+self.branchesStack = ['affirm', 'affirm']
+branch_name = default
+self.branchesStack = ['affirm', 'default']
+branch_name = default
+self.branchesStack = ['default']
+self.branchesStack = ['default']
+branch_name = affirm
+self.branchesStack = ['default', 'affirm']
+branch_name = default
+self.branchesStack = ['default', 'default']
+Dialogue 1
+branch_name = default
+self.branchesStack = ['default']
+branch_name = Feeling
+self.branchesStack = ['Feeling']
+Special dialogue
+Test dialogue
+Another dialogue
+branch_name = affirm
+self.branchesStack = ['affirm']
+self.branchesStack = ['affirm']
+self.branchesStack = ['affirm']
+branch_name = deny
+self.branchesStack = ['affirm', 'deny']
+branch_name = affirm
+self.branchesStack = ['affirm', 'affirm']
+branch_name = default
+self.branchesStack = ['affirm', 'default']
+branch_name = default
+self.branchesStack = ['default']
+self.branchesStack = ['default']
+branch_name = affirm
+self.branchesStack = ['default', 'affirm']
+branch_name = default
+self.branchesStack = ['default', 'default']
+Dialogue 1
+branch_name = default
+self.branchesStack = ['default']
+branch_name = Feeling
+self.branchesStack = ['Feeling']
+Special dialogue
+Test dialogue
+Another dialogue
+branch_name = affirm
+self.branchesStack = ['affirm']
+self.branchesStack = ['affirm']
+self.branchesStack = ['affirm']
+branch_name = deny
+self.branchesStack = ['affirm', 'deny']
+branch_name = affirm
+self.branchesStack = ['affirm', 'affirm']
+branch_name = default
+self.branchesStack = ['affirm', 'default']
+branch_name = default
+self.branchesStack = ['default']
+self.branchesStack = ['default']
+branch_name = affirm
+self.branchesStack = ['default', 'affirm']
+branch_name = default
+self.branchesStack = ['default', 'default']
+Dialogue 1
+branch_name = default
+self.branchesStack = ['default']
+branch_name = Feeling
+self.branchesStack = ['Feeling']
+Special dialogue
+Test dialogue
+Another dialogue
+branch_name = affirm
+self.branchesStack = ['affirm']
+self.branchesStack = ['affirm']
+self.branchesStack = ['affirm']
+branch_name = deny
+self.branchesStack = ['affirm', 'deny']
+branch_name = affirm
+self.branchesStack = ['affirm', 'affirm']
+branch_name = default
+self.branchesStack = ['affirm', 'default']
+branch_name = default
+self.branchesStack = ['default']
+self.branchesStack = ['default']
+branch_name = affirm
+self.branchesStack = ['default', 'affirm']
+branch_name = default
+self.branchesStack = ['default', 'default']
+Dialogue 1
+branch_name = default
+self.branchesStack = ['default']
+branch_name = Feeling
+self.branchesStack = ['Feeling']
+Special dialogue
+Test dialogue
+Another dialogue
+branch_name = affirm
+self.branchesStack = ['affirm']
+self.branchesStack = ['affirm']
+self.branchesStack = ['affirm']
+branch_name = deny
+self.branchesStack = ['affirm', 'deny']
+branch_name = affirm
+self.branchesStack = ['affirm', 'affirm']
+branch_name = default
+self.branchesStack = ['affirm', 'default']
+branch_name = default
+self.branchesStack = ['default']
+self.branchesStack = ['default']
+branch_name = affirm
+self.branchesStack = ['default', 'affirm']
+branch_name = default
+self.branchesStack = ['default', 'default']
+Dialogue 1
+branch_name = default
+self.branchesStack = ['default']
+branch_name = Feeling
+self.branchesStack = ['Feeling']
+Special dialogue
+Test dialogue
+Another dialogue
+branch_name = affirm
+self.branchesStack = ['affirm']
+self.branchesStack = ['affirm']
+self.branchesStack = ['affirm']
+branch_name = deny
+self.branchesStack = ['affirm', 'deny']
+branch_name = affirm
+self.branchesStack = ['affirm', 'affirm']
+branch_name = default
+self.branchesStack = ['affirm', 'default']
+branch_name = default
+self.branchesStack = ['default']
+self.branchesStack = ['default']
+branch_name = affirm
+self.branchesStack = ['default', 'affirm']
+branch_name = default
+self.branchesStack = ['default', 'default']
+Dialogue 1
+branch_name = default
+self.branchesStack = ['default']
+branch_name = Feeling
+self.branchesStack = ['Feeling']
+Special dialogue
+Test dialogue
+Another dialogue
+branch_name = affirm
+self.branchesStack = ['affirm']
+self.branchesStack = ['affirm']
+self.branchesStack = ['affirm']
+branch_name = deny
+self.branchesStack = ['affirm', 'deny']
+branch_name = affirm
+self.branchesStack = ['affirm', 'affirm']
+branch_name = default
+self.branchesStack = ['affirm', 'default']
+branch_name = default
+self.branchesStack = ['default']
+self.branchesStack = ['default']
+branch_name = affirm
+self.branchesStack = ['default', 'affirm']
+branch_name = default
+self.branchesStack = ['default', 'default']
+Dialogue 1
+branch_name = default
+self.branchesStack = ['default']
+branch_name = Feeling
+self.branchesStack = ['Feeling']
+Special dialogue
+Test dialogue
+Another dialogue
+branch_name = affirm
+self.branchesStack = ['affirm']
+self.branchesStack = ['affirm']
+self.branchesStack = ['affirm']
+branch_name = deny
+self.branchesStack = ['affirm', 'deny']
+branch_name = affirm
+self.branchesStack = ['affirm', 'affirm']
+branch_name = default
+self.branchesStack = ['affirm', 'default']
+branch_name = default
+self.branchesStack = ['default']
+self.branchesStack = ['default']
+branch_name = affirm
+self.branchesStack = ['default', 'affirm']
+branch_name = default
+self.branchesStack = ['default', 'default']
+Dialogue 1
+branch_name = default
+self.branchesStack = ['default']
+branch_name = Feeling
+self.branchesStack = ['Feeling']
+Special dialogue
+Test dialogue
+Another dialogue
+branch_name = affirm
+self.branchesStack = ['affirm']
+self.branchesStack = ['affirm']
+self.branchesStack = ['affirm']
+branch_name = deny
+self.branchesStack = ['affirm', 'deny']
+branch_name = affirm
+self.branchesStack = ['affirm', 'affirm']
+branch_name = default
+self.branchesStack = ['affirm', 'default']
+branch_name = default
+self.branchesStack = ['default']
+self.branchesStack = ['default']
+branch_name = affirm
+self.branchesStack = ['default', 'affirm']
+branch_name = default
+self.branchesStack = ['default', 'default']
+Dialogue 1
+branch_name = default
+self.branchesStack = ['default']
+branch_name = Feeling
+self.branchesStack = ['Feeling']
+Special dialogue
+Test dialogue
+Another dialogue
+branch_name = affirm
+self.branchesStack = ['affirm']
+self.branchesStack = ['affirm']
+self.branchesStack = ['affirm']
+branch_name = deny
+self.branchesStack = ['affirm', 'deny']
+branch_name = affirm
+self.branchesStack = ['affirm', 'affirm']
+branch_name = default
+self.branchesStack = ['affirm', 'default']
+branch_name = default
+self.branchesStack = ['default']
+self.branchesStack = ['default']
+branch_name = affirm
+self.branchesStack = ['default', 'affirm']
+branch_name = default
+self.branchesStack = ['default', 'default']
+Dialogue 1
+branch_name = default
+self.branchesStack = ['default']
+branch_name = Feeling
+self.branchesStack = ['Feeling']
+Special dialogue
+Test dialogue
+Another dialogue
+branch_name = affirm
+self.branchesStack = ['affirm']
+self.branchesStack = ['affirm']
+self.branchesStack = ['affirm']
+branch_name = deny
+self.branchesStack = ['affirm', 'deny']
+branch_name = affirm
+self.branchesStack = ['affirm', 'affirm']
+branch_name = default
+self.branchesStack = ['affirm', 'default']
+branch_name = default
+self.branchesStack = ['default']
+self.branchesStack = ['default']
+branch_name = affirm
+self.branchesStack = ['default', 'affirm']
+branch_name = default
+self.branchesStack = ['default', 'default']
+Dialogue 1
+branch_name = default
+self.branchesStack = ['default']
+branch_name = Feeling
+self.branchesStack = ['Feeling']
+Special dialogue
+Test dialogue
+Another dialogue
+branch_name = default
+self.branchesStack = ['default']
+branch_name = goodbye
+self.branchesStack = ['goodbye']
+self.branchesStack = ['goodbye']
+branch_name = default
+self.branchesStack = ['goodbye', 'default']
+branch_name = affirm
+self.branchesStack = ['goodbye', 'affirm']
+Lonely
+branch_name = default
+self.branchesStack = ['default']
+branch_name = affirm
+self.branchesStack = ['affirm']
+gad7
+phq9
+branch_name = default
+self.branchesStack = ['default']
+branch_name = affirm
+self.branchesStack = ['affirm']
+branch_name = default
+self.branchesStack = ['default']
+branch_name = affirm
+self.branchesStack = ['affirm']
+Stress
+branch_name = default
+self.branchesStack = ['default']
+branch_name = affirm
+self.branchesStack = ['affirm']
+gad7
+phq9
+branch_name = default
+self.branchesStack = ['default']
+branch_name = affirm
+self.branchesStack = ['affirm']
+branch_name = default
+self.branchesStack = ['default']
+branch_name = affirm
+self.branchesStack = ['affirm']
+Stress
+branch_name = default
+self.branchesStack = ['default']
+branch_name = affirm
+self.branchesStack = ['affirm']
+gad7
+phq9
+branch_name = default
+self.branchesStack = ['default']
+branch_name = affirm
+self.branchesStack = ['affirm']
+branch_name = default
+self.branchesStack = ['default']
+branch_name = affirm
+self.branchesStack = ['affirm']
+Stress
+branch_name = default
+self.branchesStack = ['default']
+branch_name = affirm
+self.branchesStack = ['affirm']
+gad7
+phq9
+branch_name = default
+self.branchesStack = ['default']
+branch_name = affirm
+self.branchesStack = ['affirm']
+branch_name = default
+self.branchesStack = ['default']
+branch_name = affirm
+self.branchesStack = ['affirm']
+Stress
+branch_name = default
+self.branchesStack = ['default']
+branch_name = affirm
+self.branchesStack = ['affirm']
+gad7
+phq9
+branch_name = default
+self.branchesStack = ['default']
+branch_name = affirm
+self.branchesStack = ['affirm']
+branch_name = default
+self.branchesStack = ['default']
+branch_name = affirm
+self.branchesStack = ['affirm']
+Stress
+branch_name = default
+self.branchesStack = ['default']
+branch_name = affirm
+self.branchesStack = ['affirm']
+gad7
+phq9
+branch_name = default
+self.branchesStack = ['default']
+branch_name = affirm
+self.branchesStack = ['affirm']
+branch_name = default
+self.branchesStack = ['default']
+branch_name = affirm
+self.branchesStack = ['affirm']
+Stress
+branch_name = default
+self.branchesStack = ['default']
+branch_name = affirm
+self.branchesStack = ['affirm']
+gad7
+phq9
+branch_name = default
+self.branchesStack = ['default']
+branch_name = affirm
+self.branchesStack = ['affirm']
+branch_name = default
+self.branchesStack = ['default']
+branch_name = affirm
+self.branchesStack = ['affirm']
+Stress
+branch_name = default
+self.branchesStack = ['default']
+branch_name = affirm
+self.branchesStack = ['affirm']
+gad7
+phq9
+branch_name = default
+self.branchesStack = ['default']
+branch_name = affirm
+self.branchesStack = ['affirm']
+branch_name = default
+self.branchesStack = ['default']
+branch_name = affirm
+self.branchesStack = ['affirm']
+Stress
+branch_name = default
+self.branchesStack = ['default']
+branch_name = affirm
+self.branchesStack = ['affirm']
+gad7
+phq9
+branch_name = default
+self.branchesStack = ['default']
+branch_name = affirm
+self.branchesStack = ['affirm']
+branch_name = default
+self.branchesStack = ['default']
+branch_name = affirm
+self.branchesStack = ['affirm']
+Stress
+branch_name = default
+self.branchesStack = ['default']
+branch_name = affirm
+self.branchesStack = ['affirm']
+gad7
+phq9
+branch_name = default
+self.branchesStack = ['default']
+branch_name = affirm
+self.branchesStack = ['affirm']
+branch_name = default
+self.branchesStack = ['default']
+branch_name = affirm
+self.branchesStack = ['affirm']
+Stress
+branch_name = default
+self.branchesStack = ['default']
+branch_name = affirm
+self.branchesStack = ['affirm']
+gad7
+phq9
+branch_name = default
+self.branchesStack = ['default']
+branch_name = affirm
+self.branchesStack = ['affirm']
+branch_name = default
+self.branchesStack = ['default']
+branch_name = affirm
+self.branchesStack = ['affirm']
+Stress
+branch_name = default
+self.branchesStack = ['default']
+branch_name = affirm
+self.branchesStack = ['affirm']
+gad7
+phq9
+branch_name = default
+self.branchesStack = ['default']
+branch_name = affirm
+self.branchesStack = ['affirm']
+branch_name = default
+self.branchesStack = ['default']
+branch_name = affirm
+self.branchesStack = ['affirm']
+Stress
+branch_name = default
+self.branchesStack = ['default']
+branch_name = affirm
+self.branchesStack = ['affirm']
+gad7
+phq9
+branch_name = default
+self.branchesStack = ['default']
+branch_name = affirm
+self.branchesStack = ['affirm']
+branch_name = default
+self.branchesStack = ['default']
+branch_name = affirm
+self.branchesStack = ['affirm']
+Stress
+branch_name = default
+self.branchesStack = ['default']
+branch_name = affirm
+self.branchesStack = ['affirm']
+gad7
+phq9
+branch_name = default
+self.branchesStack = ['default']
+branch_name = affirm
+self.branchesStack = ['affirm']
+branch_name = default
+self.branchesStack = ['default']
+branch_name = affirm
+self.branchesStack = ['affirm']
+Stress
+branch_name = default
+self.branchesStack = ['default']
+branch_name = affirm
+self.branchesStack = ['affirm']
+gad7
+phq9
+branch_name = default
+self.branchesStack = ['default']
+branch_name = affirm
+self.branchesStack = ['affirm']
+branch_name = default
+self.branchesStack = ['default']
+branch_name = affirm
+self.branchesStack = ['affirm']
+Stress
+branch_name = default
+self.branchesStack = ['default']
+branch_name = affirm
+self.branchesStack = ['affirm']
+gad7
+phq9
+branch_name = default
+self.branchesStack = ['default']
+branch_name = affirm
+self.branchesStack = ['affirm']
+branch_name = default
+self.branchesStack = ['default']
+branch_name = affirm
+self.branchesStack = ['affirm']
+Stress
+branch_name = default
+self.branchesStack = ['default']
+branch_name = affirm
+self.branchesStack = ['affirm']
+gad7
+phq9
+branch_name = default
+self.branchesStack = ['default']
+branch_name = affirm
+self.branchesStack = ['affirm']
+branch_name = default
+self.branchesStack = ['default']
+branch_name = affirm
+self.branchesStack = ['affirm']
+Stress
+branch_name = default
+self.branchesStack = ['default']
+branch_name = affirm
+self.branchesStack = ['affirm']
+gad7
+phq9
+branch_name = default
+self.branchesStack = ['default']
+branch_name = affirm
+self.branchesStack = ['affirm']
+branch_name = default
+self.branchesStack = ['default']
+branch_name = affirm
+self.branchesStack = ['affirm']
+Stress
+branch_name = default
+self.branchesStack = ['default']
+branch_name = affirm
+self.branchesStack = ['affirm']
+gad7
+phq9
+branch_name = default
+self.branchesStack = ['default']
+branch_name = affirm
+self.branchesStack = ['affirm']
+branch_name = default
+self.branchesStack = ['default']
+branch_name = affirm
+self.branchesStack = ['affirm']
+Stress
+branch_name = default
+self.branchesStack = ['default']
+branch_name = affirm
+self.branchesStack = ['affirm']
+gad7
+phq9
+branch_name = default
+self.branchesStack = ['default']
+branch_name = affirm
+self.branchesStack = ['affirm']
+branch_name = default
+self.branchesStack = ['default']
+branch_name = affirm
+self.branchesStack = ['affirm']
+Stress
+branch_name = default
+self.branchesStack = ['default']
+branch_name = affirm
+self.branchesStack = ['affirm']
+gad7
+phq9
+branch_name = default
+self.branchesStack = ['default']
+branch_name = affirm
+self.branchesStack = ['affirm']
+branch_name = default
+self.branchesStack = ['default']
+branch_name = affirm
+self.branchesStack = ['affirm']
+Stress
+branch_name = default
+self.branchesStack = ['default']
+branch_name = affirm
+self.branchesStack = ['affirm']
+gad7
+phq9
+branch_name = default
+self.branchesStack = ['default']
+branch_name = affirm
+self.branchesStack = ['affirm']
+branch_name = default
+self.branchesStack = ['default']
+branch_name = affirm
+self.branchesStack = ['affirm']
+Stress
+branch_name = default
+self.branchesStack = ['default']
+branch_name = affirm
+self.branchesStack = ['affirm']
+gad7
+phq9
+branch_name = default
+self.branchesStack = ['default']
+branch_name = affirm
+self.branchesStack = ['affirm']
+branch_name = default
+self.branchesStack = ['default']
+branch_name = affirm
+self.branchesStack = ['affirm']
+Stress
+branch_name = default
+self.branchesStack = ['default']
+branch_name = expressSelfHarm
+self.branchesStack = ['expressSelfHarm']
+self.branchesStack = ['expressSelfHarm']
+self.branchesStack = ['expressSelfHarm']
+branch_name = default
+self.branchesStack = ['expressSelfHarm', 'default']
+branch_name = affirm
+self.branchesStack = ['affirm']
+Positive thinking
+branch_name = default
+self.branchesStack = ['default']
+branch_name = affirm
+self.branchesStack = ['affirm']
+gad7
+phq9
+branch_name = default
+self.branchesStack = ['default']
+branch_name = affirm
+self.branchesStack = ['affirm']
+branch_name = default
+self.branchesStack = ['default']
+branch_name = affirm
+self.branchesStack = ['affirm']
+Stress
+branch_name = default
+self.branchesStack = ['default']
+branch_name = expressSelfHarm
+self.branchesStack = ['expressSelfHarm']
+self.branchesStack = ['expressSelfHarm']
+self.branchesStack = ['expressSelfHarm']
+branch_name = default
+self.branchesStack = ['expressSelfHarm', 'default']
+branch_name = affirm
+self.branchesStack = ['affirm']
+Positive thinking
+branch_name = default
+self.branchesStack = ['default']
+branch_name = affirm
+self.branchesStack = ['affirm']
+gad7
+phq9
+branch_name = default
+self.branchesStack = ['default']
+branch_name = affirm
+self.branchesStack = ['affirm']
+branch_name = default
+self.branchesStack = ['default']
+branch_name = affirm
+self.branchesStack = ['affirm']
+Stress
+branch_name = default
+self.branchesStack = ['default']
+branch_name = expressSelfHarm
+self.branchesStack = ['expressSelfHarm']
+self.branchesStack = ['expressSelfHarm']
+self.branchesStack = ['expressSelfHarm']
+branch_name = default
+self.branchesStack = ['expressSelfHarm', 'default']
+branch_name = affirm
+self.branchesStack = ['affirm']
+Positive thinking
+branch_name = default
+self.branchesStack = ['default']
+branch_name = affirm
+self.branchesStack = ['affirm']
+gad7
+phq9
+branch_name = default
+self.branchesStack = ['default']
+branch_name = affirm
+self.branchesStack = ['affirm']
+branch_name = default
+self.branchesStack = ['default']
+branch_name = affirm
+self.branchesStack = ['affirm']
+Stress
+branch_name = default
+self.branchesStack = ['default']
+branch_name = expressSelfHarm
+self.branchesStack = ['expressSelfHarm']
+self.branchesStack = ['expressSelfHarm']
+self.branchesStack = ['expressSelfHarm']
+branch_name = default
+self.branchesStack = ['expressSelfHarm', 'default']
+branch_name = affirm
+self.branchesStack = ['affirm']
+Positive thinking
+branch_name = default
+self.branchesStack = ['default']
+branch_name = affirm
+self.branchesStack = ['affirm']
+gad7
+phq9
+branch_name = default
+self.branchesStack = ['default']
+branch_name = affirm
+self.branchesStack = ['affirm']
+branch_name = default
+self.branchesStack = ['default']
+branch_name = affirm
+self.branchesStack = ['affirm']
+Stress
+branch_name = default
+self.branchesStack = ['default']
+branch_name = expressSelfHarm
+self.branchesStack = ['expressSelfHarm']
+self.branchesStack = ['expressSelfHarm']
+self.branchesStack = ['expressSelfHarm']
+branch_name = default
+self.branchesStack = ['expressSelfHarm', 'default']
+branch_name = affirm
+self.branchesStack = ['affirm']
+Positive thinking
+branch_name = default
+self.branchesStack = ['default']
+branch_name = affirm
+self.branchesStack = ['affirm']
+gad7
+phq9
+branch_name = default
+self.branchesStack = ['default']
+branch_name = affirm
+self.branchesStack = ['affirm']
+branch_name = default
+self.branchesStack = ['default']
+branch_name = affirm
+self.branchesStack = ['affirm']
+Stress
+branch_name = default
+self.branchesStack = ['default']
+branch_name = affirm
+self.branchesStack = ['affirm']
+gad7
+phq9
+branch_name = default
+self.branchesStack = ['default']
+branch_name = affirm
+self.branchesStack = ['affirm']
+branch_name = default
+self.branchesStack = ['default']
+branch_name = affirm
+self.branchesStack = ['affirm']
+Stress
+branch_name = default
+self.branchesStack = ['default']
+branch_name = affirm
+self.branchesStack = ['affirm']
+gad7
+phq9
+branch_name = default
+self.branchesStack = ['default']
+branch_name = affirm
+self.branchesStack = ['affirm']
+branch_name = default
+self.branchesStack = ['default']
+branch_name = affirm
+self.branchesStack = ['affirm']
+Stress
+branch_name = default
+self.branchesStack = ['default']
+branch_name = affirm
+self.branchesStack = ['affirm']
+gad7
+phq9
+branch_name = default
+self.branchesStack = ['default']
+branch_name = affirm
+self.branchesStack = ['affirm']
+branch_name = default
+self.branchesStack = ['default']
+branch_name = affirm
+self.branchesStack = ['affirm']
+Stress
+branch_name = default
+self.branchesStack = ['default']
+branch_name = affirm
+self.branchesStack = ['affirm']
+gad7
+phq9
+branch_name = default
+self.branchesStack = ['default']
+branch_name = affirm
+self.branchesStack = ['affirm']
+branch_name = default
+self.branchesStack = ['default']
+branch_name = affirm
+self.branchesStack = ['affirm']
+Stress
+branch_name = default
+self.branchesStack = ['default']
+branch_name = affirm
+self.branchesStack = ['affirm']
+gad7
+phq9
+branch_name = default
+self.branchesStack = ['default']
+branch_name = affirm
+self.branchesStack = ['affirm']
+branch_name = default
+self.branchesStack = ['default']
+branch_name = affirm
+self.branchesStack = ['affirm']
+Stress

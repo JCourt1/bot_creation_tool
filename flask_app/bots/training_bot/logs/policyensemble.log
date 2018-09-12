@@ -1,0 +1,1956 @@
+second!
+logging stuff from inner process
+
+
+Just entered option 3
+
+
+
+
+All messages:
+
+
+## Generated Story -7652891009275889543
+* affirm
+
+second!
+logging stuff from inner process
+second!
+logging stuff from inner process
+second!
+logging stuff from inner process
+second!
+logging stuff from inner process
+second!
+logging stuff from inner process
+
+
+Just entered option 3
+
+
+
+
+All messages:
+
+
+## Generated Story -6043524684261929872
+* thanks
+
+second!
+logging stuff from inner process
+second!
+logging stuff from inner process
+
+
+Just entered option 3
+
+
+
+
+All messages:
+
+
+## Generated Story -9056502766170466803
+* thanks
+* Feeling{"sentiment": "Depressed"}
+
+second!
+logging stuff from inner process
+second!
+logging stuff from inner process
+second!
+
+
+All messages (at the top):
+
+
+## Generated Story -8040306667471636610
+* greet
+
+logging stuff from inner process
+
+
+Just entered option 3
+
+
+
+
+All messages (now in 3):
+
+
+## Generated Story -7611417305384178760
+* selfharm
+
+second!
+
+
+All messages (at the top):
+
+
+## Generated Story -7611417305384178760
+* selfharm
+
+logging stuff from inner process
+second!
+
+
+All messages (at the top):
+
+
+## Generated Story -3678418949000918453
+* selfharm
+    - utter_self_harm_help
+
+logging stuff from inner process
+second!
+
+
+All messages (at the top):
+
+
+## Generated Story 5981565878683437949
+* selfharm
+    - utter_self_harm_help
+* selfharm
+
+logging stuff from inner process
+second!
+
+
+All messages (at the top):
+
+
+## Generated Story -3004875580426967032
+* selfharm
+    - utter_self_harm_help
+* selfharm
+    - utter_self_harm_help
+
+logging stuff from inner process
+second!
+
+
+All messages (at the top):
+
+
+## Generated Story 5074893844702221248
+* selfharm
+    - utter_self_harm_help
+* selfharm
+    - utter_self_harm_help
+* requestDialogues
+
+logging stuff from inner process
+
+
+Just entered option 3
+
+
+
+
+All messages (now in 3):
+
+
+## Generated Story -3225134992877455244
+* selfharm
+    - utter_self_harm_help
+* selfharm
+    - utter_self_harm_help
+* deny
+
+second!
+
+
+All messages (at the top):
+
+
+## Generated Story -3225134992877455244
+* selfharm
+    - utter_self_harm_help
+* selfharm
+    - utter_self_harm_help
+* deny
+
+logging stuff from inner process
+second!
+
+
+All messages (at the top):
+
+
+## Generated Story -223008826961574943
+* selfharm
+    - utter_self_harm_help
+* selfharm
+    - utter_self_harm_help
+* deny
+    - action_greet
+
+logging stuff from inner process
+second!
+
+
+All messages (at the top):
+
+
+## Generated Story 5401956303158554639
+* greet
+
+logging stuff from inner process
+second!
+
+
+All messages (at the top):
+
+
+## Generated Story 3873703742279689612
+* greet
+    - utter_greet
+
+logging stuff from inner process
+second!
+
+
+All messages (at the top):
+
+
+## Generated Story -8900785534102899090
+* greet
+
+logging stuff from inner process
+second!
+
+
+All messages (at the top):
+
+
+## Generated Story -6327608720778162169
+* greet
+    - utter_greet
+
+logging stuff from inner process
+second!
+
+
+All messages (at the top):
+
+
+## Generated Story 3512065493102173004
+* greet
+    - utter_greet
+* Feeling{"sentiment": "Depressed"}
+    - slot{"sentiment": "Depressed"}
+
+logging stuff from inner process
+logging stuff from inner process
+second!
+
+
+All messages (at the top):
+
+
+## Generated Story -2893632348480282931
+* greet
+    - utter_greet
+* Feeling{"sentiment": "Depressed"}
+    - slot{"sentiment": "Depressed"}
+    - action_greet
+
+logging stuff from inner process
+second!
+
+
+All messages (at the top):
+
+
+## Generated Story 2053947266607641787
+* greet
+
+logging stuff from inner process
+second!
+
+
+All messages (at the top):
+
+
+## Generated Story -8063077211789483523
+* greet
+    - utter_greet
+
+logging stuff from inner process
+second!
+
+
+All messages (at the top):
+
+
+## Generated Story -8928950622957774440
+* greet
+    - utter_greet
+* requestDialogues
+
+logging stuff from inner process
+second!
+
+
+All messages (at the top):
+
+
+## Generated Story 7748283395277873748
+* greet
+
+logging stuff from inner process
+second!
+
+
+All messages (at the top):
+
+
+## Generated Story -6236079329030591829
+* greet
+    - utter_greet
+
+logging stuff from inner process
+second!
+
+
+All messages (at the top):
+
+
+## Generated Story 366713154736741574
+* greet
+    - utter_greet
+* selfharm
+
+logging stuff from inner process
+
+
+Just entered option 3
+
+
+
+
+All messages (now in 3):
+
+
+## Generated Story 2178175239751194851
+* greet
+    - utter_greet
+* Feeling
+
+second!
+
+
+All messages (at the top):
+
+
+## Generated Story 2178175239751194851
+* greet
+    - utter_greet
+* Feeling
+
+logging stuff from inner process
+second!
+
+
+All messages (at the top):
+
+
+## Generated Story 7916328228795278708
+* greet
+    - utter_greet
+* Feeling
+    - action_feelingReply
+
+logging stuff from inner process
+second!
+[{'action': None, 'intent': '', 'entities': []}, {'action': 'action_listen', 'intent': 'greet', 'entities': []}]
+
+
+All messages (at the top):
+
+
+## Generated Story 2410753948972173257
+* greet
+
+logging stuff from inner process
+
+
+Just entered option 3
+
+
+
+
+All messages (now in 3):
+
+
+## Generated Story 364554370083277096
+* affirm
+
+second!
+[{'action': None, 'intent': 'affirm', 'entities': []}]
+
+
+All messages (at the top):
+
+
+## Generated Story 364554370083277096
+* affirm
+
+logging stuff from inner process
+
+
+
+\\\\\\\\\\\\\\\\
+second!
+[{'action': None, 'intent': 'affirm', 'entities': []}, {'action': 'action_listen', 'intent': 'Feeling', 'entities': [{'start': 5, 'end': 8, 'value': 'Depressed', 'entity': 'sentiment', 'confidence': 0.8767401069434594, 'extractor': 'ner_crf', 'processors': ['ner_synonyms']}]}]
+
+
+All messages (at the top):
+
+
+## Generated Story 5593638910530084065
+* affirm
+* Feeling{"sentiment": "Depressed"}
+    - slot{"sentiment": "Depressed"}
+
+logging stuff from inner process
+
+
+Just entered option 3
+
+
+jjjjjjjjjjj
+
+
+All messages (now in 3):
+
+
+## Generated Story -6995778395514315882
+* affirm
+* selfharm{"sentiment": "Depressed"}
+
+second!
+[{'action': None, 'intent': 'selfharm', 'entities': [{'start': 5, 'end': 8, 'value': 'Depressed', 'entity': 'sentiment', 'confidence': 0.8767401069434594, 'extractor': 'ner_crf', 'processors': ['ner_synonyms']}]}]
+
+
+All messages (at the top):
+
+
+## Generated Story 3979197036328792226
+* affirm
+* selfharm{"sentiment": "Depressed"}
+    - slot{"sentiment": "Depressed"}
+
+logging stuff from inner process
+second!
+[{'action': None, 'intent': 'selfharm', 'entities': [{'start': 5, 'end': 8, 'value': 'Depressed', 'entity': 'sentiment', 'confidence': 0.8767401069434594, 'extractor': 'ner_crf', 'processors': ['ner_synonyms']}]}, {'action': 'action_feelingReply', 'intent': 'selfharm', 'entities': [{'start': 5, 'end': 8, 'value': 'Depressed', 'entity': 'sentiment', 'confidence': 0.8767401069434594, 'extractor': 'ner_crf', 'processors': ['ner_synonyms']}]}]
+
+
+All messages (at the top):
+
+
+## Generated Story -1860200734124961274
+* affirm
+* selfharm{"sentiment": "Depressed"}
+    - slot{"sentiment": "Depressed"}
+    - action_feelingReply
+
+logging stuff from inner process
+second!
+[{'action': None, 'intent': 'selfharm', 'entities': [{'start': 5, 'end': 8, 'value': 'Depressed', 'entity': 'sentiment', 'confidence': 0.8767401069434594, 'extractor': 'ner_crf', 'processors': ['ner_synonyms']}]},
+
+{'action': 'action_feelingReply', 'intent': 'selfharm', 'entities': [{'start': 5, 'end': 8, 'value': 'Depressed', 'entity': 'sentiment', 'confidence': 0.8767401069434594, 'extractor': 'ner_crf', 'processors': ['ner_synonyms']}]},
+
+{'action': 'utter_propose_questionnaire', 'intent': 'selfharm', 'entities': [{'start': 5, 'end': 8, 'value': 'Depressed', 'entity': 'sentiment', 'confidence': 0.8767401069434594, 'extractor': 'ner_crf', 'processors': ['ner_synonyms']}]}]
+
+
+All messages (at the top):
+
+
+## Generated Story 712867812538340644
+* affirm
+* selfharm{"sentiment": "Depressed"}
+    - slot{"sentiment": "Depressed"}
+    - action_feelingReply
+    - utter_propose_questionnaire
+
+logging stuff from inner process
+second!
+[{'action': None, 'intent': '', 'entities': []}, {'action': 'action_listen', 'intent': 'greet', 'entities': []}]
+
+
+All messages (at the top):
+
+
+## Generated Story 9213229778268454072
+* greet
+
+logging stuff from inner process
+
+
+Just entered option 3
+
+
+
+
+All messages (now in 3):
+
+
+## Generated Story 475304228151335659
+* thanks
+
+second!
+[{'action': None, 'intent': 'thanks', 'entities': []}]
+
+
+All messages (at the top):
+
+
+## Generated Story 475304228151335659
+* thanks
+
+logging stuff from inner process
+[{'action': None, 'intent': 'thanks', 'entities': []}]
+second!
+[{'action': None, 'intent': 'thanks', 'entities': []}, {'action': 'utter_thanks', 'intent': 'thanks', 'entities': []}]
+
+
+All messages (at the top):
+
+
+## Generated Story -5632315017017756258
+* thanks
+    - utter_thanks
+
+logging stuff from inner process
+second!
+[{'action': None, 'intent': '', 'entities': []}, {'action': 'action_listen', 'intent': 'greet', 'entities': []}]
+
+
+All messages (at the top):
+
+
+## Generated Story -3186287128023007156
+* greet
+
+logging stuff from inner process
+
+
+Just entered option 3
+
+
+
+
+All messages (now in 3):
+
+
+## Generated Story -4312088021622025155
+* thanks
+
+second!
+[{'action': None, 'intent': 'thanks', 'entities': []}]
+
+
+All messages (at the top):
+
+
+## Generated Story -4312088021622025155
+* thanks
+
+logging stuff from inner process
+[{'action': None, 'intent': 'thanks', 'entities': []}]
+second!
+[{'action': None, 'intent': 'thanks', 'entities': []}, {'action': 'utter_thanks', 'intent': 'thanks', 'entities': []}]
+
+
+All messages (at the top):
+
+
+## Generated Story 9003138064865671882
+* thanks
+    - utter_thanks
+
+logging stuff from inner process
+logging stuff from inner process
+[{'action': None, 'intent': 'thanks', 'entities': []}, {'action': 'utter_thanks', 'intent': 'thanks', 'entities': []}]
+second!
+[{'action': None, 'intent': 'thanks', 'entities': []}, {'action': 'utter_thanks', 'intent': 'thanks', 'entities': []}, {'action': 'utter_greet', 'intent': 'thanks', 'entities': []}]
+
+
+All messages (at the top):
+
+
+## Generated Story 7409194386301593674
+* thanks
+    - utter_thanks
+    - utter_greet
+
+logging stuff from inner process
+second!
+[{'action': None, 'intent': 'thanks', 'entities': []}, {'action': 'utter_thanks', 'intent': 'thanks', 'entities': []}, {'action': 'utter_greet', 'intent': 'thanks', 'entities': []}, {'action': 'action_listen', 'intent': 'Feeling', 'entities': [{'start': 5, 'end': 8, 'value': 'Depressed', 'entity': 'sentiment', 'confidence': 0.8767401069434594, 'extractor': 'ner_crf', 'processors': ['ner_synonyms']}]}]
+
+
+All messages (at the top):
+
+
+## Generated Story 7590511647046734760
+* thanks
+    - utter_thanks
+    - utter_greet
+* Feeling{"sentiment": "Depressed"}
+    - slot{"sentiment": "Depressed"}
+
+logging stuff from inner process
+second!
+[{'action': None, 'intent': 'thanks', 'entities': []}, {'action': 'utter_thanks', 'intent': 'thanks', 'entities': []}, {'action': 'utter_greet', 'intent': 'thanks', 'entities': []}, {'action': 'action_listen', 'intent': 'Feeling', 'entities': [{'start': 5, 'end': 8, 'value': 'Depressed', 'entity': 'sentiment', 'confidence': 0.8767401069434594, 'extractor': 'ner_crf', 'processors': ['ner_synonyms']}]}, {'action': 'action_feelingReply', 'intent': 'Feeling', 'entities': [{'start': 5, 'end': 8, 'value': 'Depressed', 'entity': 'sentiment', 'confidence': 0.8767401069434594, 'extractor': 'ner_crf', 'processors': ['ner_synonyms']}]}]
+
+
+All messages (at the top):
+
+
+## Generated Story 5885229986830770468
+* thanks
+    - utter_thanks
+    - utter_greet
+* Feeling{"sentiment": "Depressed"}
+    - slot{"sentiment": "Depressed"}
+    - action_feelingReply
+
+logging stuff from inner process
+second!
+[{'action': None, 'intent': 'thanks', 'entities': []}, {'action': 'utter_thanks', 'intent': 'thanks', 'entities': []}, {'action': 'utter_greet', 'intent': 'thanks', 'entities': []}, {'action': 'action_listen', 'intent': 'Feeling', 'entities': [{'start': 5, 'end': 8, 'value': 'Depressed', 'entity': 'sentiment', 'confidence': 0.8767401069434594, 'extractor': 'ner_crf', 'processors': ['ner_synonyms']}]}, {'action': 'action_feelingReply', 'intent': 'Feeling', 'entities': [{'start': 5, 'end': 8, 'value': 'Depressed', 'entity': 'sentiment', 'confidence': 0.8767401069434594, 'extractor': 'ner_crf', 'processors': ['ner_synonyms']}]}, {'action': 'utter_propose_questionnaire', 'intent': 'Feeling', 'entities': [{'start': 5, 'end': 8, 'value': 'Depressed', 'entity': 'sentiment', 'confidence': 0.8767401069434594, 'extractor': 'ner_crf', 'processors': ['ner_synonyms']}]}]
+
+
+All messages (at the top):
+
+
+## Generated Story 797990904498386492
+* thanks
+    - utter_thanks
+    - utter_greet
+* Feeling{"sentiment": "Depressed"}
+    - slot{"sentiment": "Depressed"}
+    - action_feelingReply
+    - utter_propose_questionnaire
+
+logging stuff from inner process
+second!
+[{'action': None, 'intent': 'thanks', 'entities': []}, {'action': 'utter_thanks', 'intent': 'thanks', 'entities': []}, {'action': 'utter_greet', 'intent': 'thanks', 'entities': []}, {'action': 'action_listen', 'intent': 'Feeling', 'entities': [{'start': 5, 'end': 8, 'value': 'Depressed', 'entity': 'sentiment', 'confidence': 0.8767401069434594, 'extractor': 'ner_crf', 'processors': ['ner_synonyms']}]}, {'action': 'action_feelingReply', 'intent': 'Feeling', 'entities': [{'start': 5, 'end': 8, 'value': 'Depressed', 'entity': 'sentiment', 'confidence': 0.8767401069434594, 'extractor': 'ner_crf', 'processors': ['ner_synonyms']}]}, {'action': 'utter_propose_questionnaire', 'intent': 'Feeling', 'entities': [{'start': 5, 'end': 8, 'value': 'Depressed', 'entity': 'sentiment', 'confidence': 0.8767401069434594, 'extractor': 'ner_crf', 'processors': ['ner_synonyms']}]}, {'action': 'action_listen', 'intent': 'Feeling', 'entities': []}]
+
+
+All messages (at the top):
+
+
+## Generated Story 8307476443927192536
+* thanks
+    - utter_thanks
+    - utter_greet
+* Feeling{"sentiment": "Depressed"}
+    - slot{"sentiment": "Depressed"}
+    - action_feelingReply
+    - utter_propose_questionnaire
+* Feeling
+
+logging stuff from inner process
+
+
+Just entered option 3
+
+
+
+
+All messages (now in 3):
+
+
+## Generated Story 3248038055269878807
+* thanks
+    - utter_thanks
+    - utter_greet
+* Feeling{"sentiment": "Depressed"}
+    - slot{"sentiment": "Depressed"}
+    - action_feelingReply
+    - utter_propose_questionnaire
+* deny
+
+second!
+[{'action': None, 'intent': 'thanks', 'entities': []}, {'action': 'utter_thanks', 'intent': 'thanks', 'entities': []}, {'action': 'utter_greet', 'intent': 'thanks', 'entities': []}, {'action': 'action_listen', 'intent': 'Feeling', 'entities': [{'start': 5, 'end': 8, 'value': 'Depressed', 'entity': 'sentiment', 'confidence': 0.8767401069434594, 'extractor': 'ner_crf', 'processors': ['ner_synonyms']}]}, {'action': 'action_feelingReply', 'intent': 'Feeling', 'entities': [{'start': 5, 'end': 8, 'value': 'Depressed', 'entity': 'sentiment', 'confidence': 0.8767401069434594, 'extractor': 'ner_crf', 'processors': ['ner_synonyms']}]}, {'action': 'utter_propose_questionnaire', 'intent': 'deny', 'entities': []}]
+
+
+All messages (at the top):
+
+
+## Generated Story 3248038055269878807
+* thanks
+    - utter_thanks
+    - utter_greet
+* Feeling{"sentiment": "Depressed"}
+    - slot{"sentiment": "Depressed"}
+    - action_feelingReply
+    - utter_propose_questionnaire
+* deny
+
+logging stuff from inner process
+[{'action': None, 'intent': 'thanks', 'entities': []},
+
+{'action': 'utter_thanks', 'intent': 'thanks', 'entities': []},
+
+{'action': 'utter_greet', 'intent': 'thanks', 'entities': []},
+
+{'action': 'action_listen', 'intent': 'Feeling', 'entities': [{'start': 5, 'end': 8, 'value': 'Depressed', 'entity': 'sentiment', 'confidence': 0.8767401069434594, 'extractor': 'ner_crf', 'processors': ['ner_synonyms']}]},
+
+{'action': 'action_feelingReply', 'intent': 'Feeling', 'entities': [{'start': 5, 'end': 8, 'value': 'Depressed', 'entity': 'sentiment', 'confidence': 0.8767401069434594, 'extractor': 'ner_crf', 'processors': ['ner_synonyms']}]},
+
+{'action': 'utter_propose_questionnaire', 'intent': 'deny', 'entities': []}]
+
+second!
+[{'action': None, 'intent': 'thanks', 'entities': []}, {'action': 'utter_thanks', 'intent': 'thanks', 'entities': []}, {'action': 'utter_greet', 'intent': 'thanks', 'entities': []}, {'action': 'action_listen', 'intent': 'Feeling', 'entities': [{'start': 5, 'end': 8, 'value': 'Depressed', 'entity': 'sentiment', 'confidence': 0.8767401069434594, 'extractor': 'ner_crf', 'processors': ['ner_synonyms']}]}, {'action': 'action_feelingReply', 'intent': 'Feeling', 'entities': [{'start': 5, 'end': 8, 'value': 'Depressed', 'entity': 'sentiment', 'confidence': 0.8767401069434594, 'extractor': 'ner_crf', 'processors': ['ner_synonyms']}]}, {'action': 'utter_propose_questionnaire', 'intent': 'deny', 'entities': []}, {'action': 'utter_confirm', 'intent': 'deny', 'entities': []}]
+
+
+All messages (at the top):
+
+
+## Generated Story -5543815915426005202
+* thanks
+    - utter_thanks
+    - utter_greet
+* Feeling{"sentiment": "Depressed"}
+    - slot{"sentiment": "Depressed"}
+    - action_feelingReply
+    - utter_propose_questionnaire
+* deny
+    - utter_confirm
+
+logging stuff from inner process
+second!
+[{'action': None, 'intent': '', 'entities': []}, {'action': 'action_listen', 'intent': 'greet', 'entities': []}]
+
+
+All messages (at the top):
+
+
+## Generated Story -8401785545793230023
+* greet
+
+logging stuff from inner process
+second!
+[{'action': None, 'intent': '', 'entities': []}, {'action': 'action_listen', 'intent': 'greet', 'entities': []}, {'action': 'utter_greet', 'intent': 'greet', 'entities': []}]
+
+
+All messages (at the top):
+
+
+## Generated Story 7521487437070684788
+* greet
+    - utter_greet
+
+logging stuff from inner process
+second!
+[{'action': None, 'intent': '', 'entities': []}, {'action': 'action_listen', 'intent': 'greet', 'entities': []}, {'action': 'utter_greet', 'intent': 'greet', 'entities': []}, {'action': 'action_listen', 'intent': 'Feeling', 'entities': []}]
+
+
+All messages (at the top):
+
+
+## Generated Story -6244887275161716411
+* greet
+    - utter_greet
+* Feeling
+
+logging stuff from inner process
+second!
+[{'action': None, 'intent': '', 'entities': []}, {'action': 'action_listen', 'intent': 'greet', 'entities': []}, {'action': 'utter_greet', 'intent': 'greet', 'entities': []}, {'action': 'action_listen', 'intent': 'Feeling', 'entities': []}, {'action': 'action_feelingReply', 'intent': 'Feeling', 'entities': []}]
+
+
+All messages (at the top):
+
+
+## Generated Story -5318207506856974250
+* greet
+    - utter_greet
+* Feeling
+    - action_feelingReply
+
+logging stuff from inner process
+second!
+[{'action': None, 'intent': '', 'entities': []}, {'action': 'action_listen', 'intent': 'greet', 'entities': []}, {'action': 'utter_greet', 'intent': 'greet', 'entities': []}, {'action': 'action_listen', 'intent': 'Feeling', 'entities': []}, {'action': 'action_feelingReply', 'intent': 'Feeling', 'entities': []}, {'action': 'utter_goodbye', 'intent': 'Feeling', 'entities': []}]
+
+
+All messages (at the top):
+
+
+## Generated Story -2794307980293353696
+* greet
+    - utter_greet
+* Feeling
+    - action_feelingReply
+    - utter_goodbye
+
+logging stuff from inner process
+second!
+[{'action': None, 'intent': '', 'entities': []}, {'action': 'action_listen', 'intent': 'greet', 'entities': []}]
+
+
+All messages (at the top): 
+
+
+## Generated Story 5315027412117503334
+* greet
+
+logging stuff from inner process
+[{'action': None, 'intent': '', 'entities': []}, {'action': 'action_listen', 'intent': 'greet', 'entities': []}]
+second!
+[{'action': None, 'intent': '', 'entities': []}, {'action': 'action_listen', 'intent': 'greet', 'entities': []}, {'action': 'action_greet', 'intent': 'greet', 'entities': []}]
+
+
+All messages (at the top): 
+
+
+## Generated Story 1134686439546964997
+* greet
+    - action_greet
+
+logging stuff from inner process
+second!
+[{'action': None, 'intent': '', 'entities': []}, {'action': 'action_listen', 'intent': 'greet', 'entities': []}]
+
+
+All messages (at the top): 
+
+
+## Generated Story 7349479999609770375
+* greet
+
+logging stuff from inner process
+logging stuff from inner process
+[{'action': None, 'intent': '', 'entities': []}, {'action': 'action_listen', 'intent': 'greet', 'entities': []}]
+second!
+[{'action': None, 'intent': '', 'entities': []}, {'action': 'action_listen', 'intent': 'greet', 'entities': []}, {'action': 'utter_confirm', 'intent': 'greet', 'entities': []}]
+
+
+All messages (at the top): 
+
+
+## Generated Story -344092686248069297
+* greet
+    - utter_confirm
+
+logging stuff from inner process
+second!
+[{'action': None, 'intent': '', 'entities': []}, {'action': 'action_listen', 'intent': 'greet', 'entities': []}, {'action': 'utter_confirm', 'intent': 'greet', 'entities': []}, {'action': 'action_listen', 'intent': 'Feeling', 'entities': [{'start': 5, 'end': 8, 'value': 'Depressed', 'entity': 'sentiment', 'confidence': 0.8767401069434594, 'extractor': 'ner_crf', 'processors': ['ner_synonyms']}]}]
+
+
+All messages (at the top): 
+
+
+## Generated Story -734663095935431037
+* greet
+    - utter_confirm
+* Feeling{"sentiment": "Depressed"}
+    - slot{"sentiment": "Depressed"}
+
+logging stuff from inner process
+second!
+[{'action': None, 'intent': '', 'entities': []}, {'action': 'action_listen', 'intent': 'greet', 'entities': []}, {'action': 'utter_confirm', 'intent': 'greet', 'entities': []}, {'action': 'action_listen', 'intent': 'Feeling', 'entities': [{'start': 5, 'end': 8, 'value': 'Depressed', 'entity': 'sentiment', 'confidence': 0.8767401069434594, 'extractor': 'ner_crf', 'processors': ['ner_synonyms']}]}, {'action': 'action_feelingReply', 'intent': 'Feeling', 'entities': [{'start': 5, 'end': 8, 'value': 'Depressed', 'entity': 'sentiment', 'confidence': 0.8767401069434594, 'extractor': 'ner_crf', 'processors': ['ner_synonyms']}]}]
+
+
+All messages (at the top): 
+
+
+## Generated Story 1675257873003818821
+* greet
+    - utter_confirm
+* Feeling{"sentiment": "Depressed"}
+    - slot{"sentiment": "Depressed"}
+    - action_feelingReply
+
+logging stuff from inner process
+second!
+[{'action': None, 'intent': '', 'entities': []}, {'action': 'action_listen', 'intent': 'greet', 'entities': []}]
+
+
+All messages (at the top): 
+
+
+## Generated Story 4390089193906447247
+* greet
+
+logging stuff from inner process
+second!
+[{'action': None, 'intent': '', 'entities': []}, {'action': 'action_listen', 'intent': 'greet', 'entities': []}]
+
+
+All messages (at the top): 
+
+
+## Generated Story 863973405779565390
+* greet
+
+logging stuff from inner process
+second!
+[{'action': None, 'intent': '', 'entities': []}, {'action': 'action_listen', 'intent': 'greet', 'entities': []}, {'action': 'utter_greet', 'intent': 'greet', 'entities': []}]
+
+
+All messages (at the top): 
+
+
+## Generated Story -3769692732741673342
+* greet
+    - utter_greet
+
+logging stuff from inner process
+second!
+[{'action': None, 'intent': '', 'entities': []}, {'action': 'action_listen', 'intent': 'greet', 'entities': []}, {'action': 'utter_greet', 'intent': 'greet', 'entities': []}, {'action': 'action_listen', 'intent': 'expressFeeling', 'entities': [{'start': 5, 'end': 8, 'value': 'Depressed', 'entity': 'sentiment', 'confidence': 0.8626550096709263, 'extractor': 'ner_crf', 'processors': ['ner_synonyms']}]}]
+
+
+All messages (at the top): 
+
+
+## Generated Story 8740841033789968145
+* greet
+    - utter_greet
+* expressFeeling{"sentiment": "Depressed"}
+    - slot{"sentiment": "Depressed"}
+
+logging stuff from inner process
+second!
+[{'action': None, 'intent': '', 'entities': []}, {'action': 'action_listen', 'intent': 'greet', 'entities': []}, {'action': 'utter_greet', 'intent': 'greet', 'entities': []}, {'action': 'action_listen', 'intent': 'expressFeeling', 'entities': [{'start': 5, 'end': 8, 'value': 'Depressed', 'entity': 'sentiment', 'confidence': 0.8626550096709263, 'extractor': 'ner_crf', 'processors': ['ner_synonyms']}]}, {'action': 'reply_to_feeling', 'intent': 'expressFeeling', 'entities': [{'start': 5, 'end': 8, 'value': 'Depressed', 'entity': 'sentiment', 'confidence': 0.8626550096709263, 'extractor': 'ner_crf', 'processors': ['ner_synonyms']}]}]
+
+
+All messages (at the top): 
+
+
+## Generated Story -116134025686450083
+* greet
+    - utter_greet
+* expressFeeling{"sentiment": "Depressed"}
+    - slot{"sentiment": "Depressed"}
+    - reply_to_feeling
+
+logging stuff from inner process
+second!
+[{'action': None, 'intent': '', 'entities': []}, {'action': 'action_listen', 'intent': 'greet', 'entities': []}, {'action': 'utter_greet', 'intent': 'greet', 'entities': []}, {'action': 'action_listen', 'intent': 'expressFeeling', 'entities': [{'start': 5, 'end': 8, 'value': 'Depressed', 'entity': 'sentiment', 'confidence': 0.8626550096709263, 'extractor': 'ner_crf', 'processors': ['ner_synonyms']}]}, {'action': 'reply_to_feeling', 'intent': 'expressFeeling', 'entities': [{'start': 5, 'end': 8, 'value': 'Depressed', 'entity': 'sentiment', 'confidence': 0.8626550096709263, 'extractor': 'ner_crf', 'processors': ['ner_synonyms']}]}, {'action': 'utter_propose_questionnaire', 'intent': 'expressFeeling', 'entities': [{'start': 5, 'end': 8, 'value': 'Depressed', 'entity': 'sentiment', 'confidence': 0.8626550096709263, 'extractor': 'ner_crf', 'processors': ['ner_synonyms']}]}]
+
+
+All messages (at the top): 
+
+
+## Generated Story -8493682309993306876
+* greet
+    - utter_greet
+* expressFeeling{"sentiment": "Depressed"}
+    - slot{"sentiment": "Depressed"}
+    - reply_to_feeling
+    - utter_propose_questionnaire
+
+logging stuff from inner process
+second!
+[{'action': None, 'intent': '', 'entities': []}, {'action': 'action_listen', 'intent': 'greet', 'entities': []}, {'action': 'utter_greet', 'intent': 'greet', 'entities': []}, {'action': 'action_listen', 'intent': 'expressFeeling', 'entities': [{'start': 5, 'end': 8, 'value': 'Depressed', 'entity': 'sentiment', 'confidence': 0.8626550096709263, 'extractor': 'ner_crf', 'processors': ['ner_synonyms']}]}, {'action': 'reply_to_feeling', 'intent': 'expressFeeling', 'entities': [{'start': 5, 'end': 8, 'value': 'Depressed', 'entity': 'sentiment', 'confidence': 0.8626550096709263, 'extractor': 'ner_crf', 'processors': ['ner_synonyms']}]}, {'action': 'utter_propose_questionnaire', 'intent': 'expressFeeling', 'entities': [{'start': 5, 'end': 8, 'value': 'Depressed', 'entity': 'sentiment', 'confidence': 0.8626550096709263, 'extractor': 'ner_crf', 'processors': ['ner_synonyms']}]}, {'action': 'action_listen', 'intent': 'deny', 'entities': []}]
+
+
+All messages (at the top): 
+
+
+## Generated Story 4527351769043114518
+* greet
+    - utter_greet
+* expressFeeling{"sentiment": "Depressed"}
+    - slot{"sentiment": "Depressed"}
+    - reply_to_feeling
+    - utter_propose_questionnaire
+* deny
+
+logging stuff from inner process
+second!
+[{'action': None, 'intent': '', 'entities': []}, {'action': 'action_listen', 'intent': 'greet', 'entities': []}, {'action': 'utter_greet', 'intent': 'greet', 'entities': []}, {'action': 'action_listen', 'intent': 'expressFeeling', 'entities': [{'start': 5, 'end': 8, 'value': 'Depressed', 'entity': 'sentiment', 'confidence': 0.8626550096709263, 'extractor': 'ner_crf', 'processors': ['ner_synonyms']}]}, {'action': 'reply_to_feeling', 'intent': 'expressFeeling', 'entities': [{'start': 5, 'end': 8, 'value': 'Depressed', 'entity': 'sentiment', 'confidence': 0.8626550096709263, 'extractor': 'ner_crf', 'processors': ['ner_synonyms']}]}, {'action': 'utter_propose_questionnaire', 'intent': 'expressFeeling', 'entities': [{'start': 5, 'end': 8, 'value': 'Depressed', 'entity': 'sentiment', 'confidence': 0.8626550096709263, 'extractor': 'ner_crf', 'processors': ['ner_synonyms']}]}, {'action': 'action_listen', 'intent': 'deny', 'entities': []}, {'action': 'respond_deny', 'intent': 'deny', 'entities': []}]
+
+
+All messages (at the top): 
+
+
+## Generated Story -4098044731748411763
+* greet
+    - utter_greet
+* expressFeeling{"sentiment": "Depressed"}
+    - slot{"sentiment": "Depressed"}
+    - reply_to_feeling
+    - utter_propose_questionnaire
+* deny
+    - respond_deny
+
+logging stuff from inner process
+second!
+[{'action': 'action_listen', 'intent': 'greet', 'entities': []}, {'action': 'utter_greet', 'intent': 'greet', 'entities': []}, {'action': 'action_listen', 'intent': 'expressFeeling', 'entities': [{'start': 5, 'end': 8, 'value': 'Depressed', 'entity': 'sentiment', 'confidence': 0.8626550096709263, 'extractor': 'ner_crf', 'processors': ['ner_synonyms']}]}, {'action': 'reply_to_feeling', 'intent': 'expressFeeling', 'entities': [{'start': 5, 'end': 8, 'value': 'Depressed', 'entity': 'sentiment', 'confidence': 0.8626550096709263, 'extractor': 'ner_crf', 'processors': ['ner_synonyms']}]}, {'action': 'utter_propose_questionnaire', 'intent': 'expressFeeling', 'entities': [{'start': 5, 'end': 8, 'value': 'Depressed', 'entity': 'sentiment', 'confidence': 0.8626550096709263, 'extractor': 'ner_crf', 'processors': ['ner_synonyms']}]}, {'action': 'action_listen', 'intent': 'deny', 'entities': []}, {'action': 'respond_deny', 'intent': 'deny', 'entities': []}, {'action': 'utter_ask_if_end', 'intent': 'deny', 'entities': []}]
+
+
+All messages (at the top): 
+
+
+## Generated Story 7317511240893887234
+* greet
+    - utter_greet
+* expressFeeling{"sentiment": "Depressed"}
+    - slot{"sentiment": "Depressed"}
+    - reply_to_feeling
+    - utter_propose_questionnaire
+* deny
+    - respond_deny
+    - utter_ask_if_end
+
+logging stuff from inner process
+second!
+[{'action': 'utter_greet', 'intent': 'greet', 'entities': []}, {'action': 'action_listen', 'intent': 'expressFeeling', 'entities': [{'start': 5, 'end': 8, 'value': 'Depressed', 'entity': 'sentiment', 'confidence': 0.8626550096709263, 'extractor': 'ner_crf', 'processors': ['ner_synonyms']}]}, {'action': 'reply_to_feeling', 'intent': 'expressFeeling', 'entities': [{'start': 5, 'end': 8, 'value': 'Depressed', 'entity': 'sentiment', 'confidence': 0.8626550096709263, 'extractor': 'ner_crf', 'processors': ['ner_synonyms']}]}, {'action': 'utter_propose_questionnaire', 'intent': 'expressFeeling', 'entities': [{'start': 5, 'end': 8, 'value': 'Depressed', 'entity': 'sentiment', 'confidence': 0.8626550096709263, 'extractor': 'ner_crf', 'processors': ['ner_synonyms']}]}, {'action': 'action_listen', 'intent': 'deny', 'entities': []}, {'action': 'respond_deny', 'intent': 'deny', 'entities': []}, {'action': 'utter_ask_if_end', 'intent': 'deny', 'entities': []}, {'action': 'action_listen', 'intent': 'affirm', 'entities': []}]
+
+
+All messages (at the top): 
+
+
+## Generated Story -3641002705745211568
+* greet
+    - utter_greet
+* expressFeeling{"sentiment": "Depressed"}
+    - slot{"sentiment": "Depressed"}
+    - reply_to_feeling
+    - utter_propose_questionnaire
+* deny
+    - respond_deny
+    - utter_ask_if_end
+* affirm
+
+logging stuff from inner process
+[{'action': 'utter_greet', 'intent': 'greet', 'entities': []}, {'action': 'action_listen', 'intent': 'expressFeeling', 'entities': [{'start': 5, 'end': 8, 'value': 'Depressed', 'entity': 'sentiment', 'confidence': 0.8626550096709263, 'extractor': 'ner_crf', 'processors': ['ner_synonyms']}]}, {'action': 'reply_to_feeling', 'intent': 'expressFeeling', 'entities': [{'start': 5, 'end': 8, 'value': 'Depressed', 'entity': 'sentiment', 'confidence': 0.8626550096709263, 'extractor': 'ner_crf', 'processors': ['ner_synonyms']}]}, {'action': 'utter_propose_questionnaire', 'intent': 'expressFeeling', 'entities': [{'start': 5, 'end': 8, 'value': 'Depressed', 'entity': 'sentiment', 'confidence': 0.8626550096709263, 'extractor': 'ner_crf', 'processors': ['ner_synonyms']}]}, {'action': 'action_listen', 'intent': 'deny', 'entities': []}, {'action': 'respond_deny', 'intent': 'deny', 'entities': []}, {'action': 'utter_ask_if_end', 'intent': 'deny', 'entities': []}, {'action': 'action_listen', 'intent': 'affirm', 'entities': []}]
+second!
+[{'action': 'action_listen', 'intent': 'expressFeeling', 'entities': [{'start': 5, 'end': 8, 'value': 'Depressed', 'entity': 'sentiment', 'confidence': 0.8626550096709263, 'extractor': 'ner_crf', 'processors': ['ner_synonyms']}]}, {'action': 'reply_to_feeling', 'intent': 'expressFeeling', 'entities': [{'start': 5, 'end': 8, 'value': 'Depressed', 'entity': 'sentiment', 'confidence': 0.8626550096709263, 'extractor': 'ner_crf', 'processors': ['ner_synonyms']}]}, {'action': 'utter_propose_questionnaire', 'intent': 'expressFeeling', 'entities': [{'start': 5, 'end': 8, 'value': 'Depressed', 'entity': 'sentiment', 'confidence': 0.8626550096709263, 'extractor': 'ner_crf', 'processors': ['ner_synonyms']}]}, {'action': 'action_listen', 'intent': 'deny', 'entities': []}, {'action': 'respond_deny', 'intent': 'deny', 'entities': []}, {'action': 'utter_ask_if_end', 'intent': 'deny', 'entities': []}, {'action': 'action_listen', 'intent': 'affirm', 'entities': []}, {'action': 'utter_propose_questionnaire', 'intent': 'affirm', 'entities': []}]
+
+
+All messages (at the top): 
+
+
+## Generated Story -217679362048427438
+* greet
+    - utter_greet
+* expressFeeling{"sentiment": "Depressed"}
+    - slot{"sentiment": "Depressed"}
+    - reply_to_feeling
+    - utter_propose_questionnaire
+* deny
+    - respond_deny
+    - utter_ask_if_end
+* affirm
+    - utter_propose_questionnaire
+
+logging stuff from inner process
+Stories got exported to '/Users/joseph/Desktop/dialogueClassesRefined/flask_active/rasabot/data/stories/stories.md'.
+second!
+[{'action': None, 'intent': '', 'entities': []}, {'action': 'action_listen', 'intent': 'greet', 'entities': []}]
+
+
+All messages (at the top): 
+
+
+## Generated Story 3224014411869949155
+* greet
+
+logging stuff from inner process
+second!
+[{'action': None, 'intent': '', 'entities': []}, {'action': 'action_listen', 'intent': 'greet', 'entities': []}, {'action': 'utter_greet', 'intent': 'greet', 'entities': []}]
+
+
+All messages (at the top): 
+
+
+## Generated Story -2058339529801857347
+* greet
+    - utter_greet
+
+logging stuff from inner process
+second!
+[{'action': None, 'intent': '', 'entities': []}, {'action': 'action_listen', 'intent': 'greet', 'entities': []}, {'action': 'utter_greet', 'intent': 'greet', 'entities': []}, {'action': 'action_listen', 'intent': 'expressFeeling', 'entities': [{'start': 19, 'end': 23, 'value': 'Depressed', 'entity': 'sentiment', 'confidence': 0.7695916991091577, 'extractor': 'ner_crf', 'processors': ['ner_synonyms']}]}]
+
+
+All messages (at the top): 
+
+
+## Generated Story 7419311829342719264
+* greet
+    - utter_greet
+* expressFeeling{"sentiment": "Depressed"}
+    - slot{"sentiment": "Depressed"}
+
+logging stuff from inner process
+[{'action': None, 'intent': '', 'entities': []}, {'action': 'action_listen', 'intent': 'greet', 'entities': []}, {'action': 'utter_greet', 'intent': 'greet', 'entities': []}, {'action': 'action_listen', 'intent': 'expressFeeling', 'entities': [{'start': 19, 'end': 23, 'value': 'Depressed', 'entity': 'sentiment', 'confidence': 0.7695916991091577, 'extractor': 'ner_crf', 'processors': ['ner_synonyms']}]}]
+second!
+[{'action': None, 'intent': '', 'entities': []}, {'action': 'action_listen', 'intent': 'greet', 'entities': []}, {'action': 'utter_greet', 'intent': 'greet', 'entities': []}, {'action': 'action_listen', 'intent': 'expressFeeling', 'entities': [{'start': 19, 'end': 23, 'value': 'Depressed', 'entity': 'sentiment', 'confidence': 0.7695916991091577, 'extractor': 'ner_crf', 'processors': ['ner_synonyms']}]}, {'action': 'utter_greet', 'intent': 'expressFeeling', 'entities': [{'start': 19, 'end': 23, 'value': 'Depressed', 'entity': 'sentiment', 'confidence': 0.7695916991091577, 'extractor': 'ner_crf', 'processors': ['ner_synonyms']}]}]
+
+
+All messages (at the top): 
+
+
+## Generated Story 8849854753069221031
+* greet
+    - utter_greet
+* expressFeeling{"sentiment": "Depressed"}
+    - slot{"sentiment": "Depressed"}
+    - utter_greet
+
+logging stuff from inner process
+logging stuff from inner process
+[{'action': None, 'intent': '', 'entities': []}, {'action': 'action_listen', 'intent': 'greet', 'entities': []}, {'action': 'utter_greet', 'intent': 'greet', 'entities': []}, {'action': 'action_listen', 'intent': 'expressFeeling', 'entities': [{'start': 19, 'end': 23, 'value': 'Depressed', 'entity': 'sentiment', 'confidence': 0.7695916991091577, 'extractor': 'ner_crf', 'processors': ['ner_synonyms']}]}, {'action': 'utter_greet', 'intent': 'expressFeeling', 'entities': [{'start': 19, 'end': 23, 'value': 'Depressed', 'entity': 'sentiment', 'confidence': 0.7695916991091577, 'extractor': 'ner_crf', 'processors': ['ner_synonyms']}]}]
+second!
+[{'action': None, 'intent': '', 'entities': []}, {'action': 'action_listen', 'intent': 'greet', 'entities': []}]
+
+
+All messages (at the top): 
+
+
+## Generated Story 274638121828489966
+* greet
+
+logging stuff from inner process
+logging stuff from inner process
+second!
+[{'action': None, 'intent': '', 'entities': []}, {'action': 'action_listen', 'intent': 'greet', 'entities': []}]
+
+
+All messages (at the top): 
+
+
+## Generated Story 5022977805349689098
+* greet
+
+logging stuff from inner process
+second!
+[{'action': None, 'intent': '', 'entities': []}, {'action': 'action_listen', 'intent': 'greet', 'entities': []}]
+
+
+All messages (at the top): 
+
+
+## Generated Story 5232374039165191358
+* greet
+
+logging stuff from inner process
+second!
+[{'action': None, 'intent': '', 'entities': []}, {'action': 'action_listen', 'intent': 'greet', 'entities': []}, {'action': 'utter_greet', 'intent': 'greet', 'entities': []}]
+
+
+All messages (at the top): 
+
+
+## Generated Story -4446433449021749249
+* greet
+    - utter_greet
+
+logging stuff from inner process
+second!
+[{'action': None, 'intent': '', 'entities': []}, {'action': 'action_listen', 'intent': 'greet', 'entities': []}, {'action': 'utter_greet', 'intent': 'greet', 'entities': []}, {'action': 'action_listen', 'intent': 'expressFeeling', 'entities': [{'start': 11, 'end': 14, 'value': 'Depressed', 'entity': 'sentiment', 'confidence': 0.9311331918606774, 'extractor': 'ner_crf', 'processors': ['ner_synonyms']}]}]
+
+
+All messages (at the top): 
+
+
+## Generated Story 548230975459047970
+* greet
+    - utter_greet
+* expressFeeling{"sentiment": "Depressed"}
+    - slot{"sentiment": "Depressed"}
+
+logging stuff from inner process
+[{'action': None, 'intent': '', 'entities': []}, {'action': 'action_listen', 'intent': 'greet', 'entities': []}, {'action': 'utter_greet', 'intent': 'greet', 'entities': []}, {'action': 'action_listen', 'intent': 'expressFeeling', 'entities': [{'start': 11, 'end': 14, 'value': 'Depressed', 'entity': 'sentiment', 'confidence': 0.9311331918606774, 'extractor': 'ner_crf', 'processors': ['ner_synonyms']}]}]
+second!
+[{'action': None, 'intent': '', 'entities': []}, {'action': 'action_listen', 'intent': 'greet', 'entities': []}, {'action': 'utter_greet', 'intent': 'greet', 'entities': []}, {'action': 'action_listen', 'intent': 'expressFeeling', 'entities': [{'start': 11, 'end': 14, 'value': 'Depressed', 'entity': 'sentiment', 'confidence': 0.9311331918606774, 'extractor': 'ner_crf', 'processors': ['ner_synonyms']}]}, {'action': 'respond_howareyou', 'intent': 'expressFeeling', 'entities': [{'start': 11, 'end': 14, 'value': 'Depressed', 'entity': 'sentiment', 'confidence': 0.9311331918606774, 'extractor': 'ner_crf', 'processors': ['ner_synonyms']}]}]
+
+
+All messages (at the top): 
+
+
+## Generated Story -8016853262449212419
+* greet
+    - utter_greet
+* expressFeeling{"sentiment": "Depressed"}
+    - slot{"sentiment": "Depressed"}
+    - respond_howareyou
+
+logging stuff from inner process
+second!
+[{'action': None, 'intent': '', 'entities': []}, {'action': 'action_listen', 'intent': 'greet', 'entities': []}]
+
+
+All messages (at the top): 
+
+
+## Generated Story 3441385951599034086
+* greet
+
+logging stuff from inner process
+second!
+[{'action': None, 'intent': '', 'entities': []}, {'action': 'action_listen', 'intent': 'greet', 'entities': []}, {'action': 'utter_greet', 'intent': 'greet', 'entities': []}]
+
+
+All messages (at the top): 
+
+
+## Generated Story 6138553578644435265
+* greet
+    - utter_greet
+
+logging stuff from inner process
+second!
+[{'action': None, 'intent': '', 'entities': []}, {'action': 'action_listen', 'intent': 'greet', 'entities': []}, {'action': 'utter_greet', 'intent': 'greet', 'entities': []}, {'action': 'action_listen', 'intent': 'expressFeeling', 'entities': [{'start': 5, 'end': 8, 'value': 'Depressed', 'entity': 'sentiment', 'confidence': 0.8567632634172738, 'extractor': 'ner_crf', 'processors': ['ner_synonyms']}]}]
+
+
+All messages (at the top): 
+
+
+## Generated Story 1857053750155810514
+* greet
+    - utter_greet
+* expressFeeling{"sentiment": "Depressed"}
+    - slot{"sentiment": "Depressed"}
+
+logging stuff from inner process
+[{'action': None, 'intent': '', 'entities': []}, {'action': 'action_listen', 'intent': 'greet', 'entities': []}, {'action': 'utter_greet', 'intent': 'greet', 'entities': []}, {'action': 'action_listen', 'intent': 'expressFeeling', 'entities': [{'start': 5, 'end': 8, 'value': 'Depressed', 'entity': 'sentiment', 'confidence': 0.8567632634172738, 'extractor': 'ner_crf', 'processors': ['ner_synonyms']}]}]
+second!
+[{'action': None, 'intent': '', 'entities': []}, {'action': 'action_listen', 'intent': 'greet', 'entities': []}, {'action': 'utter_greet', 'intent': 'greet', 'entities': []}, {'action': 'action_listen', 'intent': 'expressFeeling', 'entities': [{'start': 5, 'end': 8, 'value': 'Depressed', 'entity': 'sentiment', 'confidence': 0.8567632634172738, 'extractor': 'ner_crf', 'processors': ['ner_synonyms']}]}, {'action': 'utter_greet', 'intent': 'expressFeeling', 'entities': [{'start': 5, 'end': 8, 'value': 'Depressed', 'entity': 'sentiment', 'confidence': 0.8567632634172738, 'extractor': 'ner_crf', 'processors': ['ner_synonyms']}]}]
+
+
+All messages (at the top): 
+
+
+## Generated Story -8417959647172791037
+* greet
+    - utter_greet
+* expressFeeling{"sentiment": "Depressed"}
+    - slot{"sentiment": "Depressed"}
+    - utter_greet
+
+logging stuff from inner process
+[{'action': None, 'intent': '', 'entities': []}, {'action': 'action_listen', 'intent': 'greet', 'entities': []}, {'action': 'utter_greet', 'intent': 'greet', 'entities': []}, {'action': 'action_listen', 'intent': 'expressFeeling', 'entities': [{'start': 5, 'end': 8, 'value': 'Depressed', 'entity': 'sentiment', 'confidence': 0.8567632634172738, 'extractor': 'ner_crf', 'processors': ['ner_synonyms']}]}, {'action': 'utter_greet', 'intent': 'expressFeeling', 'entities': [{'start': 5, 'end': 8, 'value': 'Depressed', 'entity': 'sentiment', 'confidence': 0.8567632634172738, 'extractor': 'ner_crf', 'processors': ['ner_synonyms']}]}]
+second!
+[{'action': None, 'intent': '', 'entities': []}, {'action': 'action_listen', 'intent': 'greet', 'entities': []}, {'action': 'utter_greet', 'intent': 'greet', 'entities': []}, {'action': 'action_listen', 'intent': 'expressFeeling', 'entities': [{'start': 5, 'end': 8, 'value': 'Depressed', 'entity': 'sentiment', 'confidence': 0.8567632634172738, 'extractor': 'ner_crf', 'processors': ['ner_synonyms']}]}, {'action': 'utter_greet', 'intent': 'expressFeeling', 'entities': [{'start': 5, 'end': 8, 'value': 'Depressed', 'entity': 'sentiment', 'confidence': 0.8567632634172738, 'extractor': 'ner_crf', 'processors': ['ner_synonyms']}]}, {'action': 'action_listen', 'intent': 'requestDialogues', 'entities': []}]
+
+
+All messages (at the top): 
+
+
+## Generated Story -3880897258855397692
+* greet
+    - utter_greet
+* expressFeeling{"sentiment": "Depressed"}
+    - slot{"sentiment": "Depressed"}
+    - utter_greet
+* requestDialogues
+
+logging stuff from inner process
+second!
+[{'action': None, 'intent': '', 'entities': []}, {'action': 'action_listen', 'intent': 'greet', 'entities': []}]
+
+
+All messages (at the top): 
+
+
+## Generated Story -7246524232294250903
+* greet
+
+logging stuff from inner process
+logging stuff from inner process
+[{'action': None, 'intent': '', 'entities': []}, {'action': 'action_listen', 'intent': 'greet', 'entities': []}]
+second!
+[{'action': None, 'intent': '', 'entities': []}, {'action': 'action_listen', 'intent': 'greet', 'entities': []}, {'action': 'action_listen', 'intent': 'expressSelfHarm', 'entities': []}]
+
+
+All messages (at the top): 
+
+
+## Generated Story 7103070765730408955
+* greet
+* expressSelfHarm
+
+logging stuff from inner process
+second!
+[{'action': None, 'intent': '', 'entities': []}, {'action': 'action_listen', 'intent': 'greet', 'entities': []}]
+
+
+All messages (at the top): 
+
+
+## Generated Story 6170001227342480894
+* greet
+
+logging stuff from inner process
+second!
+[{'action': None, 'intent': '', 'entities': []}, {'action': 'action_listen', 'intent': 'greet', 'entities': []}, {'action': 'utter_greet', 'intent': 'greet', 'entities': []}]
+
+
+All messages (at the top): 
+
+
+## Generated Story -430810568598033847
+* greet
+    - utter_greet
+
+logging stuff from inner process
+second!
+[{'action': None, 'intent': '', 'entities': []}, {'action': 'action_listen', 'intent': 'greet', 'entities': []}, {'action': 'utter_greet', 'intent': 'greet', 'entities': []}, {'action': 'action_listen', 'intent': 'askHowBotIs', 'entities': []}]
+
+
+All messages (at the top): 
+
+
+## Generated Story -4542949801556495420
+* greet
+    - utter_greet
+* askHowBotIs
+
+logging stuff from inner process
+logging stuff from inner process
+second!
+[{'action': None, 'intent': '', 'entities': []}, {'action': 'action_listen', 'intent': 'greet', 'entities': []}]
+
+
+All messages (at the top): 
+
+
+## Generated Story -2731791777475028285
+* greet
+
+logging stuff from inner process
+logging stuff from inner process
+second!
+[{'action': None, 'intent': '', 'entities': []}, {'action': 'action_listen', 'intent': 'greet', 'entities': []}]
+
+
+All messages (at the top): 
+
+
+## Generated Story -8815136575150968324
+* greet
+
+logging stuff from inner process
+second!
+[{'action': None, 'intent': '', 'entities': []}, {'action': 'action_listen', 'intent': 'greet', 'entities': []}, {'action': 'utter_greet', 'intent': 'greet', 'entities': []}]
+
+
+All messages (at the top): 
+
+
+## Generated Story 4895805461350059271
+* greet
+    - utter_greet
+
+logging stuff from inner process
+second!
+[{'action': None, 'intent': '', 'entities': []}, {'action': 'action_listen', 'intent': 'greet', 'entities': []}, {'action': 'utter_greet', 'intent': 'greet', 'entities': []}, {'action': 'action_listen', 'intent': 'expressFeeling', 'entities': [{'start': 5, 'end': 8, 'value': 'Depressed', 'entity': 'sentiment', 'confidence': 0.8567632634172738, 'extractor': 'ner_crf', 'processors': ['ner_synonyms']}]}]
+
+
+All messages (at the top): 
+
+
+## Generated Story 3773310522238638163
+* greet
+    - utter_greet
+* expressFeeling{"sentiment": "Depressed"}
+    - slot{"sentiment": "Depressed"}
+
+logging stuff from inner process
+[{'action': None, 'intent': '', 'entities': []}, {'action': 'action_listen', 'intent': 'greet', 'entities': []}, {'action': 'utter_greet', 'intent': 'greet', 'entities': []}, {'action': 'action_listen', 'intent': 'expressFeeling', 'entities': [{'start': 5, 'end': 8, 'value': 'Depressed', 'entity': 'sentiment', 'confidence': 0.8567632634172738, 'extractor': 'ner_crf', 'processors': ['ner_synonyms']}]}]
+second!
+[{'action': None, 'intent': '', 'entities': []}, {'action': 'action_listen', 'intent': 'greet', 'entities': []}, {'action': 'utter_greet', 'intent': 'greet', 'entities': []}, {'action': 'action_listen', 'intent': 'expressFeeling', 'entities': [{'start': 5, 'end': 8, 'value': 'Depressed', 'entity': 'sentiment', 'confidence': 0.8567632634172738, 'extractor': 'ner_crf', 'processors': ['ner_synonyms']}]}, {'action': 'utter_greet', 'intent': 'expressFeeling', 'entities': [{'start': 5, 'end': 8, 'value': 'Depressed', 'entity': 'sentiment', 'confidence': 0.8567632634172738, 'extractor': 'ner_crf', 'processors': ['ner_synonyms']}]}]
+
+
+All messages (at the top): 
+
+
+## Generated Story -449945665549907198
+* greet
+    - utter_greet
+* expressFeeling{"sentiment": "Depressed"}
+    - slot{"sentiment": "Depressed"}
+    - utter_greet
+
+logging stuff from inner process
+Stories got exported to '/Users/joseph/Desktop/Bot_Final_Submission/flask_active/rasabot/data/stories/stories.md'.
+second!
+[{'action': None, 'intent': '', 'entities': []}, {'action': 'action_listen', 'intent': 'greet', 'entities': []}]
+
+
+All messages (at the top): 
+
+
+## Generated Story 4096492084662546636
+* greet
+
+logging stuff from inner process
+second!
+[{'action': None, 'intent': '', 'entities': []}, {'action': 'action_listen', 'intent': 'greet', 'entities': []}]
+
+
+All messages (at the top): 
+
+
+## Generated Story 6705688195153438011
+* greet
+
+logging stuff from inner process
+[{'action': None, 'intent': '', 'entities': []}, {'action': 'action_listen', 'intent': 'greet', 'entities': []}]
+second!
+[{'action': None, 'intent': '', 'entities': []}, {'action': 'action_listen', 'intent': 'greet', 'entities': []}]
+
+
+All messages (at the top): 
+
+
+## Generated Story 1314885390390209991
+* greet
+
+logging stuff from inner process
+second!
+[{'action': None, 'intent': '', 'entities': []}, {'action': 'action_listen', 'intent': 'greet', 'entities': []}, {'action': 'utter_greet', 'intent': 'greet', 'entities': []}]
+
+
+All messages (at the top): 
+
+
+## Generated Story 5615194217572673006
+* greet
+    - utter_greet
+
+logging stuff from inner process
+second!
+[{'action': None, 'intent': '', 'entities': []}, {'action': 'action_listen', 'intent': 'greet', 'entities': []}, {'action': 'utter_greet', 'intent': 'greet', 'entities': []}, {'action': 'action_listen', 'intent': 'expressFeeling', 'entities': [{'start': 5, 'end': 8, 'value': 'Depressed', 'entity': 'sentiment', 'confidence': 0.8567632634172738, 'extractor': 'ner_crf', 'processors': ['ner_synonyms']}]}]
+
+
+All messages (at the top): 
+
+
+## Generated Story -796707330891352421
+* greet
+    - utter_greet
+* expressFeeling{"sentiment": "Depressed"}
+    - slot{"sentiment": "Depressed"}
+
+logging stuff from inner process
+[{'action': None, 'intent': '', 'entities': []}, {'action': 'action_listen', 'intent': 'greet', 'entities': []}, {'action': 'utter_greet', 'intent': 'greet', 'entities': []}, {'action': 'action_listen', 'intent': 'expressFeeling', 'entities': [{'start': 5, 'end': 8, 'value': 'Depressed', 'entity': 'sentiment', 'confidence': 0.8567632634172738, 'extractor': 'ner_crf', 'processors': ['ner_synonyms']}]}]
+second!
+[{'action': None, 'intent': '', 'entities': []}, {'action': 'action_listen', 'intent': 'greet', 'entities': []}, {'action': 'utter_greet', 'intent': 'greet', 'entities': []}, {'action': 'action_listen', 'intent': 'expressFeeling', 'entities': [{'start': 5, 'end': 8, 'value': 'Depressed', 'entity': 'sentiment', 'confidence': 0.8567632634172738, 'extractor': 'ner_crf', 'processors': ['ner_synonyms']}]}, {'action': 'utter_greet', 'intent': 'expressFeeling', 'entities': [{'start': 5, 'end': 8, 'value': 'Depressed', 'entity': 'sentiment', 'confidence': 0.8567632634172738, 'extractor': 'ner_crf', 'processors': ['ner_synonyms']}]}]
+
+
+All messages (at the top): 
+
+
+## Generated Story 7802752729447361893
+* greet
+    - utter_greet
+* expressFeeling{"sentiment": "Depressed"}
+    - slot{"sentiment": "Depressed"}
+    - utter_greet
+
+logging stuff from inner process
+Stories got exported to '/Users/joseph/Desktop/Bot_Final_Submission/flask_active/rasabot/data/stories/stories.md'.
+second!
+[{'action': None, 'intent': '', 'entities': []}, {'action': 'action_listen', 'intent': 'greet', 'entities': []}]
+
+
+All messages (at the top): 
+
+
+## Generated Story -4883541131444594122
+* greet
+
+logging stuff from inner process
+second!
+[{'action': None, 'intent': '', 'entities': []}, {'action': 'action_listen', 'intent': 'greet', 'entities': []}, {'action': 'utter_greet', 'intent': 'greet', 'entities': []}]
+
+
+All messages (at the top): 
+
+
+## Generated Story 5488227357575615246
+* greet
+    - utter_greet
+
+logging stuff from inner process
+second!
+[{'action': None, 'intent': '', 'entities': []}, {'action': 'action_listen', 'intent': 'greet', 'entities': []}, {'action': 'utter_greet', 'intent': 'greet', 'entities': []}, {'action': 'action_listen', 'intent': 'expressFeeling', 'entities': [{'start': 5, 'end': 8, 'value': 'Depressed', 'entity': 'sentiment', 'confidence': 0.8567632634172738, 'extractor': 'ner_crf', 'processors': ['ner_synonyms']}]}]
+
+
+All messages (at the top): 
+
+
+## Generated Story 4631885026732873033
+* greet
+    - utter_greet
+* expressFeeling{"sentiment": "Depressed"}
+    - slot{"sentiment": "Depressed"}
+
+logging stuff from inner process
+[{'action': None, 'intent': '', 'entities': []}, {'action': 'action_listen', 'intent': 'greet', 'entities': []}, {'action': 'utter_greet', 'intent': 'greet', 'entities': []}, {'action': 'action_listen', 'intent': 'expressFeeling', 'entities': [{'start': 5, 'end': 8, 'value': 'Depressed', 'entity': 'sentiment', 'confidence': 0.8567632634172738, 'extractor': 'ner_crf', 'processors': ['ner_synonyms']}]}]
+second!
+[{'action': None, 'intent': '', 'entities': []}, {'action': 'action_listen', 'intent': 'greet', 'entities': []}, {'action': 'utter_greet', 'intent': 'greet', 'entities': []}, {'action': 'action_listen', 'intent': 'expressFeeling', 'entities': [{'start': 5, 'end': 8, 'value': 'Depressed', 'entity': 'sentiment', 'confidence': 0.8567632634172738, 'extractor': 'ner_crf', 'processors': ['ner_synonyms']}]}, {'action': 'utter_greet', 'intent': 'expressFeeling', 'entities': [{'start': 5, 'end': 8, 'value': 'Depressed', 'entity': 'sentiment', 'confidence': 0.8567632634172738, 'extractor': 'ner_crf', 'processors': ['ner_synonyms']}]}]
+
+
+All messages (at the top): 
+
+
+## Generated Story 64787082429729877
+* greet
+    - utter_greet
+* expressFeeling{"sentiment": "Depressed"}
+    - slot{"sentiment": "Depressed"}
+    - utter_greet
+
+logging stuff from inner process
+Stories got exported to '/Users/joseph/Desktop/Bot_Final_Submission/flask_active/rasabot/data/stories/stories.md'.
+second!
+[{'action': None, 'intent': '', 'entities': []}, {'action': 'action_listen', 'intent': 'greet', 'entities': []}]
+
+
+All messages (at the top): 
+
+
+## Generated Story 7442404374721168972
+* greet
+
+logging stuff from inner process
+second!
+[{'action': None, 'intent': '', 'entities': []}, {'action': 'action_listen', 'intent': 'greet', 'entities': []}, {'action': 'utter_greet', 'intent': 'greet', 'entities': []}]
+
+
+All messages (at the top): 
+
+
+## Generated Story 4752999391727466379
+* greet
+    - utter_greet
+
+logging stuff from inner process
+second!
+[{'action': None, 'intent': '', 'entities': []}, {'action': 'action_listen', 'intent': 'greet', 'entities': []}, {'action': 'utter_greet', 'intent': 'greet', 'entities': []}, {'action': 'action_listen', 'intent': 'expressFeeling', 'entities': [{'start': 5, 'end': 8, 'value': 'Depressed', 'entity': 'sentiment', 'confidence': 0.8567632634172738, 'extractor': 'ner_crf', 'processors': ['ner_synonyms']}]}]
+
+
+All messages (at the top): 
+
+
+## Generated Story -4970369376860378897
+* greet
+    - utter_greet
+* expressFeeling{"sentiment": "Depressed"}
+    - slot{"sentiment": "Depressed"}
+
+logging stuff from inner process
+[{'action': None, 'intent': '', 'entities': []}, {'action': 'action_listen', 'intent': 'greet', 'entities': []}, {'action': 'utter_greet', 'intent': 'greet', 'entities': []}, {'action': 'action_listen', 'intent': 'expressFeeling', 'entities': [{'start': 5, 'end': 8, 'value': 'Depressed', 'entity': 'sentiment', 'confidence': 0.8567632634172738, 'extractor': 'ner_crf', 'processors': ['ner_synonyms']}]}]
+second!
+[{'action': None, 'intent': '', 'entities': []}, {'action': 'action_listen', 'intent': 'greet', 'entities': []}, {'action': 'utter_greet', 'intent': 'greet', 'entities': []}, {'action': 'action_listen', 'intent': 'expressFeeling', 'entities': [{'start': 5, 'end': 8, 'value': 'Depressed', 'entity': 'sentiment', 'confidence': 0.8567632634172738, 'extractor': 'ner_crf', 'processors': ['ner_synonyms']}]}, {'action': 'utter_greet', 'intent': 'expressFeeling', 'entities': [{'start': 5, 'end': 8, 'value': 'Depressed', 'entity': 'sentiment', 'confidence': 0.8567632634172738, 'extractor': 'ner_crf', 'processors': ['ner_synonyms']}]}]
+
+
+All messages (at the top): 
+
+
+## Generated Story 1796315087763944938
+* greet
+    - utter_greet
+* expressFeeling{"sentiment": "Depressed"}
+    - slot{"sentiment": "Depressed"}
+    - utter_greet
+
+logging stuff from inner process
+Stories got exported to '/Users/joseph/Desktop/Bot_Final_Submission/flask_active/rasabot/data/stories/stories.md'.
+second!
+[{'action': None, 'intent': '', 'entities': []}, {'action': 'action_listen', 'intent': 'greet', 'entities': []}]
+
+
+All messages (at the top): 
+
+
+## Generated Story 5975015494670767770
+* greet
+
+logging stuff from inner process
+second!
+[{'action': None, 'intent': '', 'entities': []}, {'action': 'action_listen', 'intent': 'greet', 'entities': []}, {'action': 'utter_greet', 'intent': 'greet', 'entities': []}]
+
+
+All messages (at the top): 
+
+
+## Generated Story 2792513329329654014
+* greet
+    - utter_greet
+
+logging stuff from inner process
+second!
+[{'action': None, 'intent': '', 'entities': []}, {'action': 'action_listen', 'intent': 'greet', 'entities': []}, {'action': 'utter_greet', 'intent': 'greet', 'entities': []}, {'action': 'action_listen', 'intent': 'expressFeeling', 'entities': [{'start': 5, 'end': 8, 'value': 'Depressed', 'entity': 'sentiment', 'confidence': 0.8567632634172738, 'extractor': 'ner_crf', 'processors': ['ner_synonyms']}]}]
+
+
+All messages (at the top): 
+
+
+## Generated Story -2223607676712399565
+* greet
+    - utter_greet
+* expressFeeling{"sentiment": "Depressed"}
+    - slot{"sentiment": "Depressed"}
+
+logging stuff from inner process
+[{'action': None, 'intent': '', 'entities': []}, {'action': 'action_listen', 'intent': 'greet', 'entities': []}, {'action': 'utter_greet', 'intent': 'greet', 'entities': []}, {'action': 'action_listen', 'intent': 'expressFeeling', 'entities': [{'start': 5, 'end': 8, 'value': 'Depressed', 'entity': 'sentiment', 'confidence': 0.8567632634172738, 'extractor': 'ner_crf', 'processors': ['ner_synonyms']}]}]
+second!
+[{'action': None, 'intent': '', 'entities': []}, {'action': 'action_listen', 'intent': 'greet', 'entities': []}]
+
+
+All messages (at the top): 
+
+
+## Generated Story 58603823809028495
+* greet
+
+logging stuff from inner process
+second!
+[{'action': None, 'intent': '', 'entities': []}, {'action': 'action_listen', 'intent': 'greet', 'entities': []}, {'action': 'utter_greet', 'intent': 'greet', 'entities': []}]
+
+
+All messages (at the top): 
+
+
+## Generated Story 6620432686264408028
+* greet
+    - utter_greet
+
+logging stuff from inner process
+second!
+[{'action': None, 'intent': '', 'entities': []}, {'action': 'action_listen', 'intent': 'greet', 'entities': []}, {'action': 'utter_greet', 'intent': 'greet', 'entities': []}, {'action': 'action_listen', 'intent': 'expressFeeling', 'entities': [{'start': 5, 'end': 8, 'value': 'Depressed', 'entity': 'sentiment', 'confidence': 0.8567632634172738, 'extractor': 'ner_crf', 'processors': ['ner_synonyms']}]}]
+
+
+All messages (at the top): 
+
+
+## Generated Story -994044377536444644
+* greet
+    - utter_greet
+* expressFeeling{"sentiment": "Depressed"}
+    - slot{"sentiment": "Depressed"}
+
+logging stuff from inner process
+[{'action': None, 'intent': '', 'entities': []}, {'action': 'action_listen', 'intent': 'greet', 'entities': []}, {'action': 'utter_greet', 'intent': 'greet', 'entities': []}, {'action': 'action_listen', 'intent': 'expressFeeling', 'entities': [{'start': 5, 'end': 8, 'value': 'Depressed', 'entity': 'sentiment', 'confidence': 0.8567632634172738, 'extractor': 'ner_crf', 'processors': ['ner_synonyms']}]}]
+second!
+[{'action': None, 'intent': '', 'entities': []}, {'action': 'action_listen', 'intent': 'greet', 'entities': []}, {'action': 'utter_greet', 'intent': 'greet', 'entities': []}, {'action': 'action_listen', 'intent': 'expressFeeling', 'entities': [{'start': 5, 'end': 8, 'value': 'Depressed', 'entity': 'sentiment', 'confidence': 0.8567632634172738, 'extractor': 'ner_crf', 'processors': ['ner_synonyms']}]}, {'action': 'utter_greet', 'intent': 'expressFeeling', 'entities': [{'start': 5, 'end': 8, 'value': 'Depressed', 'entity': 'sentiment', 'confidence': 0.8567632634172738, 'extractor': 'ner_crf', 'processors': ['ner_synonyms']}]}]
+
+
+All messages (at the top): 
+
+
+## Generated Story -7996914355037496000
+* greet
+    - utter_greet
+* expressFeeling{"sentiment": "Depressed"}
+    - slot{"sentiment": "Depressed"}
+    - utter_greet
+
+logging stuff from inner process
+Stories got exported to '/Users/joseph/Desktop/Bot_Final_Submission/flask_active/rasabot/data/stories/stories.md'.
+second!
+[{'action': None, 'intent': '', 'entities': []}, {'action': 'action_listen', 'intent': 'greet', 'entities': []}]
+
+
+All messages (at the top): 
+
+
+## Generated Story -3793179690997052936
+* greet
+
+logging stuff from inner process
+second!
+[{'action': None, 'intent': '', 'entities': []}, {'action': 'action_listen', 'intent': 'greet', 'entities': []}, {'action': 'utter_greet', 'intent': 'greet', 'entities': []}]
+
+
+All messages (at the top): 
+
+
+## Generated Story 7833678291204983068
+* greet
+    - utter_greet
+
+logging stuff from inner process
+second!
+[{'action': None, 'intent': '', 'entities': []}, {'action': 'action_listen', 'intent': 'greet', 'entities': []}, {'action': 'utter_greet', 'intent': 'greet', 'entities': []}, {'action': 'action_listen', 'intent': 'expressFeeling', 'entities': [{'start': 5, 'end': 8, 'value': 'Depressed', 'entity': 'sentiment', 'confidence': 0.8567632634172738, 'extractor': 'ner_crf', 'processors': ['ner_synonyms']}]}]
+
+
+All messages (at the top): 
+
+
+## Generated Story -7067392631064440239
+* greet
+    - utter_greet
+* expressFeeling{"sentiment": "Depressed"}
+    - slot{"sentiment": "Depressed"}
+
+logging stuff from inner process
+[{'action': None, 'intent': '', 'entities': []}, {'action': 'action_listen', 'intent': 'greet', 'entities': []}, {'action': 'utter_greet', 'intent': 'greet', 'entities': []}, {'action': 'action_listen', 'intent': 'expressFeeling', 'entities': [{'start': 5, 'end': 8, 'value': 'Depressed', 'entity': 'sentiment', 'confidence': 0.8567632634172738, 'extractor': 'ner_crf', 'processors': ['ner_synonyms']}]}]
+second!
+[{'action': None, 'intent': '', 'entities': []}, {'action': 'action_listen', 'intent': 'greet', 'entities': []}, {'action': 'utter_greet', 'intent': 'greet', 'entities': []}, {'action': 'action_listen', 'intent': 'expressFeeling', 'entities': [{'start': 5, 'end': 8, 'value': 'Depressed', 'entity': 'sentiment', 'confidence': 0.8567632634172738, 'extractor': 'ner_crf', 'processors': ['ner_synonyms']}]}, {'action': 'utter_greet', 'intent': 'expressFeeling', 'entities': [{'start': 5, 'end': 8, 'value': 'Depressed', 'entity': 'sentiment', 'confidence': 0.8567632634172738, 'extractor': 'ner_crf', 'processors': ['ner_synonyms']}]}]
+
+
+All messages (at the top): 
+
+
+## Generated Story -1513463615976953986
+* greet
+    - utter_greet
+* expressFeeling{"sentiment": "Depressed"}
+    - slot{"sentiment": "Depressed"}
+    - utter_greet
+
+logging stuff from inner process
+second!
+[{'action': None, 'intent': '', 'entities': []}, {'action': 'action_listen', 'intent': 'greet', 'entities': []}, {'action': 'utter_greet', 'intent': 'greet', 'entities': []}, {'action': 'action_listen', 'intent': 'expressFeeling', 'entities': [{'start': 5, 'end': 8, 'value': 'Depressed', 'entity': 'sentiment', 'confidence': 0.8567632634172738, 'extractor': 'ner_crf', 'processors': ['ner_synonyms']}]}, {'action': 'utter_greet', 'intent': 'expressFeeling', 'entities': [{'start': 5, 'end': 8, 'value': 'Depressed', 'entity': 'sentiment', 'confidence': 0.8567632634172738, 'extractor': 'ner_crf', 'processors': ['ner_synonyms']}]}, {'action': 'action_listen', 'intent': 'expressFeeling', 'entities': [{'start': 5, 'end': 8, 'value': 'Depressed', 'entity': 'sentiment', 'confidence': 0.8567632634172738, 'extractor': 'ner_crf', 'processors': ['ner_synonyms']}]}]
+
+
+All messages (at the top): 
+
+
+## Generated Story 6412813620677626294
+* greet
+    - utter_greet
+* expressFeeling{"sentiment": "Depressed"}
+    - slot{"sentiment": "Depressed"}
+    - utter_greet
+* expressFeeling{"sentiment": "Depressed"}
+    - slot{"sentiment": "Depressed"}
+
+logging stuff from inner process
+[{'action': None, 'intent': '', 'entities': []}, {'action': 'action_listen', 'intent': 'greet', 'entities': []}, {'action': 'utter_greet', 'intent': 'greet', 'entities': []}, {'action': 'action_listen', 'intent': 'expressFeeling', 'entities': [{'start': 5, 'end': 8, 'value': 'Depressed', 'entity': 'sentiment', 'confidence': 0.8567632634172738, 'extractor': 'ner_crf', 'processors': ['ner_synonyms']}]}, {'action': 'utter_greet', 'intent': 'expressFeeling', 'entities': [{'start': 5, 'end': 8, 'value': 'Depressed', 'entity': 'sentiment', 'confidence': 0.8567632634172738, 'extractor': 'ner_crf', 'processors': ['ner_synonyms']}]}, {'action': 'action_listen', 'intent': 'expressFeeling', 'entities': [{'start': 5, 'end': 8, 'value': 'Depressed', 'entity': 'sentiment', 'confidence': 0.8567632634172738, 'extractor': 'ner_crf', 'processors': ['ner_synonyms']}]}]
+second!
+[{'action': None, 'intent': '', 'entities': []}, {'action': 'action_listen', 'intent': 'greet', 'entities': []}, {'action': 'utter_greet', 'intent': 'greet', 'entities': []}, {'action': 'action_listen', 'intent': 'expressFeeling', 'entities': [{'start': 5, 'end': 8, 'value': 'Depressed', 'entity': 'sentiment', 'confidence': 0.8567632634172738, 'extractor': 'ner_crf', 'processors': ['ner_synonyms']}]}, {'action': 'utter_greet', 'intent': 'expressFeeling', 'entities': [{'start': 5, 'end': 8, 'value': 'Depressed', 'entity': 'sentiment', 'confidence': 0.8567632634172738, 'extractor': 'ner_crf', 'processors': ['ner_synonyms']}]}, {'action': 'action_listen', 'intent': 'expressFeeling', 'entities': [{'start': 5, 'end': 8, 'value': 'Depressed', 'entity': 'sentiment', 'confidence': 0.8567632634172738, 'extractor': 'ner_crf', 'processors': ['ner_synonyms']}]}, {'action': 'utter_greet', 'intent': 'expressFeeling', 'entities': [{'start': 5, 'end': 8, 'value': 'Depressed', 'entity': 'sentiment', 'confidence': 0.8567632634172738, 'extractor': 'ner_crf', 'processors': ['ner_synonyms']}]}]
+
+
+All messages (at the top): 
+
+
+## Generated Story 255530556163363632
+* greet
+    - utter_greet
+* expressFeeling{"sentiment": "Depressed"}
+    - slot{"sentiment": "Depressed"}
+    - utter_greet
+* expressFeeling{"sentiment": "Depressed"}
+    - slot{"sentiment": "Depressed"}
+    - utter_greet
+
+logging stuff from inner process
+second!
+[{'action': None, 'intent': '', 'entities': []}, {'action': 'action_listen', 'intent': 'greet', 'entities': []}, {'action': 'utter_greet', 'intent': 'greet', 'entities': []}, {'action': 'action_listen', 'intent': 'expressFeeling', 'entities': [{'start': 5, 'end': 8, 'value': 'Depressed', 'entity': 'sentiment', 'confidence': 0.8567632634172738, 'extractor': 'ner_crf', 'processors': ['ner_synonyms']}]}, {'action': 'utter_greet', 'intent': 'expressFeeling', 'entities': [{'start': 5, 'end': 8, 'value': 'Depressed', 'entity': 'sentiment', 'confidence': 0.8567632634172738, 'extractor': 'ner_crf', 'processors': ['ner_synonyms']}]}, {'action': 'action_listen', 'intent': 'expressFeeling', 'entities': [{'start': 5, 'end': 8, 'value': 'Depressed', 'entity': 'sentiment', 'confidence': 0.8567632634172738, 'extractor': 'ner_crf', 'processors': ['ner_synonyms']}]}, {'action': 'utter_greet', 'intent': 'expressFeeling', 'entities': [{'start': 5, 'end': 8, 'value': 'Depressed', 'entity': 'sentiment', 'confidence': 0.8567632634172738, 'extractor': 'ner_crf', 'processors': ['ner_synonyms']}]}, {'action': 'action_listen', 'intent': 'expressFeeling', 'entities': [{'start': 5, 'end': 8, 'value': 'Depressed', 'entity': 'sentiment', 'confidence': 0.8567632634172738, 'extractor': 'ner_crf', 'processors': ['ner_synonyms']}]}]
+
+
+All messages (at the top): 
+
+
+## Generated Story -6759658029857732531
+* greet
+    - utter_greet
+* expressFeeling{"sentiment": "Depressed"}
+    - slot{"sentiment": "Depressed"}
+    - utter_greet
+* expressFeeling{"sentiment": "Depressed"}
+    - slot{"sentiment": "Depressed"}
+    - utter_greet
+* expressFeeling{"sentiment": "Depressed"}
+    - slot{"sentiment": "Depressed"}
+
+logging stuff from inner process
+[{'action': None, 'intent': '', 'entities': []}, {'action': 'action_listen', 'intent': 'greet', 'entities': []}, {'action': 'utter_greet', 'intent': 'greet', 'entities': []}, {'action': 'action_listen', 'intent': 'expressFeeling', 'entities': [{'start': 5, 'end': 8, 'value': 'Depressed', 'entity': 'sentiment', 'confidence': 0.8567632634172738, 'extractor': 'ner_crf', 'processors': ['ner_synonyms']}]}, {'action': 'utter_greet', 'intent': 'expressFeeling', 'entities': [{'start': 5, 'end': 8, 'value': 'Depressed', 'entity': 'sentiment', 'confidence': 0.8567632634172738, 'extractor': 'ner_crf', 'processors': ['ner_synonyms']}]}, {'action': 'action_listen', 'intent': 'expressFeeling', 'entities': [{'start': 5, 'end': 8, 'value': 'Depressed', 'entity': 'sentiment', 'confidence': 0.8567632634172738, 'extractor': 'ner_crf', 'processors': ['ner_synonyms']}]}, {'action': 'utter_greet', 'intent': 'expressFeeling', 'entities': [{'start': 5, 'end': 8, 'value': 'Depressed', 'entity': 'sentiment', 'confidence': 0.8567632634172738, 'extractor': 'ner_crf', 'processors': ['ner_synonyms']}]}, {'action': 'action_listen', 'intent': 'expressFeeling', 'entities': [{'start': 5, 'end': 8, 'value': 'Depressed', 'entity': 'sentiment', 'confidence': 0.8567632634172738, 'extractor': 'ner_crf', 'processors': ['ner_synonyms']}]}]
+second!
+[{'action': 'action_listen', 'intent': 'greet', 'entities': []}, {'action': 'utter_greet', 'intent': 'greet', 'entities': []}, {'action': 'action_listen', 'intent': 'expressFeeling', 'entities': [{'start': 5, 'end': 8, 'value': 'Depressed', 'entity': 'sentiment', 'confidence': 0.8567632634172738, 'extractor': 'ner_crf', 'processors': ['ner_synonyms']}]}, {'action': 'utter_greet', 'intent': 'expressFeeling', 'entities': [{'start': 5, 'end': 8, 'value': 'Depressed', 'entity': 'sentiment', 'confidence': 0.8567632634172738, 'extractor': 'ner_crf', 'processors': ['ner_synonyms']}]}, {'action': 'action_listen', 'intent': 'expressFeeling', 'entities': [{'start': 5, 'end': 8, 'value': 'Depressed', 'entity': 'sentiment', 'confidence': 0.8567632634172738, 'extractor': 'ner_crf', 'processors': ['ner_synonyms']}]}, {'action': 'utter_greet', 'intent': 'expressFeeling', 'entities': [{'start': 5, 'end': 8, 'value': 'Depressed', 'entity': 'sentiment', 'confidence': 0.8567632634172738, 'extractor': 'ner_crf', 'processors': ['ner_synonyms']}]}, {'action': 'action_listen', 'intent': 'expressFeeling', 'entities': [{'start': 5, 'end': 8, 'value': 'Depressed', 'entity': 'sentiment', 'confidence': 0.8567632634172738, 'extractor': 'ner_crf', 'processors': ['ner_synonyms']}]}, {'action': 'utter_greet', 'intent': 'expressFeeling', 'entities': [{'start': 5, 'end': 8, 'value': 'Depressed', 'entity': 'sentiment', 'confidence': 0.8567632634172738, 'extractor': 'ner_crf', 'processors': ['ner_synonyms']}]}]
+
+
+All messages (at the top): 
+
+
+## Generated Story 8378532039187946304
+* greet
+    - utter_greet
+* expressFeeling{"sentiment": "Depressed"}
+    - slot{"sentiment": "Depressed"}
+    - utter_greet
+* expressFeeling{"sentiment": "Depressed"}
+    - slot{"sentiment": "Depressed"}
+    - utter_greet
+* expressFeeling{"sentiment": "Depressed"}
+    - slot{"sentiment": "Depressed"}
+    - utter_greet
+
+logging stuff from inner process
+Stories got exported to '/Users/joseph/Desktop/Bot_Final_Submission/flask_active/rasabot/data/stories/stories.md'.
+second!
+[{'action': None, 'intent': '', 'entities': []}, {'action': 'action_listen', 'intent': 'greet', 'entities': []}]
+
+
+All messages (at the top): 
+
+
+## Generated Story -1314558978328785903
+* greet
+
+logging stuff from inner process
+second!
+[{'action': None, 'intent': '', 'entities': []}, {'action': 'action_listen', 'intent': 'greet', 'entities': []}, {'action': 'utter_greet', 'intent': 'greet', 'entities': []}]
+
+
+All messages (at the top): 
+
+
+## Generated Story 4749775115600694432
+* greet
+    - utter_greet
+
+logging stuff from inner process
+second!
+[{'action': None, 'intent': '', 'entities': []}, {'action': 'action_listen', 'intent': 'greet', 'entities': []}, {'action': 'utter_greet', 'intent': 'greet', 'entities': []}, {'action': 'action_listen', 'intent': 'expressFeeling', 'entities': [{'start': 5, 'end': 8, 'value': 'Depressed', 'entity': 'sentiment', 'confidence': 0.8567632634172738, 'extractor': 'ner_crf', 'processors': ['ner_synonyms']}]}]
+
+
+All messages (at the top): 
+
+
+## Generated Story 8533485114840288948
+* greet
+    - utter_greet
+* expressFeeling{"sentiment": "Depressed"}
+    - slot{"sentiment": "Depressed"}
+
+logging stuff from inner process
+[{'action': None, 'intent': '', 'entities': []}, {'action': 'action_listen', 'intent': 'greet', 'entities': []}, {'action': 'utter_greet', 'intent': 'greet', 'entities': []}, {'action': 'action_listen', 'intent': 'expressFeeling', 'entities': [{'start': 5, 'end': 8, 'value': 'Depressed', 'entity': 'sentiment', 'confidence': 0.8567632634172738, 'extractor': 'ner_crf', 'processors': ['ner_synonyms']}]}]
+second!
+[{'action': None, 'intent': '', 'entities': []}, {'action': 'action_listen', 'intent': 'greet', 'entities': []}, {'action': 'utter_greet', 'intent': 'greet', 'entities': []}, {'action': 'action_listen', 'intent': 'expressFeeling', 'entities': [{'start': 5, 'end': 8, 'value': 'Depressed', 'entity': 'sentiment', 'confidence': 0.8567632634172738, 'extractor': 'ner_crf', 'processors': ['ner_synonyms']}]}, {'action': 'utter_greet', 'intent': 'expressFeeling', 'entities': [{'start': 5, 'end': 8, 'value': 'Depressed', 'entity': 'sentiment', 'confidence': 0.8567632634172738, 'extractor': 'ner_crf', 'processors': ['ner_synonyms']}]}]
+
+
+All messages (at the top): 
+
+
+## Generated Story -1142663423048382565
+* greet
+    - utter_greet
+* expressFeeling{"sentiment": "Depressed"}
+    - slot{"sentiment": "Depressed"}
+    - utter_greet
+
+logging stuff from inner process
+Stories got exported to '/Users/joseph/Desktop/Bot_Final_Submission/flask_active/rasabot/data/stories/stories.md'.
+second!
+[{'action': None, 'intent': '', 'entities': []}, {'action': 'action_listen', 'intent': 'greet', 'entities': []}]
+
+
+All messages (at the top): 
+
+
+## Generated Story 2744579003721423528
+* greet
+
+logging stuff from inner process
+second!
+[{'action': None, 'intent': '', 'entities': []}, {'action': 'action_listen', 'intent': 'greet', 'entities': []}, {'action': 'utter_greet', 'intent': 'greet', 'entities': []}]
+
+
+All messages (at the top): 
+
+
+## Generated Story 1597767081727077764
+* greet
+    - utter_greet
+
+logging stuff from inner process
+second!
+[{'action': None, 'intent': '', 'entities': []}, {'action': 'action_listen', 'intent': 'greet', 'entities': []}, {'action': 'utter_greet', 'intent': 'greet', 'entities': []}, {'action': 'action_listen', 'intent': 'expressFeeling', 'entities': [{'start': 5, 'end': 8, 'value': 'Depressed', 'entity': 'sentiment', 'confidence': 0.8567632634172738, 'extractor': 'ner_crf', 'processors': ['ner_synonyms']}]}]
+
+
+All messages (at the top): 
+
+
+## Generated Story -5050156433085364223
+* greet
+    - utter_greet
+* expressFeeling{"sentiment": "Depressed"}
+    - slot{"sentiment": "Depressed"}
+
+logging stuff from inner process
+[{'action': None, 'intent': '', 'entities': []}, {'action': 'action_listen', 'intent': 'greet', 'entities': []}, {'action': 'utter_greet', 'intent': 'greet', 'entities': []}, {'action': 'action_listen', 'intent': 'expressFeeling', 'entities': [{'start': 5, 'end': 8, 'value': 'Depressed', 'entity': 'sentiment', 'confidence': 0.8567632634172738, 'extractor': 'ner_crf', 'processors': ['ner_synonyms']}]}]
+second!
+[{'action': None, 'intent': '', 'entities': []}, {'action': 'action_listen', 'intent': 'greet', 'entities': []}]
+
+
+All messages (at the top): 
+
+
+## Generated Story 6753487547174120034
+* greet
+
+logging stuff from inner process
+second!
+[{'action': None, 'intent': '', 'entities': []}, {'action': 'action_listen', 'intent': 'greet', 'entities': []}, {'action': 'utter_greet', 'intent': 'greet', 'entities': []}]
+
+
+All messages (at the top): 
+
+
+## Generated Story -6304641526251688749
+* greet
+    - utter_greet
+
+logging stuff from inner process
+second!
+[{'action': None, 'intent': '', 'entities': []}, {'action': 'action_listen', 'intent': 'greet', 'entities': []}]
+
+
+All messages (at the top): 
+
+
+## Generated Story 744823085372750310
+* greet
+
+logging stuff from inner process
+[{'action': None, 'intent': '', 'entities': []}, {'action': 'action_listen', 'intent': 'greet', 'entities': []}]
+second!
+[{'action': None, 'intent': '', 'entities': []}, {'action': 'action_listen', 'intent': 'greet', 'entities': []}, {'action': 'utter_thanks', 'intent': 'greet', 'entities': []}]
+
+
+All messages (at the top): 
+
+
+## Generated Story -1006408302298669526
+* greet
+    - utter_thanks
+
+logging stuff from inner process
+second!
+[{'action': None, 'intent': '', 'entities': []}, {'action': 'action_listen', 'intent': 'greet', 'entities': []}, {'action': 'utter_thanks', 'intent': 'greet', 'entities': []}, {'action': 'action_listen', 'intent': 'expressFeeling', 'entities': []}]
+
+
+All messages (at the top): 
+
+
+## Generated Story 7100060327829179087
+* greet
+    - utter_thanks
+* expressFeeling
+
+logging stuff from inner process
+Stories got exported to '/Users/joseph/Desktop/Bot_Final_Submission/flask_app/bots/data/stories/stories.md'.
+second!
+[{'action': None, 'intent': '', 'entities': []}, {'action': 'action_listen', 'intent': 'greet', 'entities': []}]
+
+
+All messages (at the top): 
+
+
+## Generated Story 494381391640278969
+* greet
+
+logging stuff from inner process
+second!
+[{'action': None, 'intent': '', 'entities': []}, {'action': 'action_listen', 'intent': 'greet', 'entities': []}]
+
+
+All messages (at the top): 
+
+
+## Generated Story 3723693474801813103
+* greet
+
+logging stuff from inner process

@@ -1,0 +1,30 @@
+pipeline:
+- name: "nlp_spacy"
+- name: "tokenizer_spacy"
+- name: "ner_crf"
+- name: "ner_synonyms"
+- name: "intent_featurizer_count_vectors"
+
+
+- name: "intent_classifier_tensorflow_embedding"
+  # nn architecture
+  "num_hidden_layers_a": 2
+  "hidden_layer_size_a": [256, 128]
+  "num_hidden_layers_b": 0
+  "hidden_layer_size_b": []
+  "batch_size": 32
+  "epochs": 300
+  # embedding parameters
+  "embed_dim": 10
+  "mu_pos": 0.8  # should be 0.0 < ... < 1.0 for 'cosine'
+  "mu_neg": -0.4  # should be -1.0 < ... < 1.0 for 'cosine'
+  "similarity_type": "cosine"  # string 'cosine' or 'inner'
+  "num_neg": 10
+  "use_max_sim_neg": true  # flag which loss function to use
+  # regularization
+  "C2": 0.002
+  "C_emb": 0.8
+  "droprate": 0.2
+  # flag if to tokenize intents
+  "intent_tokenization_flag": false
+  "intent_split_symbol": "+"

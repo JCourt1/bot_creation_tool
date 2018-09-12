@@ -1,0 +1,40 @@
+<link rel="stylesheet" href="/static/style.css" type="text/css">
+
+<body id="adminLoginScreen">
+
+<form action="/adminlogin" method="POST">
+	<div class="login">
+		<div class="login-screen">
+			<div class="app-title">
+				<h1>Admin Login</h1>
+			</div>
+
+			<div class="login-form">
+				<div class="control-group">
+				<input type="text" class="login-field" value="" placeholder="username" name="username">
+				<label class="login-field-icon fui-user" for="login-name"></label>
+				</div>
+
+				<div class="control-group">
+				<input type="password" class="login-field" value="" placeholder="password" name="password">
+				<label class="login-field-icon fui-lock" for="login-pass"></label>
+				</div>
+
+                <input type="submit" value="Log in" class="btn btn-primary btn-large btn-block" >
+			    <br>
+
+					{% with messages = get_flashed_messages() %}
+					{% if messages %}
+						<ul class=flashes>
+						{% for message in messages %}
+							<p><strong>Error:</strong> {{ message }}
+						{% endfor %}
+						</ul>
+						{% endif %}
+					{% endwith %}
+			</div>
+		</div>
+	</div>
+</form>
+
+</body>

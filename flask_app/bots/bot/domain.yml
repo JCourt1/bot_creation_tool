@@ -1,0 +1,93 @@
+slots:
+  sentiment:
+    type: categorical
+    values:
+    - Depressed
+    - Anxious
+    - Happy
+
+
+intents:
+  - greet
+  - askHowBotIs
+  - goodbye
+  - affirm
+  - deny
+  - thanks
+  - expressSelfHarm
+  - askWhatCanBotDo
+  - askForGuidance
+  - requestDialogues
+  - requestQuestionnaires
+  - expressFeeling
+
+
+entities:
+  - numDays
+  - difficultyLevel
+  - sentiment
+
+
+templates:
+  utter_greet:
+    - "Hello there!"
+    - "Hi!"
+    - "Hello!"
+    - "Howdy"
+    - "Hi there"
+    - "Hiya!"
+  respond_howareyou:
+    - "Not so bad thanks"
+    - "I'm alright actually, thanks for asking."
+    - "Not too bad, I wouldn't mind having a body and all but I enjoy what I do."
+  utter_thanks:
+    - "You are very welcome."
+    - "Glad I could help!"
+  respond_affirm:
+    - "Ok great!"
+  respond_deny:
+    - "That's a shame. Let me know if you change your mind."
+  utter_fallback:
+    - "Sorry, I didn't understand what you just said."
+  utter_ask_if_end:
+    - "Would you like to talk about anything else?"
+
+  utter_propose_dialogues:
+    - "Would you like to see the different topics I can talk about?"
+    - "I might be able to offer some help, do you want to hear what I can talk to you about?"
+    - "I have been trained to talk about a few things - would you like to know what?"
+  utter_propose_questionnaire:
+    - "Would it be alright if we did a questionnaire?"
+    - "Would you like to do a questionnaire?"
+  utter_askCause:
+    - "What do you think is the reason for feeling that way?"
+    - "Would you be able to explain why you feel like that?"
+    - "Is there anything in particular that might have lead to you feeling that way?"
+    - "What would you say is the cause of your feeling, if there had to be one?"
+  utter_repropose_dialogs:
+    - "How about another chat about something different?"
+    - "Did you want to talk about anything else from that list I showed you?"
+    - "Do you want to have another chat?"
+    - "Would you like to have another conversation?"
+
+
+
+actions:
+  - respond_howareyou
+  - utter_greet
+  - utter_thanks
+  - respond_affirm
+  - respond_deny
+  - utter_ask_if_end
+  - utter_fallback
+  - utter_propose_dialogues
+  - utter_propose_questionnaire
+  - utter_askCause
+  - utter_repropose_dialogs
+  - customActions.SayGoodbye
+  - customActions.ShowQuestionnaires
+  - customActions.ShowDialogues
+  - customActions.ReplyToFeelingExpressed
+  - customActions.LogSelfHarmMessage
+  - customActions.ShowPHQ9
+  - customActions.ShowGAD7

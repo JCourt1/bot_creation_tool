@@ -1,0 +1,321 @@
+inside get next action
+4
+UtterAction('utter_goodbye')
+inside get next action
+0
+Action('action_listen')
+inside get next action
+11
+UtterAction('utter_phq9')
+inside get next action
+0
+Action('action_listen')
+inside get next action
+13
+UtterAction('utter_self_harm_help')
+inside get next action
+0
+Action('action_listen')
+inside get next action
+9
+Action('action_show_tracker')
+inside get next action
+5
+UtterAction('utter_confirm')
+inside get next action
+0
+Action('action_listen')
+inside get next action
+0
+Action('action_listen')
+inside get next action
+8
+Action('action_feelingReply')
+inside get next action
+6
+UtterAction('utter_propose_questionnaire')
+inside get next action
+0
+Action('action_listen')
+inside get next action
+0
+Action('action_listen')
+inside get next action
+8
+Action('action_feelingReply')
+inside get next action
+13
+UtterAction('utter_self_harm_help')
+inside get next action
+0
+Action('action_listen')
+inside get next action
+13
+UtterAction('utter_self_harm_help')
+inside get next action
+0
+Action('action_listen')
+inside get next action
+10
+Action('action_greet')
+inside get next action
+3
+UtterAction('utter_greet')
+inside get next action
+3
+UtterAction('utter_greet')
+inside get next action
+0
+Action('action_listen')
+inside get next action
+10
+Action('action_greet')
+inside get next action
+3
+UtterAction('utter_greet')
+inside get next action
+0
+Action('action_listen')
+inside get next action
+3
+UtterAction('utter_greet')
+inside get next action
+0
+Action('action_listen')
+inside get next action
+8
+Action('action_feelingReply')
+inside get next action
+0
+Action('action_listen')
+inside get next action
+0
+Action('action_listen')
+inside get next action
+8
+Action('action_feelingReply')
+inside get next action
+6
+UtterAction('utter_propose_questionnaire')
+inside get next action
+0
+Action('action_listen')
+inside get next action
+14
+UtterAction('utter_thanks')
+inside get next action
+14
+UtterAction('utter_thanks')
+inside get next action
+3
+UtterAction('utter_greet')
+inside get next action
+0
+Action('action_listen')
+inside get next action
+8
+Action('action_feelingReply')
+inside get next action
+6
+UtterAction('utter_propose_questionnaire')
+inside get next action
+0
+Action('action_listen')
+inside get next action
+5
+UtterAction('utter_confirm')
+inside get next action
+0
+Action('action_listen')
+inside get next action
+3
+UtterAction('utter_greet')
+inside get next action
+0
+Action('action_listen')
+inside get next action
+8
+Action('action_feelingReply')
+inside get next action
+4
+UtterAction('utter_goodbye')
+inside get next action
+10
+Action('action_greet')
+inside get next action
+5
+UtterAction('utter_confirm')
+inside get next action
+0
+Action('action_listen')
+inside get next action
+8
+Action('action_feelingReply')
+inside get next action
+3
+UtterAction('utter_greet')
+inside get next action
+0
+Action('action_listen')
+inside get next action
+16
+Action('reply_to_feeling')
+inside get next action
+10
+UtterAction('utter_propose_questionnaire')
+inside get next action
+0
+Action('action_listen')
+inside get next action
+6
+UtterAction('respond_deny')
+inside get next action
+7
+UtterAction('utter_ask_if_end')
+inside get next action
+0
+Action('action_listen')
+inside get next action
+10
+UtterAction('utter_propose_questionnaire')
+inside get next action
+3
+UtterAction('utter_greet')
+inside get next action
+0
+Action('action_listen')
+inside get next action
+3
+UtterAction('utter_greet')
+inside get next action
+0
+Action('action_listen')
+inside get next action
+3
+UtterAction('utter_greet')
+inside get next action
+0
+Action('action_listen')
+inside get next action
+2
+UtterAction('respond_howareyou')
+inside get next action
+3
+UtterAction('utter_greet')
+inside get next action
+0
+Action('action_listen')
+inside get next action
+3
+UtterAction('utter_greet')
+inside get next action
+0
+Action('action_listen')
+inside get next action
+0
+Action('action_listen')
+inside get next action
+3
+UtterAction('utter_greet')
+inside get next action
+0
+Action('action_listen')
+inside get next action
+3
+UtterAction('utter_greet')
+inside get next action
+0
+Action('action_listen')
+inside get next action
+3
+UtterAction('utter_greet')
+inside get next action
+3
+UtterAction('utter_greet')
+inside get next action
+0
+Action('action_listen')
+inside get next action
+3
+UtterAction('utter_greet')
+inside get next action
+3
+UtterAction('utter_greet')
+inside get next action
+0
+Action('action_listen')
+inside get next action
+3
+UtterAction('utter_greet')
+inside get next action
+3
+UtterAction('utter_greet')
+inside get next action
+0
+Action('action_listen')
+inside get next action
+3
+UtterAction('utter_greet')
+inside get next action
+3
+UtterAction('utter_greet')
+inside get next action
+0
+Action('action_listen')
+inside get next action
+3
+UtterAction('utter_greet')
+inside get next action
+0
+Action('action_listen')
+inside get next action
+3
+UtterAction('utter_greet')
+inside get next action
+3
+UtterAction('utter_greet')
+inside get next action
+0
+Action('action_listen')
+inside get next action
+3
+UtterAction('utter_greet')
+inside get next action
+0
+Action('action_listen')
+inside get next action
+3
+UtterAction('utter_greet')
+inside get next action
+0
+Action('action_listen')
+inside get next action
+3
+UtterAction('utter_greet')
+inside get next action
+3
+UtterAction('utter_greet')
+inside get next action
+0
+Action('action_listen')
+inside get next action
+3
+UtterAction('utter_greet')
+inside get next action
+3
+UtterAction('utter_greet')
+inside get next action
+0
+Action('action_listen')
+inside get next action
+3
+UtterAction('utter_greet')
+inside get next action
+0
+Action('action_listen')
+inside get next action
+4
+UtterAction('utter_thanks')
+inside get next action
+0
+Action('action_listen')

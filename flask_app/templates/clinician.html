@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:300,400,500">
+    <link rel="stylesheet" type="text/css" href="{{ url_for('static', filename='clinician/tabs.css')}}">
+    <link rel="stylesheet" type="text/css" href="{{ url_for('static', filename='clinician/joesApp.css')}}">
+    <link rel="stylesheet" type="text/css" href="{{ url_for('static', filename='clinician/index.css')}}">
+    <link rel="stylesheet" type="text/css" href="{{ url_for('static', filename='clinician/dialogueForm.css')}}">
+    <link rel="stylesheet" type="text/css" href="{{ url_for('static', filename='clinician/patientInfo.css')}}">
+    <link rel="stylesheet" type="text/css" href="{{ url_for('static', filename='commonStyling.css')}}">
+    <link rel="stylesheet" type="text/css" href="{{ url_for('static', filename='modal.css')}}">
+
+    <title>MHT chatbot</title>
+  </head>
+  <body>
+
+    <div id="header">
+    </div>
+
+    <script> window.setupData = {{ setup_data|tojson|safe }}; window.sessionStorage.setItem('simple-chatroom-cid', 'cliniciansID'); </script>
+
+    <!-- <script> var setupData = "{{ setup_data }}"; </script> -->
+    <script src="{{ url_for('static', filename='header.js')}}"></script>
+
+    <div id="everything">
+    </div>
+
+    <form action="{{ url_for('logout') }}" method="post" id="logOutForm">
+    </form>
+
+    <script>window.sessionStorage.setItem("hostForBot", "{{ bothost }}")</script>
+    <script src="{{ url_for('static', filename='clinician/joesApp.js')}}"></script>
+
+    <script
+            src="https://code.jquery.com/jquery-3.3.1.min.js"
+            integrity="sha256-FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8="
+            crossorigin="anonymous"></script>
+  </body>
+</html>

@@ -1,0 +1,68 @@
+#header {
+/* 	background: rgba(255, 147, 147, 0.47); */
+/*     background: rgb(183, 207, 225); */
+     background: rgb(255, 255, 255);
+	border-bottom: double 3px #aba;
+	border-left: solid 1px #9a9;
+	border-right: solid 1px #565;
+	border-top: solid 1px #9a9;
+
+	/* letter-spacing: 0.2em; */
+	margin: 0;
+	/* text-align: center; */
+	padding: 0px 20px 0px 20px;
+
+}
+
+
+#logoutButton {
+  background-color: #ddddff !important;
+  text-align: right;
+  position: absolute;
+  top: 20px;
+  padding: 10px;
+  right: 15px;
+}
+
+#ChangePasswordBtn {
+  text-align: right;
+  position: absolute;
+  top: 20px;
+  padding: 10px;
+  right: 105px;
+  background-color: aquamarine !important;
+}
+
+.jss12 {
+	box-shadow: none !important;
+}
+
+.jss13 {
+    color: #151414 !important;
+    background-color: #b7b7f3 !important;
+    border-radius: 0px !important;
+}
+
+.jss13:hover {
+    background-color: #b092ca !important;
+}
+
+.jss13 {
+    color: #151414 !important;
+    background-color: #8a94c5 !important;
+    border-radius: 0px !important;
+}
+
+.jss13:hover {
+    background-color: #d8daff !important;
+}
+
+.chatroom .chats .chat.left {
+    border-bottom-left-radius: 0;
+    background: #899df7;
+    color: white;
+}
+
+.chatroom .chats .chat.right {
+  background: #baffa6;
+}

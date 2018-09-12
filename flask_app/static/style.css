@@ -1,0 +1,183 @@
+* {
+box-sizing: border-box;
+}
+
+*:focus {
+	outline: none;
+}
+#patientLoginScreen {
+font-family: Arial;
+background-color: #b2daf5;
+padding: 50px;
+}
+
+#adminLoginScreen {
+font-family: Arial;
+background-color: #443f82;
+padding: 50px;
+}
+
+.login {
+margin: 20px auto;
+width: 300px;
+}
+.login-screen {
+background-color: #FFF;
+padding: 20px;
+border-radius: 5px
+}
+
+.app-title {
+text-align: center;
+color: #777;
+}
+
+.login-form {
+text-align: center;
+}
+.control-group {
+margin-bottom: 10px;
+}
+
+input {
+text-align: center;
+background-color: #ECF0F1;
+border: 2px solid transparent;
+border-radius: 3px;
+font-size: 16px;
+font-weight: 200;
+padding: 10px 0;
+width: 250px;
+transition: border .5s;
+}
+
+input:focus {
+border: 2px solid #3498DB;
+box-shadow: none;
+}
+
+.btn {
+  border: 2px solid transparent;
+  background: #000000;
+  color: #ffffff;
+  font-size: 16px;
+  line-height: 25px;
+  padding: 10px 0;
+  text-decoration: none;
+  text-shadow: none;
+  border-radius: 3px;
+  box-shadow: none;
+  transition: 0.25s;
+  display: block;
+  width: 250px;
+  margin: 0 auto;
+}
+
+.btn:hover {
+    background-color: #d8d8d8;
+    color: black;
+    border-style: solid;
+    border-color: black;
+}
+
+
+.login-link {
+  font-size: 12px;
+  color: #444;
+  display: block;
+	margin-top: 12px;
+}
+
+#login{
+	z-index: 22;
+}
+
+#register{
+	z-index: 21;
+	opacity: 0;
+}
+
+#register,
+#login{
+	/* position: absolute;
+	top: 0px;
+	width: 88%;
+	padding: 18px 6% 60px 6%;
+	margin: 0 0 35px 0; */
+
+	position: absolute;
+	margin-left: auto;
+	margin-right: auto;
+	left: 0;
+	right: 0;
+}
+
+#toregister:target ~ #wrapper #register,
+#tologin:target ~ #wrapper #login{
+	z-index: 22;
+	animation-name: pulseIn;
+	/* fadeInLeft; */
+	animation-delay: .1s;
+}
+
+
+.animate{
+	animation-duration: 0.5s;
+	animation-timing-function: ease;
+	animation-fill-mode: both;
+}
+
+/*
+Animations from the following source:
+
+Animate.css - http://daneden.me/animate
+LICENSED UNDER THE MIT LICENSE (MIT) */
+
+@-webkit-keyframes pulseIn {
+    0% { opacity: 0;
+			-webkit-transform: scale(1); }
+	50% { opacity: 0; -webkit-transform: scale(1.1); }
+    100% { opacity: 1; -webkit-transform: scale(1); }
+}
+
+
+#toregister:target ~ #wrapper #login,
+#tologin:target ~ #wrapper #register{
+	animation-name: pulseOut;
+	/* fadeOutLeft; */
+}
+
+#backtoregister:target ~ #wrapper #register{
+	z-index: 22;
+	animation-name: wobble;
+	/* fadeOutLeft; */
+}
+
+#backtoregister:target ~ #wrapper #login{
+	opacity: 0;
+	z-index: 21;
+	/* fadeOutLeft; */
+}
+
+
+
+@-webkit-keyframes pulseOut {
+	0% { opacity: 1; -webkit-transform: scale(1); }
+
+	50% { opacity: 0; -webkit-transform: scale(1.1); }
+	100% {
+		opacity: 0;
+		-webkit-transform: scale(1);
+	}
+
+}
+
+@-webkit-keyframes wobble {
+  0% { opacity: 1; -webkit-transform: translateX(0%); }
+  15% { -webkit-transform: translateX(-1%)}
+  /* 30% { -webkit-transform: translateX(4%) rotate(1deg); } */
+  /* 45% { -webkit-transform: translateX(3%) rotate(-1deg); } */
+  /* 60% { -webkit-transform: translateX(2%) rotate(0.6deg); } */
+  75% { -webkit-transform: translateX(1%)}
+  100% { opacity: 1; -webkit-transform: translateX(0%); }
+}

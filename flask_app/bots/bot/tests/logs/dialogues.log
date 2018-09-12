@@ -1,0 +1,1566 @@
+index = 0
+self.nodes = [<lib.dialogues.ValidateInputNode object at 0x111ab4d30>, <lib.dialogues.SimpleNode object at 0x111a18e10>]
+Validate Input Node
+Simple Node
+
+index = 1
+self.nodes = [<lib.dialogues.ValidateInputNode object at 0x111ab4d30>, <lib.dialogues.SimpleNode object at 0x111a18e10>]
+Validate Input Node
+Simple Node
+
+index = 0
+self.nodes = [<lib.dialogues.ValidateInputNode object at 0x111ab4d30>, <lib.dialogues.SimpleNode object at 0x111a18e10>]
+Validate Input Node
+Simple Node
+
+index = 0
+self.nodes = [<lib.dialogues.SimpleNode object at 0x111a18e10>, <lib.dialogues.TreeNode object at 0x111ab4c50>, <lib.dialogues.TreeNode object at 0x111ab4ba8>, <lib.dialogues.SimpleNode object at 0x111ab4be0>]
+Simple Node
+Tree Node
+	branch: terrific
+		Simple Node
+		Tree Node
+			branch: dismayed
+				Simple Node
+				Simple Node
+				Simple Node
+			branch: upbeat
+				Simple Node
+				Simple Node
+				Simple Node
+			branch: default
+				Simple Node
+		Tree Node
+			branch: dismayed
+				Simple Node
+				Simple Node
+				Simple Node
+			branch: upbeat
+				Simple Node
+				Simple Node
+				Simple Node
+			branch: default
+				Simple Node
+	branch: hopeful
+		Simple Node
+		Tree Node
+			branch: dismayed
+				Simple Node
+				Simple Node
+				Simple Node
+			branch: upbeat
+				Simple Node
+				Simple Node
+				Simple Node
+			branch: default
+				Simple Node
+		Simple Node
+	branch: default
+		Simple Node
+Tree Node
+	branch: dismayed
+		Simple Node
+		Simple Node
+		Simple Node
+	branch: upbeat
+		Simple Node
+		Simple Node
+		Simple Node
+	branch: default
+		Simple Node
+Simple Node
+
+index = 1
+self.nodes = [<lib.dialogues.SimpleNode object at 0x111a18e10>, <lib.dialogues.TreeNode object at 0x111ab4c50>, <lib.dialogues.TreeNode object at 0x111ab4ba8>, <lib.dialogues.SimpleNode object at 0x111ab4be0>]
+Simple Node
+Tree Node
+	branch: terrific
+		Simple Node
+		Tree Node
+			branch: dismayed
+				Simple Node
+				Simple Node
+				Simple Node
+			branch: upbeat
+				Simple Node
+				Simple Node
+				Simple Node
+			branch: default
+				Simple Node
+		Tree Node
+			branch: dismayed
+				Simple Node
+				Simple Node
+				Simple Node
+			branch: upbeat
+				Simple Node
+				Simple Node
+				Simple Node
+			branch: default
+				Simple Node
+	branch: hopeful
+		Simple Node
+		Tree Node
+			branch: dismayed
+				Simple Node
+				Simple Node
+				Simple Node
+			branch: upbeat
+				Simple Node
+				Simple Node
+				Simple Node
+			branch: default
+				Simple Node
+		Simple Node
+	branch: default
+		Simple Node
+Tree Node
+	branch: dismayed
+		Simple Node
+		Simple Node
+		Simple Node
+	branch: upbeat
+		Simple Node
+		Simple Node
+		Simple Node
+	branch: default
+		Simple Node
+Simple Node
+
+index = 2
+self.nodes = [<lib.dialogues.SimpleNode object at 0x111a18e10>, <lib.dialogues.TreeNode object at 0x111ab4c50>, <lib.dialogues.TreeNode object at 0x111ab4ba8>, <lib.dialogues.SimpleNode object at 0x111ab4be0>]
+Simple Node
+Tree Node
+	branch: terrific
+		Simple Node
+		Tree Node
+			branch: dismayed
+				Simple Node
+				Simple Node
+				Simple Node
+			branch: upbeat
+				Simple Node
+				Simple Node
+				Simple Node
+			branch: default
+				Simple Node
+		Tree Node
+			branch: dismayed
+				Simple Node
+				Simple Node
+				Simple Node
+			branch: upbeat
+				Simple Node
+				Simple Node
+				Simple Node
+			branch: default
+				Simple Node
+	branch: hopeful
+		Simple Node
+		Tree Node
+			branch: dismayed
+				Simple Node
+				Simple Node
+				Simple Node
+			branch: upbeat
+				Simple Node
+				Simple Node
+				Simple Node
+			branch: default
+				Simple Node
+		Simple Node
+	branch: default
+		Simple Node
+Tree Node
+	branch: dismayed
+		Simple Node
+		Simple Node
+		Simple Node
+	branch: upbeat
+		Simple Node
+		Simple Node
+		Simple Node
+	branch: default
+		Simple Node
+Simple Node
+
+index = 2
+self.nodes = [<lib.dialogues.SimpleNode object at 0x111a18e10>, <lib.dialogues.TreeNode object at 0x111ab4c50>, <lib.dialogues.TreeNode object at 0x111ab4ba8>, <lib.dialogues.SimpleNode object at 0x111ab4be0>]
+Simple Node
+Tree Node
+	branch: terrific
+		Simple Node
+		Tree Node
+			branch: dismayed
+				Simple Node
+				Simple Node
+				Simple Node
+			branch: upbeat
+				Simple Node
+				Simple Node
+				Simple Node
+			branch: default
+				Simple Node
+		Tree Node
+			branch: dismayed
+				Simple Node
+				Simple Node
+				Simple Node
+			branch: upbeat
+				Simple Node
+				Simple Node
+				Simple Node
+			branch: default
+				Simple Node
+	branch: hopeful
+		Simple Node
+		Tree Node
+			branch: dismayed
+				Simple Node
+				Simple Node
+				Simple Node
+			branch: upbeat
+				Simple Node
+				Simple Node
+				Simple Node
+			branch: default
+				Simple Node
+		Simple Node
+	branch: default
+		Simple Node
+Tree Node
+	branch: dismayed
+		Simple Node
+		Simple Node
+		Simple Node
+	branch: upbeat
+		Simple Node
+		Simple Node
+		Simple Node
+	branch: default
+		Simple Node
+Simple Node
+
+index = 2
+self.nodes = [<lib.dialogues.SimpleNode object at 0x111a18e10>, <lib.dialogues.TreeNode object at 0x111ab4c50>, <lib.dialogues.TreeNode object at 0x111ab4ba8>, <lib.dialogues.SimpleNode object at 0x111ab4be0>]
+Simple Node
+Tree Node
+	branch: terrific
+		Simple Node
+		Tree Node
+			branch: dismayed
+				Simple Node
+				Simple Node
+				Simple Node
+			branch: upbeat
+				Simple Node
+				Simple Node
+				Simple Node
+			branch: default
+				Simple Node
+		Tree Node
+			branch: dismayed
+				Simple Node
+				Simple Node
+				Simple Node
+			branch: upbeat
+				Simple Node
+				Simple Node
+				Simple Node
+			branch: default
+				Simple Node
+	branch: hopeful
+		Simple Node
+		Tree Node
+			branch: dismayed
+				Simple Node
+				Simple Node
+				Simple Node
+			branch: upbeat
+				Simple Node
+				Simple Node
+				Simple Node
+			branch: default
+				Simple Node
+		Simple Node
+	branch: default
+		Simple Node
+Tree Node
+	branch: dismayed
+		Simple Node
+		Simple Node
+		Simple Node
+	branch: upbeat
+		Simple Node
+		Simple Node
+		Simple Node
+	branch: default
+		Simple Node
+Simple Node
+
+index = 3
+self.nodes = [<lib.dialogues.SimpleNode object at 0x111a18e10>, <lib.dialogues.TreeNode object at 0x111ab4c50>, <lib.dialogues.TreeNode object at 0x111ab4ba8>, <lib.dialogues.SimpleNode object at 0x111ab4be0>]
+Simple Node
+Tree Node
+	branch: terrific
+		Simple Node
+		Tree Node
+			branch: dismayed
+				Simple Node
+				Simple Node
+				Simple Node
+			branch: upbeat
+				Simple Node
+				Simple Node
+				Simple Node
+			branch: default
+				Simple Node
+		Tree Node
+			branch: dismayed
+				Simple Node
+				Simple Node
+				Simple Node
+			branch: upbeat
+				Simple Node
+				Simple Node
+				Simple Node
+			branch: default
+				Simple Node
+	branch: hopeful
+		Simple Node
+		Tree Node
+			branch: dismayed
+				Simple Node
+				Simple Node
+				Simple Node
+			branch: upbeat
+				Simple Node
+				Simple Node
+				Simple Node
+			branch: default
+				Simple Node
+		Simple Node
+	branch: default
+		Simple Node
+Tree Node
+	branch: dismayed
+		Simple Node
+		Simple Node
+		Simple Node
+	branch: upbeat
+		Simple Node
+		Simple Node
+		Simple Node
+	branch: default
+		Simple Node
+Simple Node
+
+index = 1
+self.nodes = [<lib.dialogues.SimpleNode object at 0x111a18e10>, <lib.dialogues.TreeNode object at 0x111ab4c50>, <lib.dialogues.TreeNode object at 0x111ab4ba8>, <lib.dialogues.SimpleNode object at 0x111ab4be0>]
+Simple Node
+Tree Node
+	branch: terrific
+		Simple Node
+		Tree Node
+			branch: dismayed
+				Simple Node
+				Simple Node
+				Simple Node
+			branch: upbeat
+				Simple Node
+				Simple Node
+				Simple Node
+			branch: default
+				Simple Node
+		Tree Node
+			branch: dismayed
+				Simple Node
+				Simple Node
+				Simple Node
+			branch: upbeat
+				Simple Node
+				Simple Node
+				Simple Node
+			branch: default
+				Simple Node
+	branch: hopeful
+		Simple Node
+		Tree Node
+			branch: dismayed
+				Simple Node
+				Simple Node
+				Simple Node
+			branch: upbeat
+				Simple Node
+				Simple Node
+				Simple Node
+			branch: default
+				Simple Node
+		Simple Node
+	branch: default
+		Simple Node
+Tree Node
+	branch: dismayed
+		Simple Node
+		Simple Node
+		Simple Node
+	branch: upbeat
+		Simple Node
+		Simple Node
+		Simple Node
+	branch: default
+		Simple Node
+Simple Node
+
+index = 1
+self.nodes = [<lib.dialogues.SimpleNode object at 0x111a18e10>, <lib.dialogues.TreeNode object at 0x111ab4c50>, <lib.dialogues.TreeNode object at 0x111ab4ba8>, <lib.dialogues.SimpleNode object at 0x111ab4be0>]
+Simple Node
+Tree Node
+	branch: terrific
+		Simple Node
+		Tree Node
+			branch: dismayed
+				Simple Node
+				Simple Node
+				Simple Node
+			branch: upbeat
+				Simple Node
+				Simple Node
+				Simple Node
+			branch: default
+				Simple Node
+		Tree Node
+			branch: dismayed
+				Simple Node
+				Simple Node
+				Simple Node
+			branch: upbeat
+				Simple Node
+				Simple Node
+				Simple Node
+			branch: default
+				Simple Node
+	branch: hopeful
+		Simple Node
+		Tree Node
+			branch: dismayed
+				Simple Node
+				Simple Node
+				Simple Node
+			branch: upbeat
+				Simple Node
+				Simple Node
+				Simple Node
+			branch: default
+				Simple Node
+		Simple Node
+	branch: default
+		Simple Node
+Tree Node
+	branch: dismayed
+		Simple Node
+		Simple Node
+		Simple Node
+	branch: upbeat
+		Simple Node
+		Simple Node
+		Simple Node
+	branch: default
+		Simple Node
+Simple Node
+
+index = 2
+self.nodes = [<lib.dialogues.SimpleNode object at 0x111a18e10>, <lib.dialogues.SimpleNode object at 0x111a18fd0>, <lib.dialogues.TreeNode object at 0x111ab4ba8>, <lib.dialogues.SimpleNode object at 0x111ab4be0>]
+Simple Node
+Simple Node
+Tree Node
+	branch: dismayed
+		Simple Node
+		Simple Node
+		Simple Node
+	branch: upbeat
+		Simple Node
+		Simple Node
+		Simple Node
+	branch: default
+		Simple Node
+Simple Node
+
+index = 2
+self.nodes = [<lib.dialogues.SimpleNode object at 0x111a18e10>, <lib.dialogues.SimpleNode object at 0x111a18fd0>, <lib.dialogues.TreeNode object at 0x111ab4ba8>, <lib.dialogues.SimpleNode object at 0x111ab4be0>]
+Simple Node
+Simple Node
+Tree Node
+	branch: dismayed
+		Simple Node
+		Simple Node
+		Simple Node
+	branch: upbeat
+		Simple Node
+		Simple Node
+		Simple Node
+	branch: default
+		Simple Node
+Simple Node
+
+index = 2
+self.nodes = [<lib.dialogues.SimpleNode object at 0x111a18e10>, <lib.dialogues.SimpleNode object at 0x111a18fd0>, <lib.dialogues.TreeNode object at 0x111ab4ba8>, <lib.dialogues.SimpleNode object at 0x111ab4be0>]
+Simple Node
+Simple Node
+Tree Node
+	branch: dismayed
+		Simple Node
+		Simple Node
+		Simple Node
+	branch: upbeat
+		Simple Node
+		Simple Node
+		Simple Node
+	branch: default
+		Simple Node
+Simple Node
+
+index = 0
+self.nodes = [<lib.dialogues.ValidateInputNode object at 0x112200d68>, <lib.dialogues.SimpleNode object at 0x1121b7be0>]
+Validate Input Node
+Simple Node
+
+index = 1
+self.nodes = [<lib.dialogues.ValidateInputNode object at 0x112200d68>, <lib.dialogues.SimpleNode object at 0x1121b7be0>]
+Validate Input Node
+Simple Node
+
+index = 0
+self.nodes = [<lib.dialogues.ValidateInputNode object at 0x112200d68>, <lib.dialogues.SimpleNode object at 0x1121b7be0>]
+Validate Input Node
+Simple Node
+
+index = 0
+self.nodes = [<lib.dialogues.SimpleNode object at 0x1121b7be0>, <lib.dialogues.TreeNode object at 0x112200c88>, <lib.dialogues.TreeNode object at 0x112200be0>, <lib.dialogues.SimpleNode object at 0x112200c18>]
+Simple Node
+Tree Node
+	branch: terrific
+		Simple Node
+		Tree Node
+			branch: dismayed
+				Simple Node
+				Simple Node
+				Simple Node
+			branch: upbeat
+				Simple Node
+				Simple Node
+				Simple Node
+			branch: default
+				Simple Node
+		Tree Node
+			branch: dismayed
+				Simple Node
+				Simple Node
+				Simple Node
+			branch: upbeat
+				Simple Node
+				Simple Node
+				Simple Node
+			branch: default
+				Simple Node
+	branch: hopeful
+		Simple Node
+		Tree Node
+			branch: dismayed
+				Simple Node
+				Simple Node
+				Simple Node
+			branch: upbeat
+				Simple Node
+				Simple Node
+				Simple Node
+			branch: default
+				Simple Node
+		Simple Node
+	branch: default
+		Simple Node
+Tree Node
+	branch: dismayed
+		Simple Node
+		Simple Node
+		Simple Node
+	branch: upbeat
+		Simple Node
+		Simple Node
+		Simple Node
+	branch: default
+		Simple Node
+Simple Node
+
+index = 1
+self.nodes = [<lib.dialogues.SimpleNode object at 0x1121b7be0>, <lib.dialogues.TreeNode object at 0x112200c88>, <lib.dialogues.TreeNode object at 0x112200be0>, <lib.dialogues.SimpleNode object at 0x112200c18>]
+Simple Node
+Tree Node
+	branch: terrific
+		Simple Node
+		Tree Node
+			branch: dismayed
+				Simple Node
+				Simple Node
+				Simple Node
+			branch: upbeat
+				Simple Node
+				Simple Node
+				Simple Node
+			branch: default
+				Simple Node
+		Tree Node
+			branch: dismayed
+				Simple Node
+				Simple Node
+				Simple Node
+			branch: upbeat
+				Simple Node
+				Simple Node
+				Simple Node
+			branch: default
+				Simple Node
+	branch: hopeful
+		Simple Node
+		Tree Node
+			branch: dismayed
+				Simple Node
+				Simple Node
+				Simple Node
+			branch: upbeat
+				Simple Node
+				Simple Node
+				Simple Node
+			branch: default
+				Simple Node
+		Simple Node
+	branch: default
+		Simple Node
+Tree Node
+	branch: dismayed
+		Simple Node
+		Simple Node
+		Simple Node
+	branch: upbeat
+		Simple Node
+		Simple Node
+		Simple Node
+	branch: default
+		Simple Node
+Simple Node
+
+index = 2
+self.nodes = [<lib.dialogues.SimpleNode object at 0x1121b7be0>, <lib.dialogues.TreeNode object at 0x112200c88>, <lib.dialogues.TreeNode object at 0x112200be0>, <lib.dialogues.SimpleNode object at 0x112200c18>]
+Simple Node
+Tree Node
+	branch: terrific
+		Simple Node
+		Tree Node
+			branch: dismayed
+				Simple Node
+				Simple Node
+				Simple Node
+			branch: upbeat
+				Simple Node
+				Simple Node
+				Simple Node
+			branch: default
+				Simple Node
+		Tree Node
+			branch: dismayed
+				Simple Node
+				Simple Node
+				Simple Node
+			branch: upbeat
+				Simple Node
+				Simple Node
+				Simple Node
+			branch: default
+				Simple Node
+	branch: hopeful
+		Simple Node
+		Tree Node
+			branch: dismayed
+				Simple Node
+				Simple Node
+				Simple Node
+			branch: upbeat
+				Simple Node
+				Simple Node
+				Simple Node
+			branch: default
+				Simple Node
+		Simple Node
+	branch: default
+		Simple Node
+Tree Node
+	branch: dismayed
+		Simple Node
+		Simple Node
+		Simple Node
+	branch: upbeat
+		Simple Node
+		Simple Node
+		Simple Node
+	branch: default
+		Simple Node
+Simple Node
+
+index = 2
+self.nodes = [<lib.dialogues.SimpleNode object at 0x1121b7be0>, <lib.dialogues.TreeNode object at 0x112200c88>, <lib.dialogues.TreeNode object at 0x112200be0>, <lib.dialogues.SimpleNode object at 0x112200c18>]
+Simple Node
+Tree Node
+	branch: terrific
+		Simple Node
+		Tree Node
+			branch: dismayed
+				Simple Node
+				Simple Node
+				Simple Node
+			branch: upbeat
+				Simple Node
+				Simple Node
+				Simple Node
+			branch: default
+				Simple Node
+		Tree Node
+			branch: dismayed
+				Simple Node
+				Simple Node
+				Simple Node
+			branch: upbeat
+				Simple Node
+				Simple Node
+				Simple Node
+			branch: default
+				Simple Node
+	branch: hopeful
+		Simple Node
+		Tree Node
+			branch: dismayed
+				Simple Node
+				Simple Node
+				Simple Node
+			branch: upbeat
+				Simple Node
+				Simple Node
+				Simple Node
+			branch: default
+				Simple Node
+		Simple Node
+	branch: default
+		Simple Node
+Tree Node
+	branch: dismayed
+		Simple Node
+		Simple Node
+		Simple Node
+	branch: upbeat
+		Simple Node
+		Simple Node
+		Simple Node
+	branch: default
+		Simple Node
+Simple Node
+
+index = 2
+self.nodes = [<lib.dialogues.SimpleNode object at 0x1121b7be0>, <lib.dialogues.TreeNode object at 0x112200c88>, <lib.dialogues.TreeNode object at 0x112200be0>, <lib.dialogues.SimpleNode object at 0x112200c18>]
+Simple Node
+Tree Node
+	branch: terrific
+		Simple Node
+		Tree Node
+			branch: dismayed
+				Simple Node
+				Simple Node
+				Simple Node
+			branch: upbeat
+				Simple Node
+				Simple Node
+				Simple Node
+			branch: default
+				Simple Node
+		Tree Node
+			branch: dismayed
+				Simple Node
+				Simple Node
+				Simple Node
+			branch: upbeat
+				Simple Node
+				Simple Node
+				Simple Node
+			branch: default
+				Simple Node
+	branch: hopeful
+		Simple Node
+		Tree Node
+			branch: dismayed
+				Simple Node
+				Simple Node
+				Simple Node
+			branch: upbeat
+				Simple Node
+				Simple Node
+				Simple Node
+			branch: default
+				Simple Node
+		Simple Node
+	branch: default
+		Simple Node
+Tree Node
+	branch: dismayed
+		Simple Node
+		Simple Node
+		Simple Node
+	branch: upbeat
+		Simple Node
+		Simple Node
+		Simple Node
+	branch: default
+		Simple Node
+Simple Node
+
+index = 3
+self.nodes = [<lib.dialogues.SimpleNode object at 0x1121b7be0>, <lib.dialogues.TreeNode object at 0x112200c88>, <lib.dialogues.TreeNode object at 0x112200be0>, <lib.dialogues.SimpleNode object at 0x112200c18>]
+Simple Node
+Tree Node
+	branch: terrific
+		Simple Node
+		Tree Node
+			branch: dismayed
+				Simple Node
+				Simple Node
+				Simple Node
+			branch: upbeat
+				Simple Node
+				Simple Node
+				Simple Node
+			branch: default
+				Simple Node
+		Tree Node
+			branch: dismayed
+				Simple Node
+				Simple Node
+				Simple Node
+			branch: upbeat
+				Simple Node
+				Simple Node
+				Simple Node
+			branch: default
+				Simple Node
+	branch: hopeful
+		Simple Node
+		Tree Node
+			branch: dismayed
+				Simple Node
+				Simple Node
+				Simple Node
+			branch: upbeat
+				Simple Node
+				Simple Node
+				Simple Node
+			branch: default
+				Simple Node
+		Simple Node
+	branch: default
+		Simple Node
+Tree Node
+	branch: dismayed
+		Simple Node
+		Simple Node
+		Simple Node
+	branch: upbeat
+		Simple Node
+		Simple Node
+		Simple Node
+	branch: default
+		Simple Node
+Simple Node
+
+index = 1
+self.nodes = [<lib.dialogues.SimpleNode object at 0x1121b7be0>, <lib.dialogues.TreeNode object at 0x112200c88>, <lib.dialogues.TreeNode object at 0x112200be0>, <lib.dialogues.SimpleNode object at 0x112200c18>]
+Simple Node
+Tree Node
+	branch: terrific
+		Simple Node
+		Tree Node
+			branch: dismayed
+				Simple Node
+				Simple Node
+				Simple Node
+			branch: upbeat
+				Simple Node
+				Simple Node
+				Simple Node
+			branch: default
+				Simple Node
+		Tree Node
+			branch: dismayed
+				Simple Node
+				Simple Node
+				Simple Node
+			branch: upbeat
+				Simple Node
+				Simple Node
+				Simple Node
+			branch: default
+				Simple Node
+	branch: hopeful
+		Simple Node
+		Tree Node
+			branch: dismayed
+				Simple Node
+				Simple Node
+				Simple Node
+			branch: upbeat
+				Simple Node
+				Simple Node
+				Simple Node
+			branch: default
+				Simple Node
+		Simple Node
+	branch: default
+		Simple Node
+Tree Node
+	branch: dismayed
+		Simple Node
+		Simple Node
+		Simple Node
+	branch: upbeat
+		Simple Node
+		Simple Node
+		Simple Node
+	branch: default
+		Simple Node
+Simple Node
+
+index = 1
+self.nodes = [<lib.dialogues.SimpleNode object at 0x1121b7be0>, <lib.dialogues.TreeNode object at 0x112200c88>, <lib.dialogues.TreeNode object at 0x112200be0>, <lib.dialogues.SimpleNode object at 0x112200c18>]
+Simple Node
+Tree Node
+	branch: terrific
+		Simple Node
+		Tree Node
+			branch: dismayed
+				Simple Node
+				Simple Node
+				Simple Node
+			branch: upbeat
+				Simple Node
+				Simple Node
+				Simple Node
+			branch: default
+				Simple Node
+		Tree Node
+			branch: dismayed
+				Simple Node
+				Simple Node
+				Simple Node
+			branch: upbeat
+				Simple Node
+				Simple Node
+				Simple Node
+			branch: default
+				Simple Node
+	branch: hopeful
+		Simple Node
+		Tree Node
+			branch: dismayed
+				Simple Node
+				Simple Node
+				Simple Node
+			branch: upbeat
+				Simple Node
+				Simple Node
+				Simple Node
+			branch: default
+				Simple Node
+		Simple Node
+	branch: default
+		Simple Node
+Tree Node
+	branch: dismayed
+		Simple Node
+		Simple Node
+		Simple Node
+	branch: upbeat
+		Simple Node
+		Simple Node
+		Simple Node
+	branch: default
+		Simple Node
+Simple Node
+
+index = 2
+self.nodes = [<lib.dialogues.SimpleNode object at 0x1121b7be0>, <lib.dialogues.SimpleNode object at 0x1121b7b70>, <lib.dialogues.TreeNode object at 0x112200be0>, <lib.dialogues.SimpleNode object at 0x112200c18>]
+Simple Node
+Simple Node
+Tree Node
+	branch: dismayed
+		Simple Node
+		Simple Node
+		Simple Node
+	branch: upbeat
+		Simple Node
+		Simple Node
+		Simple Node
+	branch: default
+		Simple Node
+Simple Node
+
+index = 2
+self.nodes = [<lib.dialogues.SimpleNode object at 0x1121b7be0>, <lib.dialogues.SimpleNode object at 0x1121b7b70>, <lib.dialogues.TreeNode object at 0x112200be0>, <lib.dialogues.SimpleNode object at 0x112200c18>]
+Simple Node
+Simple Node
+Tree Node
+	branch: dismayed
+		Simple Node
+		Simple Node
+		Simple Node
+	branch: upbeat
+		Simple Node
+		Simple Node
+		Simple Node
+	branch: default
+		Simple Node
+Simple Node
+
+index = 2
+self.nodes = [<lib.dialogues.SimpleNode object at 0x1121b7be0>, <lib.dialogues.SimpleNode object at 0x1121b7b70>, <lib.dialogues.TreeNode object at 0x112200be0>, <lib.dialogues.SimpleNode object at 0x112200c18>]
+Simple Node
+Simple Node
+Tree Node
+	branch: dismayed
+		Simple Node
+		Simple Node
+		Simple Node
+	branch: upbeat
+		Simple Node
+		Simple Node
+		Simple Node
+	branch: default
+		Simple Node
+Simple Node
+
+index = 0
+self.nodes = [<lib.dialogues.ValidateInputNode object at 0x10aeb96a0>, <lib.dialogues.SimpleNode object at 0x10accb358>]
+Validate Input Node
+Simple Node
+
+index = 1
+self.nodes = [<lib.dialogues.ValidateInputNode object at 0x10aeb96a0>, <lib.dialogues.SimpleNode object at 0x10accb358>]
+Validate Input Node
+Simple Node
+
+index = 0
+self.nodes = [<lib.dialogues.ValidateInputNode object at 0x10aeb96a0>, <lib.dialogues.SimpleNode object at 0x10accb358>]
+Validate Input Node
+Simple Node
+
+index = 0
+self.nodes = [<lib.dialogues.SimpleNode object at 0x10accb358>, <lib.dialogues.TreeNode object at 0x10aeb90b8>, <lib.dialogues.TreeNode object at 0x10aeb9160>, <lib.dialogues.SimpleNode object at 0x10aeb9128>]
+Simple Node
+Tree Node
+	branch: terrific
+		Simple Node
+		Tree Node
+			branch: dismayed
+				Simple Node
+				Simple Node
+				Simple Node
+			branch: upbeat
+				Simple Node
+				Simple Node
+				Simple Node
+			branch: default
+				Simple Node
+		Tree Node
+			branch: dismayed
+				Simple Node
+				Simple Node
+				Simple Node
+			branch: upbeat
+				Simple Node
+				Simple Node
+				Simple Node
+			branch: default
+				Simple Node
+	branch: hopeful
+		Simple Node
+		Tree Node
+			branch: dismayed
+				Simple Node
+				Simple Node
+				Simple Node
+			branch: upbeat
+				Simple Node
+				Simple Node
+				Simple Node
+			branch: default
+				Simple Node
+		Simple Node
+	branch: default
+		Simple Node
+Tree Node
+	branch: dismayed
+		Simple Node
+		Simple Node
+		Simple Node
+	branch: upbeat
+		Simple Node
+		Simple Node
+		Simple Node
+	branch: default
+		Simple Node
+Simple Node
+
+index = 1
+self.nodes = [<lib.dialogues.SimpleNode object at 0x10accb358>, <lib.dialogues.TreeNode object at 0x10aeb90b8>, <lib.dialogues.TreeNode object at 0x10aeb9160>, <lib.dialogues.SimpleNode object at 0x10aeb9128>]
+Simple Node
+Tree Node
+	branch: terrific
+		Simple Node
+		Tree Node
+			branch: dismayed
+				Simple Node
+				Simple Node
+				Simple Node
+			branch: upbeat
+				Simple Node
+				Simple Node
+				Simple Node
+			branch: default
+				Simple Node
+		Tree Node
+			branch: dismayed
+				Simple Node
+				Simple Node
+				Simple Node
+			branch: upbeat
+				Simple Node
+				Simple Node
+				Simple Node
+			branch: default
+				Simple Node
+	branch: hopeful
+		Simple Node
+		Tree Node
+			branch: dismayed
+				Simple Node
+				Simple Node
+				Simple Node
+			branch: upbeat
+				Simple Node
+				Simple Node
+				Simple Node
+			branch: default
+				Simple Node
+		Simple Node
+	branch: default
+		Simple Node
+Tree Node
+	branch: dismayed
+		Simple Node
+		Simple Node
+		Simple Node
+	branch: upbeat
+		Simple Node
+		Simple Node
+		Simple Node
+	branch: default
+		Simple Node
+Simple Node
+
+index = 2
+self.nodes = [<lib.dialogues.SimpleNode object at 0x10accb358>, <lib.dialogues.TreeNode object at 0x10aeb90b8>, <lib.dialogues.TreeNode object at 0x10aeb9160>, <lib.dialogues.SimpleNode object at 0x10aeb9128>]
+Simple Node
+Tree Node
+	branch: terrific
+		Simple Node
+		Tree Node
+			branch: dismayed
+				Simple Node
+				Simple Node
+				Simple Node
+			branch: upbeat
+				Simple Node
+				Simple Node
+				Simple Node
+			branch: default
+				Simple Node
+		Tree Node
+			branch: dismayed
+				Simple Node
+				Simple Node
+				Simple Node
+			branch: upbeat
+				Simple Node
+				Simple Node
+				Simple Node
+			branch: default
+				Simple Node
+	branch: hopeful
+		Simple Node
+		Tree Node
+			branch: dismayed
+				Simple Node
+				Simple Node
+				Simple Node
+			branch: upbeat
+				Simple Node
+				Simple Node
+				Simple Node
+			branch: default
+				Simple Node
+		Simple Node
+	branch: default
+		Simple Node
+Tree Node
+	branch: dismayed
+		Simple Node
+		Simple Node
+		Simple Node
+	branch: upbeat
+		Simple Node
+		Simple Node
+		Simple Node
+	branch: default
+		Simple Node
+Simple Node
+
+index = 2
+self.nodes = [<lib.dialogues.SimpleNode object at 0x10accb358>, <lib.dialogues.TreeNode object at 0x10aeb90b8>, <lib.dialogues.TreeNode object at 0x10aeb9160>, <lib.dialogues.SimpleNode object at 0x10aeb9128>]
+Simple Node
+Tree Node
+	branch: terrific
+		Simple Node
+		Tree Node
+			branch: dismayed
+				Simple Node
+				Simple Node
+				Simple Node
+			branch: upbeat
+				Simple Node
+				Simple Node
+				Simple Node
+			branch: default
+				Simple Node
+		Tree Node
+			branch: dismayed
+				Simple Node
+				Simple Node
+				Simple Node
+			branch: upbeat
+				Simple Node
+				Simple Node
+				Simple Node
+			branch: default
+				Simple Node
+	branch: hopeful
+		Simple Node
+		Tree Node
+			branch: dismayed
+				Simple Node
+				Simple Node
+				Simple Node
+			branch: upbeat
+				Simple Node
+				Simple Node
+				Simple Node
+			branch: default
+				Simple Node
+		Simple Node
+	branch: default
+		Simple Node
+Tree Node
+	branch: dismayed
+		Simple Node
+		Simple Node
+		Simple Node
+	branch: upbeat
+		Simple Node
+		Simple Node
+		Simple Node
+	branch: default
+		Simple Node
+Simple Node
+
+index = 2
+self.nodes = [<lib.dialogues.SimpleNode object at 0x10accb358>, <lib.dialogues.TreeNode object at 0x10aeb90b8>, <lib.dialogues.TreeNode object at 0x10aeb9160>, <lib.dialogues.SimpleNode object at 0x10aeb9128>]
+Simple Node
+Tree Node
+	branch: terrific
+		Simple Node
+		Tree Node
+			branch: dismayed
+				Simple Node
+				Simple Node
+				Simple Node
+			branch: upbeat
+				Simple Node
+				Simple Node
+				Simple Node
+			branch: default
+				Simple Node
+		Tree Node
+			branch: dismayed
+				Simple Node
+				Simple Node
+				Simple Node
+			branch: upbeat
+				Simple Node
+				Simple Node
+				Simple Node
+			branch: default
+				Simple Node
+	branch: hopeful
+		Simple Node
+		Tree Node
+			branch: dismayed
+				Simple Node
+				Simple Node
+				Simple Node
+			branch: upbeat
+				Simple Node
+				Simple Node
+				Simple Node
+			branch: default
+				Simple Node
+		Simple Node
+	branch: default
+		Simple Node
+Tree Node
+	branch: dismayed
+		Simple Node
+		Simple Node
+		Simple Node
+	branch: upbeat
+		Simple Node
+		Simple Node
+		Simple Node
+	branch: default
+		Simple Node
+Simple Node
+
+index = 3
+self.nodes = [<lib.dialogues.SimpleNode object at 0x10accb358>, <lib.dialogues.TreeNode object at 0x10aeb90b8>, <lib.dialogues.TreeNode object at 0x10aeb9160>, <lib.dialogues.SimpleNode object at 0x10aeb9128>]
+Simple Node
+Tree Node
+	branch: terrific
+		Simple Node
+		Tree Node
+			branch: dismayed
+				Simple Node
+				Simple Node
+				Simple Node
+			branch: upbeat
+				Simple Node
+				Simple Node
+				Simple Node
+			branch: default
+				Simple Node
+		Tree Node
+			branch: dismayed
+				Simple Node
+				Simple Node
+				Simple Node
+			branch: upbeat
+				Simple Node
+				Simple Node
+				Simple Node
+			branch: default
+				Simple Node
+	branch: hopeful
+		Simple Node
+		Tree Node
+			branch: dismayed
+				Simple Node
+				Simple Node
+				Simple Node
+			branch: upbeat
+				Simple Node
+				Simple Node
+				Simple Node
+			branch: default
+				Simple Node
+		Simple Node
+	branch: default
+		Simple Node
+Tree Node
+	branch: dismayed
+		Simple Node
+		Simple Node
+		Simple Node
+	branch: upbeat
+		Simple Node
+		Simple Node
+		Simple Node
+	branch: default
+		Simple Node
+Simple Node
+
+index = 1
+self.nodes = [<lib.dialogues.SimpleNode object at 0x10accb358>, <lib.dialogues.TreeNode object at 0x10aeb90b8>, <lib.dialogues.TreeNode object at 0x10aeb9160>, <lib.dialogues.SimpleNode object at 0x10aeb9128>]
+Simple Node
+Tree Node
+	branch: terrific
+		Simple Node
+		Tree Node
+			branch: dismayed
+				Simple Node
+				Simple Node
+				Simple Node
+			branch: upbeat
+				Simple Node
+				Simple Node
+				Simple Node
+			branch: default
+				Simple Node
+		Tree Node
+			branch: dismayed
+				Simple Node
+				Simple Node
+				Simple Node
+			branch: upbeat
+				Simple Node
+				Simple Node
+				Simple Node
+			branch: default
+				Simple Node
+	branch: hopeful
+		Simple Node
+		Tree Node
+			branch: dismayed
+				Simple Node
+				Simple Node
+				Simple Node
+			branch: upbeat
+				Simple Node
+				Simple Node
+				Simple Node
+			branch: default
+				Simple Node
+		Simple Node
+	branch: default
+		Simple Node
+Tree Node
+	branch: dismayed
+		Simple Node
+		Simple Node
+		Simple Node
+	branch: upbeat
+		Simple Node
+		Simple Node
+		Simple Node
+	branch: default
+		Simple Node
+Simple Node
+
+index = 1
+self.nodes = [<lib.dialogues.SimpleNode object at 0x10accb358>, <lib.dialogues.TreeNode object at 0x10aeb90b8>, <lib.dialogues.TreeNode object at 0x10aeb9160>, <lib.dialogues.SimpleNode object at 0x10aeb9128>]
+Simple Node
+Tree Node
+	branch: terrific
+		Simple Node
+		Tree Node
+			branch: dismayed
+				Simple Node
+				Simple Node
+				Simple Node
+			branch: upbeat
+				Simple Node
+				Simple Node
+				Simple Node
+			branch: default
+				Simple Node
+		Tree Node
+			branch: dismayed
+				Simple Node
+				Simple Node
+				Simple Node
+			branch: upbeat
+				Simple Node
+				Simple Node
+				Simple Node
+			branch: default
+				Simple Node
+	branch: hopeful
+		Simple Node
+		Tree Node
+			branch: dismayed
+				Simple Node
+				Simple Node
+				Simple Node
+			branch: upbeat
+				Simple Node
+				Simple Node
+				Simple Node
+			branch: default
+				Simple Node
+		Simple Node
+	branch: default
+		Simple Node
+Tree Node
+	branch: dismayed
+		Simple Node
+		Simple Node
+		Simple Node
+	branch: upbeat
+		Simple Node
+		Simple Node
+		Simple Node
+	branch: default
+		Simple Node
+Simple Node
+
+index = 2
+self.nodes = [<lib.dialogues.SimpleNode object at 0x10accb358>, <lib.dialogues.SimpleNode object at 0x10accb390>, <lib.dialogues.TreeNode object at 0x10aeb9160>, <lib.dialogues.SimpleNode object at 0x10aeb9128>]
+Simple Node
+Simple Node
+Tree Node
+	branch: dismayed
+		Simple Node
+		Simple Node
+		Simple Node
+	branch: upbeat
+		Simple Node
+		Simple Node
+		Simple Node
+	branch: default
+		Simple Node
+Simple Node
+
+index = 2
+self.nodes = [<lib.dialogues.SimpleNode object at 0x10accb358>, <lib.dialogues.SimpleNode object at 0x10accb390>, <lib.dialogues.TreeNode object at 0x10aeb9160>, <lib.dialogues.SimpleNode object at 0x10aeb9128>]
+Simple Node
+Simple Node
+Tree Node
+	branch: dismayed
+		Simple Node
+		Simple Node
+		Simple Node
+	branch: upbeat
+		Simple Node
+		Simple Node
+		Simple Node
+	branch: default
+		Simple Node
+Simple Node
+
+index = 2
+self.nodes = [<lib.dialogues.SimpleNode object at 0x10accb358>, <lib.dialogues.SimpleNode object at 0x10accb390>, <lib.dialogues.TreeNode object at 0x10aeb9160>, <lib.dialogues.SimpleNode object at 0x10aeb9128>]
+Simple Node
+Simple Node
+Tree Node
+	branch: dismayed
+		Simple Node
+		Simple Node
+		Simple Node
+	branch: upbeat
+		Simple Node
+		Simple Node
+		Simple Node
+	branch: default
+		Simple Node
+Simple Node
+

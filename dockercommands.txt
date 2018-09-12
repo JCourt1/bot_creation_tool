@@ -1,0 +1,44 @@
+docker kill <containerID>
+
+To expose multiple ports, simply provide multiple -p arguments:
+docker run -p 4000:4000 web
+docker run -p 5002:5002 joesrasabot
+docker run -p 4000:4000 combinedapp
+
+
+docker build -t joesrasabot:v1.0 .
+docker build -t websidejoe:v1.1 .
+
+docker build -t combinedapp:v1.0 .
+
+
+docker run -ti joesrasabot /bin/bash
+
+Or to enter a specific docker container by ID, do:
+docker exec -it 0d0c82065a27 /bin/bash
+
+Then to check a process attached to a port:
+lsof -i :port
+
+and just list ports:
+ps aux
+
+
+
+
+/////////////////////////
+
+
+
+
+deployment
+///////////
+
+docker build -t project_final .
+
+docker run -i -p 80:80 -p 5002:5002 project_final
+
+
+docker images
+docker tag <imageID> ucabjpc/project_final:v6
+docker push ucabjpc/project_final:v6

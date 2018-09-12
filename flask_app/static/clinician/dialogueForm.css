@@ -1,0 +1,230 @@
+input {
+  height: 30px;
+  width: 80%;
+  margin:auto;
+  display: block;
+}
+
+.dialogueForm {
+  background-color: #eaeaea;
+  padding-bottom: 10px;
+}
+
+.tree {
+
+}
+
+
+.vrow p {
+  padding: 0px;
+  margin: 2px;
+  font-size:20px;
+}
+
+.node {
+  max-width:25rem;
+  text-align: center;
+  margin:auto;
+}
+
+.TreeNode {
+  margin: 0 !important;
+  width: 100%;
+  /* padding-right: 0; */
+  max-width:-webkit-fill-available;
+  padding: 5px;
+  white-space: nowrap;
+  text-align: center;
+  color:black;
+  /* border-style: solid; */
+ }
+
+
+
+
+.node textarea {
+  width:100%;
+  font-size: 17px;
+  text-align: center;
+}
+
+.node input {
+  font-size: 17px;
+  text-align: center;
+}
+
+.node {
+  border-radius: 30px 5px 30px 30px;
+  padding: 5px;
+}
+
+.branch {
+  margin:auto;
+  border-radius: 40px 40px 5px 5px;
+}
+
+.node h2 {
+  margin: 3px;
+}
+
+.SimpleNode{
+  border-style: solid;
+  padding: 5px;
+  background-color: #c7c7c7;
+  color:black;
+  /* margin: 2px; */
+}
+
+.ValidateNode {
+  border-style: solid;
+  border-color:#504849;
+  padding: 5px;
+  background-color: #726f77;
+  color:#ddedf5;
+  /* margin: 2px; */
+}
+
+.vrow * {
+
+}
+
+.vrow {
+  text-align: center;
+  padding: 5px;
+}
+
+.line1 {
+        width: 1px;
+        height: 40px;
+        background-color: #000;
+        margin: 0 auto;
+}
+
+.acceptedInputs {
+
+}
+
+.acceptedInputs input {
+}
+
+.successResponse input {
+}
+
+.branch {
+  margin-left: 5px;
+  margin-right: 5px;
+  display: inline-block;
+  background-color: #dafbd9;
+  vertical-align: top;
+  /* margin: 2px; */
+  border-style: solid;
+  border-color: #210d0d;
+  /* box-shadow: 5px 5px #888888; */
+}
+
+
+.successResponse {
+
+}
+
+
+
+.selectNode {
+    text-align: center;
+    border-top-style: dotted;
+    margin-top: 20px;
+    padding-top: 20px;
+
+}
+
+.selectIntents {
+  border-style: solid;
+  /* display: flex; */
+  /* float: right; */
+  width: 200px;
+  margin: 0 auto;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  text-align: center;
+}
+
+.dFormOptions {
+  width: 25rem;
+  margin: auto;
+  margin-bottom: 20px;
+}
+
+.dFormOptions * {
+  display: inline-block;
+  width: 11rem;
+  font-size: 20px;
+  /*   display: table; */
+}
+
+.dFormOptions input {
+  /* width: 15em; */
+  background-color: #ffffff;
+  color: #020202;
+  text-align: center;
+}
+
+.dFormOptions p {
+  width: 10em;
+  /* border: 0px; */
+  margin-top: 2px;
+}
+
+
+.submitForm {
+  margin-top: 30px;
+  width: 10em;
+  /* color: #eff1f0; */
+  background-color: #7fffd4;
+  font-size: 20px !important;
+  /* padding: 10px; */
+  height:  100%;
+  border-radius: 5px;
+}
+
+#dnameDiv {
+  width: 25rem;
+  margin: auto;
+  margin-bottom: 20px;
+}
+
+#dnameDiv * {
+  display: inline-block;
+  font-size: 20px;
+}
+
+
+#dnameDiv p {
+  display: inline-block;
+  width: 10em;
+  /* border: 0px; */
+  margin-top: 2px;
+  float:none;
+}
+
+#dnameDiv input {
+  display: inline-block;
+  width: 9em;
+  font-size: 20px;
+  background-color: #ffffff;
+  color: #080808;
+  text-align: center;
+}
+
+#BaseFile {
+  display: none;
+}
+
+.hideThis {
+  display: none;
+}
+
+#dtypeDiv {
+    width: 25rem;
+    margin: auto;
+    margin-bottom: 20px;
+}

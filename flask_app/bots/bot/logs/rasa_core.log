@@ -1,0 +1,444 @@
+From /Users/joseph/anaconda3/lib/python3.6/site-packages/keras/backend/tensorflow_backend.py:1355: calling reduce_any (from tensorflow.python.ops.math_ops) with keep_dims is deprecated and will be removed in a future version.
+Instructions for updating:
+keep_dims is deprecated, use keepdims instead
+From /Users/joseph/anaconda3/lib/python3.6/site-packages/keras/backend/tensorflow_backend.py:1238: calling reduce_sum (from tensorflow.python.ops.math_ops) with keep_dims is deprecated and will be removed in a future version.
+Instructions for updating:
+keep_dims is deprecated, use keepdims instead
+From /Users/joseph/anaconda3/lib/python3.6/site-packages/keras/backend/tensorflow_backend.py:1355: calling reduce_any (from tensorflow.python.ops.math_ops) with keep_dims is deprecated and will be removed in a future version.
+Instructions for updating:
+keep_dims is deprecated, use keepdims instead
+From /Users/joseph/anaconda3/lib/python3.6/site-packages/keras/backend/tensorflow_backend.py:1238: calling reduce_sum (from tensorflow.python.ops.math_ops) with keep_dims is deprecated and will be removed in a future version.
+Instructions for updating:
+keep_dims is deprecated, use keepdims instead
+From /Users/joseph/anaconda3/lib/python3.6/site-packages/keras/backend/tensorflow_backend.py:1355: calling reduce_any (from tensorflow.python.ops.math_ops) with keep_dims is deprecated and will be removed in a future version.
+Instructions for updating:
+keep_dims is deprecated, use keepdims instead
+From /Users/joseph/anaconda3/lib/python3.6/site-packages/keras/backend/tensorflow_backend.py:1238: calling reduce_sum (from tensorflow.python.ops.math_ops) with keep_dims is deprecated and will be removed in a future version.
+Instructions for updating:
+keep_dims is deprecated, use keepdims instead
+From /Users/joseph/anaconda3/lib/python3.6/site-packages/keras/backend/tensorflow_backend.py:1355: calling reduce_any (from tensorflow.python.ops.math_ops) with keep_dims is deprecated and will be removed in a future version.
+Instructions for updating:
+keep_dims is deprecated, use keepdims instead
+From /Users/joseph/anaconda3/lib/python3.6/site-packages/keras/backend/tensorflow_backend.py:1238: calling reduce_sum (from tensorflow.python.ops.math_ops) with keep_dims is deprecated and will be removed in a future version.
+Instructions for updating:
+keep_dims is deprecated, use keepdims instead
+From /Users/joseph/anaconda3/lib/python3.6/site-packages/keras/backend/tensorflow_backend.py:1355: calling reduce_any (from tensorflow.python.ops.math_ops) with keep_dims is deprecated and will be removed in a future version.
+Instructions for updating:
+keep_dims is deprecated, use keepdims instead
+From /Users/joseph/anaconda3/lib/python3.6/site-packages/keras/backend/tensorflow_backend.py:1238: calling reduce_sum (from tensorflow.python.ops.math_ops) with keep_dims is deprecated and will be removed in a future version.
+Instructions for updating:
+keep_dims is deprecated, use keepdims instead
+From /Users/joseph/anaconda3/lib/python3.6/site-packages/keras/backend/tensorflow_backend.py:1355: calling reduce_any (from tensorflow.python.ops.math_ops) with keep_dims is deprecated and will be removed in a future version.
+Instructions for updating:
+keep_dims is deprecated, use keepdims instead
+From /Users/joseph/anaconda3/lib/python3.6/site-packages/keras/backend/tensorflow_backend.py:1238: calling reduce_sum (from tensorflow.python.ops.math_ops) with keep_dims is deprecated and will be removed in a future version.
+Instructions for updating:
+keep_dims is deprecated, use keepdims instead
+From /Users/joseph/anaconda3/lib/python3.6/site-packages/keras/backend/tensorflow_backend.py:1355: calling reduce_any (from tensorflow.python.ops.math_ops) with keep_dims is deprecated and will be removed in a future version.
+Instructions for updating:
+keep_dims is deprecated, use keepdims instead
+From /Users/joseph/anaconda3/lib/python3.6/site-packages/keras/backend/tensorflow_backend.py:1238: calling reduce_sum (from tensorflow.python.ops.math_ops) with keep_dims is deprecated and will be removed in a future version.
+Instructions for updating:
+keep_dims is deprecated, use keepdims instead
+From /Users/joseph/anaconda3/lib/python3.6/site-packages/keras/backend/tensorflow_backend.py:1355: calling reduce_any (from tensorflow.python.ops.math_ops) with keep_dims is deprecated and will be removed in a future version.
+Instructions for updating:
+keep_dims is deprecated, use keepdims instead
+From /Users/joseph/anaconda3/lib/python3.6/site-packages/keras/backend/tensorflow_backend.py:1238: calling reduce_sum (from tensorflow.python.ops.math_ops) with keep_dims is deprecated and will be removed in a future version.
+Instructions for updating:
+keep_dims is deprecated, use keepdims instead
+From /Users/joseph/anaconda3/lib/python3.6/site-packages/keras/backend/tensorflow_backend.py:1355: calling reduce_any (from tensorflow.python.ops.math_ops) with keep_dims is deprecated and will be removed in a future version.
+Instructions for updating:
+keep_dims is deprecated, use keepdims instead
+From /Users/joseph/anaconda3/lib/python3.6/site-packages/keras/backend/tensorflow_backend.py:1238: calling reduce_sum (from tensorflow.python.ops.math_ops) with keep_dims is deprecated and will be removed in a future version.
+Instructions for updating:
+keep_dims is deprecated, use keepdims instead
+From /Users/joseph/anaconda3/lib/python3.6/site-packages/keras/backend/tensorflow_backend.py:1355: calling reduce_any (from tensorflow.python.ops.math_ops) with keep_dims is deprecated and will be removed in a future version.
+Instructions for updating:
+keep_dims is deprecated, use keepdims instead
+From /Users/joseph/anaconda3/lib/python3.6/site-packages/keras/backend/tensorflow_backend.py:1238: calling reduce_sum (from tensorflow.python.ops.math_ops) with keep_dims is deprecated and will be removed in a future version.
+Instructions for updating:
+keep_dims is deprecated, use keepdims instead
+From /Users/joseph/anaconda3/lib/python3.6/site-packages/keras/backend/tensorflow_backend.py:1355: calling reduce_any (from tensorflow.python.ops.math_ops) with keep_dims is deprecated and will be removed in a future version.
+Instructions for updating:
+keep_dims is deprecated, use keepdims instead
+From /Users/joseph/anaconda3/lib/python3.6/site-packages/keras/backend/tensorflow_backend.py:1238: calling reduce_sum (from tensorflow.python.ops.math_ops) with keep_dims is deprecated and will be removed in a future version.
+Instructions for updating:
+keep_dims is deprecated, use keepdims instead
+From /Users/joseph/anaconda3/lib/python3.6/site-packages/keras/backend/tensorflow_backend.py:1355: calling reduce_any (from tensorflow.python.ops.math_ops) with keep_dims is deprecated and will be removed in a future version.
+Instructions for updating:
+keep_dims is deprecated, use keepdims instead
+From /Users/joseph/anaconda3/lib/python3.6/site-packages/keras/backend/tensorflow_backend.py:1238: calling reduce_sum (from tensorflow.python.ops.math_ops) with keep_dims is deprecated and will be removed in a future version.
+Instructions for updating:
+keep_dims is deprecated, use keepdims instead
+Failed to use action 'special_resume_action_name' in history. Please make sure all actions are listed in the domains action list. If you recently removed an action, don't worry about this warning. It should stop appearing after a while. 
+Failed to use action 'special_resume_action_name' in history. Please make sure all actions are listed in the domains action list. If you recently removed an action, don't worry about this warning. It should stop appearing after a while. 
+Failed to use action 'special_resume_action_name' in history. Please make sure all actions are listed in the domains action list. If you recently removed an action, don't worry about this warning. It should stop appearing after a while. 
+Failed to use action 'special_resume_action_name' in history. Please make sure all actions are listed in the domains action list. If you recently removed an action, don't worry about this warning. It should stop appearing after a while. 
+Failed to use action 'special_resume_action_name' in history. Please make sure all actions are listed in the domains action list. If you recently removed an action, don't worry about this warning. It should stop appearing after a while. 
+Failed to use action 'special_resume_action_name' in history. Please make sure all actions are listed in the domains action list. If you recently removed an action, don't worry about this warning. It should stop appearing after a while. 
+Failed to use action 'special_resume_action_name' in history. Please make sure all actions are listed in the domains action list. If you recently removed an action, don't worry about this warning. It should stop appearing after a while. 
+Failed to use action 'special_resume_action_name' in history. Please make sure all actions are listed in the domains action list. If you recently removed an action, don't worry about this warning. It should stop appearing after a while. 
+Failed to use action 'special_resume_action_name' in history. Please make sure all actions are listed in the domains action list. If you recently removed an action, don't worry about this warning. It should stop appearing after a while. 
+Failed to use action 'special_resume_action_name' in history. Please make sure all actions are listed in the domains action list. If you recently removed an action, don't worry about this warning. It should stop appearing after a while. 
+From /Users/joseph/anaconda3/lib/python3.6/site-packages/keras/backend/tensorflow_backend.py:1355: calling reduce_any (from tensorflow.python.ops.math_ops) with keep_dims is deprecated and will be removed in a future version.
+Instructions for updating:
+keep_dims is deprecated, use keepdims instead
+From /Users/joseph/anaconda3/lib/python3.6/site-packages/keras/backend/tensorflow_backend.py:1238: calling reduce_sum (from tensorflow.python.ops.math_ops) with keep_dims is deprecated and will be removed in a future version.
+Instructions for updating:
+keep_dims is deprecated, use keepdims instead
+Failed to use action 'special_resume_action_name' in history. Please make sure all actions are listed in the domains action list. If you recently removed an action, don't worry about this warning. It should stop appearing after a while. 
+Failed to use action 'special_resume_action_name' in history. Please make sure all actions are listed in the domains action list. If you recently removed an action, don't worry about this warning. It should stop appearing after a while. 
+Failed to use action 'special_resume_action_name' in history. Please make sure all actions are listed in the domains action list. If you recently removed an action, don't worry about this warning. It should stop appearing after a while. 
+Failed to use action 'special_resume_action_name' in history. Please make sure all actions are listed in the domains action list. If you recently removed an action, don't worry about this warning. It should stop appearing after a while. 
+From /Users/joseph/anaconda3/lib/python3.6/site-packages/keras/backend/tensorflow_backend.py:1355: calling reduce_any (from tensorflow.python.ops.math_ops) with keep_dims is deprecated and will be removed in a future version.
+Instructions for updating:
+keep_dims is deprecated, use keepdims instead
+From /Users/joseph/anaconda3/lib/python3.6/site-packages/keras/backend/tensorflow_backend.py:1238: calling reduce_sum (from tensorflow.python.ops.math_ops) with keep_dims is deprecated and will be removed in a future version.
+Instructions for updating:
+keep_dims is deprecated, use keepdims instead
+From /Users/joseph/anaconda3/lib/python3.6/site-packages/keras/backend/tensorflow_backend.py:1355: calling reduce_any (from tensorflow.python.ops.math_ops) with keep_dims is deprecated and will be removed in a future version.
+Instructions for updating:
+keep_dims is deprecated, use keepdims instead
+From /Users/joseph/anaconda3/lib/python3.6/site-packages/keras/backend/tensorflow_backend.py:1238: calling reduce_sum (from tensorflow.python.ops.math_ops) with keep_dims is deprecated and will be removed in a future version.
+Instructions for updating:
+keep_dims is deprecated, use keepdims instead
+From /Users/joseph/anaconda3/lib/python3.6/site-packages/keras/backend/tensorflow_backend.py:1355: calling reduce_any (from tensorflow.python.ops.math_ops) with keep_dims is deprecated and will be removed in a future version.
+Instructions for updating:
+keep_dims is deprecated, use keepdims instead
+From /Users/joseph/anaconda3/lib/python3.6/site-packages/keras/backend/tensorflow_backend.py:1238: calling reduce_sum (from tensorflow.python.ops.math_ops) with keep_dims is deprecated and will be removed in a future version.
+Instructions for updating:
+keep_dims is deprecated, use keepdims instead
+From /Users/joseph/anaconda3/lib/python3.6/site-packages/keras/backend/tensorflow_backend.py:1355: calling reduce_any (from tensorflow.python.ops.math_ops) with keep_dims is deprecated and will be removed in a future version.
+Instructions for updating:
+keep_dims is deprecated, use keepdims instead
+From /Users/joseph/anaconda3/lib/python3.6/site-packages/keras/backend/tensorflow_backend.py:1238: calling reduce_sum (from tensorflow.python.ops.math_ops) with keep_dims is deprecated and will be removed in a future version.
+Instructions for updating:
+keep_dims is deprecated, use keepdims instead
+Failed to use action 'special_resume_action_name' in history. Please make sure all actions are listed in the domains action list. If you recently removed an action, don't worry about this warning. It should stop appearing after a while. 
+Failed to use action 'special_resume_action_name' in history. Please make sure all actions are listed in the domains action list. If you recently removed an action, don't worry about this warning. It should stop appearing after a while. 
+Failed to use action 'special_resume_action_name' in history. Please make sure all actions are listed in the domains action list. If you recently removed an action, don't worry about this warning. It should stop appearing after a while. 
+Failed to use action 'special_resume_action_name' in history. Please make sure all actions are listed in the domains action list. If you recently removed an action, don't worry about this warning. It should stop appearing after a while. 
+Failed to use action 'special_resume_action_name' in history. Please make sure all actions are listed in the domains action list. If you recently removed an action, don't worry about this warning. It should stop appearing after a while. 
+Failed to use action 'special_resume_action_name' in history. Please make sure all actions are listed in the domains action list. If you recently removed an action, don't worry about this warning. It should stop appearing after a while. 
+Failed to use action 'special_resume_action_name' in history. Please make sure all actions are listed in the domains action list. If you recently removed an action, don't worry about this warning. It should stop appearing after a while. 
+Failed to use action 'special_resume_action_name' in history. Please make sure all actions are listed in the domains action list. If you recently removed an action, don't worry about this warning. It should stop appearing after a while. 
+Failed to use action 'special_resume_action_name' in history. Please make sure all actions are listed in the domains action list. If you recently removed an action, don't worry about this warning. It should stop appearing after a while. 
+Failed to use action 'special_resume_action_name' in history. Please make sure all actions are listed in the domains action list. If you recently removed an action, don't worry about this warning. It should stop appearing after a while. 
+Failed to use action 'special_resume_action_name' in history. Please make sure all actions are listed in the domains action list. If you recently removed an action, don't worry about this warning. It should stop appearing after a while. 
+Failed to use action 'special_resume_action_name' in history. Please make sure all actions are listed in the domains action list. If you recently removed an action, don't worry about this warning. It should stop appearing after a while. 
+Failed to use action 'special_resume_action_name' in history. Please make sure all actions are listed in the domains action list. If you recently removed an action, don't worry about this warning. It should stop appearing after a while. 
+Failed to use action 'special_resume_action_name' in history. Please make sure all actions are listed in the domains action list. If you recently removed an action, don't worry about this warning. It should stop appearing after a while. 
+From /Users/joseph/anaconda3/lib/python3.6/site-packages/keras/backend/tensorflow_backend.py:1355: calling reduce_any (from tensorflow.python.ops.math_ops) with keep_dims is deprecated and will be removed in a future version.
+Instructions for updating:
+keep_dims is deprecated, use keepdims instead
+From /Users/joseph/anaconda3/lib/python3.6/site-packages/keras/backend/tensorflow_backend.py:1238: calling reduce_sum (from tensorflow.python.ops.math_ops) with keep_dims is deprecated and will be removed in a future version.
+Instructions for updating:
+keep_dims is deprecated, use keepdims instead
+Failed to use action 'special_resume_action_name' in history. Please make sure all actions are listed in the domains action list. If you recently removed an action, don't worry about this warning. It should stop appearing after a while. 
+Failed to use action 'special_resume_action_name' in history. Please make sure all actions are listed in the domains action list. If you recently removed an action, don't worry about this warning. It should stop appearing after a while. 
+Failed to use action 'special_resume_action_name' in history. Please make sure all actions are listed in the domains action list. If you recently removed an action, don't worry about this warning. It should stop appearing after a while. 
+Failed to use action 'special_resume_action_name' in history. Please make sure all actions are listed in the domains action list. If you recently removed an action, don't worry about this warning. It should stop appearing after a while. 
+Failed to use action 'special_resume_action_name' in history. Please make sure all actions are listed in the domains action list. If you recently removed an action, don't worry about this warning. It should stop appearing after a while. 
+Failed to use action 'special_resume_action_name' in history. Please make sure all actions are listed in the domains action list. If you recently removed an action, don't worry about this warning. It should stop appearing after a while. 
+From /Users/joseph/anaconda3/lib/python3.6/site-packages/keras/backend/tensorflow_backend.py:1355: calling reduce_any (from tensorflow.python.ops.math_ops) with keep_dims is deprecated and will be removed in a future version.
+Instructions for updating:
+keep_dims is deprecated, use keepdims instead
+From /Users/joseph/anaconda3/lib/python3.6/site-packages/keras/backend/tensorflow_backend.py:1238: calling reduce_sum (from tensorflow.python.ops.math_ops) with keep_dims is deprecated and will be removed in a future version.
+Instructions for updating:
+keep_dims is deprecated, use keepdims instead
+Failed to use action 'special_resume_action_name' in history. Please make sure all actions are listed in the domains action list. If you recently removed an action, don't worry about this warning. It should stop appearing after a while. 
+Failed to use action 'special_resume_action_name' in history. Please make sure all actions are listed in the domains action list. If you recently removed an action, don't worry about this warning. It should stop appearing after a while. 
+Failed to use action 'special_resume_action_name' in history. Please make sure all actions are listed in the domains action list. If you recently removed an action, don't worry about this warning. It should stop appearing after a while. 
+Failed to use action 'special_resume_action_name' in history. Please make sure all actions are listed in the domains action list. If you recently removed an action, don't worry about this warning. It should stop appearing after a while. 
+From /Users/joseph/anaconda3/lib/python3.6/site-packages/keras/backend/tensorflow_backend.py:1355: calling reduce_any (from tensorflow.python.ops.math_ops) with keep_dims is deprecated and will be removed in a future version.
+Instructions for updating:
+keep_dims is deprecated, use keepdims instead
+From /Users/joseph/anaconda3/lib/python3.6/site-packages/keras/backend/tensorflow_backend.py:1238: calling reduce_sum (from tensorflow.python.ops.math_ops) with keep_dims is deprecated and will be removed in a future version.
+Instructions for updating:
+keep_dims is deprecated, use keepdims instead
+From /Users/joseph/anaconda3/lib/python3.6/site-packages/keras/backend/tensorflow_backend.py:1355: calling reduce_any (from tensorflow.python.ops.math_ops) with keep_dims is deprecated and will be removed in a future version.
+Instructions for updating:
+keep_dims is deprecated, use keepdims instead
+From /Users/joseph/anaconda3/lib/python3.6/site-packages/keras/backend/tensorflow_backend.py:1238: calling reduce_sum (from tensorflow.python.ops.math_ops) with keep_dims is deprecated and will be removed in a future version.
+Instructions for updating:
+keep_dims is deprecated, use keepdims instead
+From /Users/joseph/anaconda3/lib/python3.6/site-packages/keras/backend/tensorflow_backend.py:1355: calling reduce_any (from tensorflow.python.ops.math_ops) with keep_dims is deprecated and will be removed in a future version.
+Instructions for updating:
+keep_dims is deprecated, use keepdims instead
+From /Users/joseph/anaconda3/lib/python3.6/site-packages/keras/backend/tensorflow_backend.py:1238: calling reduce_sum (from tensorflow.python.ops.math_ops) with keep_dims is deprecated and will be removed in a future version.
+Instructions for updating:
+keep_dims is deprecated, use keepdims instead
+From /Users/joseph/anaconda3/lib/python3.6/site-packages/keras/backend/tensorflow_backend.py:1355: calling reduce_any (from tensorflow.python.ops.math_ops) with keep_dims is deprecated and will be removed in a future version.
+Instructions for updating:
+keep_dims is deprecated, use keepdims instead
+From /Users/joseph/anaconda3/lib/python3.6/site-packages/keras/backend/tensorflow_backend.py:1238: calling reduce_sum (from tensorflow.python.ops.math_ops) with keep_dims is deprecated and will be removed in a future version.
+Instructions for updating:
+keep_dims is deprecated, use keepdims instead
+Failed to use action 'special_resume_action_name' in history. Please make sure all actions are listed in the domains action list. If you recently removed an action, don't worry about this warning. It should stop appearing after a while. 
+Failed to use action 'special_resume_action_name' in history. Please make sure all actions are listed in the domains action list. If you recently removed an action, don't worry about this warning. It should stop appearing after a while. 
+Failed to use action 'special_resume_action_name' in history. Please make sure all actions are listed in the domains action list. If you recently removed an action, don't worry about this warning. It should stop appearing after a while. 
+Failed to use action 'special_resume_action_name' in history. Please make sure all actions are listed in the domains action list. If you recently removed an action, don't worry about this warning. It should stop appearing after a while. 
+From /Users/joseph/anaconda3/lib/python3.6/site-packages/keras/backend/tensorflow_backend.py:1355: calling reduce_any (from tensorflow.python.ops.math_ops) with keep_dims is deprecated and will be removed in a future version.
+Instructions for updating:
+keep_dims is deprecated, use keepdims instead
+From /Users/joseph/anaconda3/lib/python3.6/site-packages/keras/backend/tensorflow_backend.py:1238: calling reduce_sum (from tensorflow.python.ops.math_ops) with keep_dims is deprecated and will be removed in a future version.
+Instructions for updating:
+keep_dims is deprecated, use keepdims instead
+From /Users/joseph/anaconda3/lib/python3.6/site-packages/keras/backend/tensorflow_backend.py:1355: calling reduce_any (from tensorflow.python.ops.math_ops) with keep_dims is deprecated and will be removed in a future version.
+Instructions for updating:
+keep_dims is deprecated, use keepdims instead
+From /Users/joseph/anaconda3/lib/python3.6/site-packages/keras/backend/tensorflow_backend.py:1238: calling reduce_sum (from tensorflow.python.ops.math_ops) with keep_dims is deprecated and will be removed in a future version.
+Instructions for updating:
+keep_dims is deprecated, use keepdims instead
+Categorical slot 'sentiment' is set to a value ('lonely') that is not specified in the domain. Value will be ignored and the slot will behave as if no value is set. Make sure to add all values a categorical slot should store to the domain.
+Categorical slot 'sentiment' is set to a value ('lonely') that is not specified in the domain. Value will be ignored and the slot will behave as if no value is set. Make sure to add all values a categorical slot should store to the domain.
+Failed to use action 'special_resume_action_name' in history. Please make sure all actions are listed in the domains action list. If you recently removed an action, don't worry about this warning. It should stop appearing after a while. 
+Categorical slot 'sentiment' is set to a value ('lonely') that is not specified in the domain. Value will be ignored and the slot will behave as if no value is set. Make sure to add all values a categorical slot should store to the domain.
+Categorical slot 'sentiment' is set to a value ('lonely') that is not specified in the domain. Value will be ignored and the slot will behave as if no value is set. Make sure to add all values a categorical slot should store to the domain.
+Failed to use action 'special_resume_action_name' in history. Please make sure all actions are listed in the domains action list. If you recently removed an action, don't worry about this warning. It should stop appearing after a while. 
+Categorical slot 'sentiment' is set to a value ('lonely') that is not specified in the domain. Value will be ignored and the slot will behave as if no value is set. Make sure to add all values a categorical slot should store to the domain.
+Categorical slot 'sentiment' is set to a value ('lonely') that is not specified in the domain. Value will be ignored and the slot will behave as if no value is set. Make sure to add all values a categorical slot should store to the domain.
+Failed to use action 'special_resume_action_name' in history. Please make sure all actions are listed in the domains action list. If you recently removed an action, don't worry about this warning. It should stop appearing after a while. 
+Categorical slot 'sentiment' is set to a value ('lonely') that is not specified in the domain. Value will be ignored and the slot will behave as if no value is set. Make sure to add all values a categorical slot should store to the domain.
+Categorical slot 'sentiment' is set to a value ('lonely') that is not specified in the domain. Value will be ignored and the slot will behave as if no value is set. Make sure to add all values a categorical slot should store to the domain.
+Categorical slot 'sentiment' is set to a value ('lonely') that is not specified in the domain. Value will be ignored and the slot will behave as if no value is set. Make sure to add all values a categorical slot should store to the domain.
+Failed to use action 'special_resume_action_name' in history. Please make sure all actions are listed in the domains action list. If you recently removed an action, don't worry about this warning. It should stop appearing after a while. 
+Categorical slot 'sentiment' is set to a value ('lonely') that is not specified in the domain. Value will be ignored and the slot will behave as if no value is set. Make sure to add all values a categorical slot should store to the domain.
+From /Users/joseph/anaconda3/lib/python3.6/site-packages/keras/backend/tensorflow_backend.py:1355: calling reduce_any (from tensorflow.python.ops.math_ops) with keep_dims is deprecated and will be removed in a future version.
+Instructions for updating:
+keep_dims is deprecated, use keepdims instead
+From /Users/joseph/anaconda3/lib/python3.6/site-packages/keras/backend/tensorflow_backend.py:1238: calling reduce_sum (from tensorflow.python.ops.math_ops) with keep_dims is deprecated and will be removed in a future version.
+Instructions for updating:
+keep_dims is deprecated, use keepdims instead
+Categorical slot 'sentiment' is set to a value ('particular') that is not specified in the domain. Value will be ignored and the slot will behave as if no value is set. Make sure to add all values a categorical slot should store to the domain.
+Failed to use action 'special_resume_action_name' in history. Please make sure all actions are listed in the domains action list. If you recently removed an action, don't worry about this warning. It should stop appearing after a while. 
+Categorical slot 'sentiment' is set to a value ('particular') that is not specified in the domain. Value will be ignored and the slot will behave as if no value is set. Make sure to add all values a categorical slot should store to the domain.
+Failed to use action 'special_resume_action_name' in history. Please make sure all actions are listed in the domains action list. If you recently removed an action, don't worry about this warning. It should stop appearing after a while. 
+Categorical slot 'sentiment' is set to a value ('particular') that is not specified in the domain. Value will be ignored and the slot will behave as if no value is set. Make sure to add all values a categorical slot should store to the domain.
+Failed to use action 'special_resume_action_name' in history. Please make sure all actions are listed in the domains action list. If you recently removed an action, don't worry about this warning. It should stop appearing after a while. 
+Categorical slot 'sentiment' is set to a value ('particular') that is not specified in the domain. Value will be ignored and the slot will behave as if no value is set. Make sure to add all values a categorical slot should store to the domain.
+Failed to use action 'special_resume_action_name' in history. Please make sure all actions are listed in the domains action list. If you recently removed an action, don't worry about this warning. It should stop appearing after a while. 
+Categorical slot 'sentiment' is set to a value ('particular') that is not specified in the domain. Value will be ignored and the slot will behave as if no value is set. Make sure to add all values a categorical slot should store to the domain.
+Failed to use action 'special_resume_action_name' in history. Please make sure all actions are listed in the domains action list. If you recently removed an action, don't worry about this warning. It should stop appearing after a while. 
+Categorical slot 'sentiment' is set to a value ('particular') that is not specified in the domain. Value will be ignored and the slot will behave as if no value is set. Make sure to add all values a categorical slot should store to the domain.
+Failed to use action 'special_resume_action_name' in history. Please make sure all actions are listed in the domains action list. If you recently removed an action, don't worry about this warning. It should stop appearing after a while. 
+Categorical slot 'sentiment' is set to a value ('particular') that is not specified in the domain. Value will be ignored and the slot will behave as if no value is set. Make sure to add all values a categorical slot should store to the domain.
+Failed to use action 'special_resume_action_name' in history. Please make sure all actions are listed in the domains action list. If you recently removed an action, don't worry about this warning. It should stop appearing after a while. 
+Categorical slot 'sentiment' is set to a value ('particular') that is not specified in the domain. Value will be ignored and the slot will behave as if no value is set. Make sure to add all values a categorical slot should store to the domain.
+Failed to use action 'special_resume_action_name' in history. Please make sure all actions are listed in the domains action list. If you recently removed an action, don't worry about this warning. It should stop appearing after a while. 
+Categorical slot 'sentiment' is set to a value ('particular') that is not specified in the domain. Value will be ignored and the slot will behave as if no value is set. Make sure to add all values a categorical slot should store to the domain.
+Failed to use action 'special_resume_action_name' in history. Please make sure all actions are listed in the domains action list. If you recently removed an action, don't worry about this warning. It should stop appearing after a while. 
+Categorical slot 'sentiment' is set to a value ('particular') that is not specified in the domain. Value will be ignored and the slot will behave as if no value is set. Make sure to add all values a categorical slot should store to the domain.
+Failed to use action 'special_resume_action_name' in history. Please make sure all actions are listed in the domains action list. If you recently removed an action, don't worry about this warning. It should stop appearing after a while. 
+Categorical slot 'sentiment' is set to a value ('particular') that is not specified in the domain. Value will be ignored and the slot will behave as if no value is set. Make sure to add all values a categorical slot should store to the domain.
+Failed to use action 'special_resume_action_name' in history. Please make sure all actions are listed in the domains action list. If you recently removed an action, don't worry about this warning. It should stop appearing after a while. 
+Failed to use action 'special_resume_action_name' in history. Please make sure all actions are listed in the domains action list. If you recently removed an action, don't worry about this warning. It should stop appearing after a while. 
+Categorical slot 'sentiment' is set to a value ('particular') that is not specified in the domain. Value will be ignored and the slot will behave as if no value is set. Make sure to add all values a categorical slot should store to the domain.
+Failed to use action 'special_resume_action_name' in history. Please make sure all actions are listed in the domains action list. If you recently removed an action, don't worry about this warning. It should stop appearing after a while. 
+Failed to use action 'special_resume_action_name' in history. Please make sure all actions are listed in the domains action list. If you recently removed an action, don't worry about this warning. It should stop appearing after a while. 
+From /Users/joseph/anaconda3/lib/python3.6/site-packages/keras/backend/tensorflow_backend.py:1355: calling reduce_any (from tensorflow.python.ops.math_ops) with keep_dims is deprecated and will be removed in a future version.
+Instructions for updating:
+keep_dims is deprecated, use keepdims instead
+From /Users/joseph/anaconda3/lib/python3.6/site-packages/keras/backend/tensorflow_backend.py:1238: calling reduce_sum (from tensorflow.python.ops.math_ops) with keep_dims is deprecated and will be removed in a future version.
+Instructions for updating:
+keep_dims is deprecated, use keepdims instead
+From /Users/joseph/anaconda3/lib/python3.6/site-packages/keras/backend/tensorflow_backend.py:1355: calling reduce_any (from tensorflow.python.ops.math_ops) with keep_dims is deprecated and will be removed in a future version.
+Instructions for updating:
+keep_dims is deprecated, use keepdims instead
+From /Users/joseph/anaconda3/lib/python3.6/site-packages/keras/backend/tensorflow_backend.py:1238: calling reduce_sum (from tensorflow.python.ops.math_ops) with keep_dims is deprecated and will be removed in a future version.
+Instructions for updating:
+keep_dims is deprecated, use keepdims instead
+From /Users/joseph/anaconda3/lib/python3.6/site-packages/keras/backend/tensorflow_backend.py:1355: calling reduce_any (from tensorflow.python.ops.math_ops) with keep_dims is deprecated and will be removed in a future version.
+Instructions for updating:
+keep_dims is deprecated, use keepdims instead
+From /Users/joseph/anaconda3/lib/python3.6/site-packages/keras/backend/tensorflow_backend.py:1238: calling reduce_sum (from tensorflow.python.ops.math_ops) with keep_dims is deprecated and will be removed in a future version.
+Instructions for updating:
+keep_dims is deprecated, use keepdims instead
+From /Users/joseph/anaconda3/lib/python3.6/site-packages/keras/backend/tensorflow_backend.py:1355: calling reduce_any (from tensorflow.python.ops.math_ops) with keep_dims is deprecated and will be removed in a future version.
+Instructions for updating:
+keep_dims is deprecated, use keepdims instead
+From /Users/joseph/anaconda3/lib/python3.6/site-packages/keras/backend/tensorflow_backend.py:1238: calling reduce_sum (from tensorflow.python.ops.math_ops) with keep_dims is deprecated and will be removed in a future version.
+Instructions for updating:
+keep_dims is deprecated, use keepdims instead
+From /Users/joseph/anaconda3/lib/python3.6/site-packages/keras/backend/tensorflow_backend.py:1355: calling reduce_any (from tensorflow.python.ops.math_ops) with keep_dims is deprecated and will be removed in a future version.
+Instructions for updating:
+keep_dims is deprecated, use keepdims instead
+From /Users/joseph/anaconda3/lib/python3.6/site-packages/keras/backend/tensorflow_backend.py:1238: calling reduce_sum (from tensorflow.python.ops.math_ops) with keep_dims is deprecated and will be removed in a future version.
+Instructions for updating:
+keep_dims is deprecated, use keepdims instead
+From /Users/joseph/anaconda3/lib/python3.6/site-packages/keras/backend/tensorflow_backend.py:1355: calling reduce_any (from tensorflow.python.ops.math_ops) with keep_dims is deprecated and will be removed in a future version.
+Instructions for updating:
+keep_dims is deprecated, use keepdims instead
+From /Users/joseph/anaconda3/lib/python3.6/site-packages/keras/backend/tensorflow_backend.py:1238: calling reduce_sum (from tensorflow.python.ops.math_ops) with keep_dims is deprecated and will be removed in a future version.
+Instructions for updating:
+keep_dims is deprecated, use keepdims instead
+From /Users/joseph/anaconda3/lib/python3.6/site-packages/keras/backend/tensorflow_backend.py:1355: calling reduce_any (from tensorflow.python.ops.math_ops) with keep_dims is deprecated and will be removed in a future version.
+Instructions for updating:
+keep_dims is deprecated, use keepdims instead
+From /Users/joseph/anaconda3/lib/python3.6/site-packages/keras/backend/tensorflow_backend.py:1238: calling reduce_sum (from tensorflow.python.ops.math_ops) with keep_dims is deprecated and will be removed in a future version.
+Instructions for updating:
+keep_dims is deprecated, use keepdims instead
+From /Users/joseph/anaconda3/lib/python3.6/site-packages/keras/backend/tensorflow_backend.py:1355: calling reduce_any (from tensorflow.python.ops.math_ops) with keep_dims is deprecated and will be removed in a future version.
+Instructions for updating:
+keep_dims is deprecated, use keepdims instead
+From /Users/joseph/anaconda3/lib/python3.6/site-packages/keras/backend/tensorflow_backend.py:1238: calling reduce_sum (from tensorflow.python.ops.math_ops) with keep_dims is deprecated and will be removed in a future version.
+Instructions for updating:
+keep_dims is deprecated, use keepdims instead
+From /Users/joseph/anaconda3/lib/python3.6/site-packages/keras/backend/tensorflow_backend.py:1355: calling reduce_any (from tensorflow.python.ops.math_ops) with keep_dims is deprecated and will be removed in a future version.
+Instructions for updating:
+keep_dims is deprecated, use keepdims instead
+From /Users/joseph/anaconda3/lib/python3.6/site-packages/keras/backend/tensorflow_backend.py:1238: calling reduce_sum (from tensorflow.python.ops.math_ops) with keep_dims is deprecated and will be removed in a future version.
+Instructions for updating:
+keep_dims is deprecated, use keepdims instead
+From /Users/joseph/anaconda3/lib/python3.6/site-packages/keras/backend/tensorflow_backend.py:1355: calling reduce_any (from tensorflow.python.ops.math_ops) with keep_dims is deprecated and will be removed in a future version.
+Instructions for updating:
+keep_dims is deprecated, use keepdims instead
+From /Users/joseph/anaconda3/lib/python3.6/site-packages/keras/backend/tensorflow_backend.py:1238: calling reduce_sum (from tensorflow.python.ops.math_ops) with keep_dims is deprecated and will be removed in a future version.
+Instructions for updating:
+keep_dims is deprecated, use keepdims instead
+From /Users/joseph/anaconda3/lib/python3.6/site-packages/keras/backend/tensorflow_backend.py:1355: calling reduce_any (from tensorflow.python.ops.math_ops) with keep_dims is deprecated and will be removed in a future version.
+Instructions for updating:
+keep_dims is deprecated, use keepdims instead
+From /Users/joseph/anaconda3/lib/python3.6/site-packages/keras/backend/tensorflow_backend.py:1238: calling reduce_sum (from tensorflow.python.ops.math_ops) with keep_dims is deprecated and will be removed in a future version.
+Instructions for updating:
+keep_dims is deprecated, use keepdims instead
+From /Users/joseph/anaconda3/lib/python3.6/site-packages/keras/backend/tensorflow_backend.py:1355: calling reduce_any (from tensorflow.python.ops.math_ops) with keep_dims is deprecated and will be removed in a future version.
+Instructions for updating:
+keep_dims is deprecated, use keepdims instead
+From /Users/joseph/anaconda3/lib/python3.6/site-packages/keras/backend/tensorflow_backend.py:1238: calling reduce_sum (from tensorflow.python.ops.math_ops) with keep_dims is deprecated and will be removed in a future version.
+Instructions for updating:
+keep_dims is deprecated, use keepdims instead
+From /Users/joseph/anaconda3/lib/python3.6/site-packages/keras/backend/tensorflow_backend.py:1355: calling reduce_any (from tensorflow.python.ops.math_ops) with keep_dims is deprecated and will be removed in a future version.
+Instructions for updating:
+keep_dims is deprecated, use keepdims instead
+From /Users/joseph/anaconda3/lib/python3.6/site-packages/keras/backend/tensorflow_backend.py:1238: calling reduce_sum (from tensorflow.python.ops.math_ops) with keep_dims is deprecated and will be removed in a future version.
+Instructions for updating:
+keep_dims is deprecated, use keepdims instead
+From /Users/joseph/anaconda3/lib/python3.6/site-packages/keras/backend/tensorflow_backend.py:1355: calling reduce_any (from tensorflow.python.ops.math_ops) with keep_dims is deprecated and will be removed in a future version.
+Instructions for updating:
+keep_dims is deprecated, use keepdims instead
+From /Users/joseph/anaconda3/lib/python3.6/site-packages/keras/backend/tensorflow_backend.py:1238: calling reduce_sum (from tensorflow.python.ops.math_ops) with keep_dims is deprecated and will be removed in a future version.
+Instructions for updating:
+keep_dims is deprecated, use keepdims instead
+From /Users/joseph/anaconda3/lib/python3.6/site-packages/keras/backend/tensorflow_backend.py:1355: calling reduce_any (from tensorflow.python.ops.math_ops) with keep_dims is deprecated and will be removed in a future version.
+Instructions for updating:
+keep_dims is deprecated, use keepdims instead
+From /Users/joseph/anaconda3/lib/python3.6/site-packages/keras/backend/tensorflow_backend.py:1238: calling reduce_sum (from tensorflow.python.ops.math_ops) with keep_dims is deprecated and will be removed in a future version.
+Instructions for updating:
+keep_dims is deprecated, use keepdims instead
+From /Users/joseph/anaconda3/lib/python3.6/site-packages/keras/backend/tensorflow_backend.py:1355: calling reduce_any (from tensorflow.python.ops.math_ops) with keep_dims is deprecated and will be removed in a future version.
+Instructions for updating:
+keep_dims is deprecated, use keepdims instead
+From /Users/joseph/anaconda3/lib/python3.6/site-packages/keras/backend/tensorflow_backend.py:1238: calling reduce_sum (from tensorflow.python.ops.math_ops) with keep_dims is deprecated and will be removed in a future version.
+Instructions for updating:
+keep_dims is deprecated, use keepdims instead
+From /Users/joseph/anaconda3/lib/python3.6/site-packages/keras/backend/tensorflow_backend.py:1355: calling reduce_any (from tensorflow.python.ops.math_ops) with keep_dims is deprecated and will be removed in a future version.
+Instructions for updating:
+keep_dims is deprecated, use keepdims instead
+From /Users/joseph/anaconda3/lib/python3.6/site-packages/keras/backend/tensorflow_backend.py:1238: calling reduce_sum (from tensorflow.python.ops.math_ops) with keep_dims is deprecated and will be removed in a future version.
+Instructions for updating:
+keep_dims is deprecated, use keepdims instead
+From /Users/joseph/anaconda3/lib/python3.6/site-packages/keras/backend/tensorflow_backend.py:1355: calling reduce_any (from tensorflow.python.ops.math_ops) with keep_dims is deprecated and will be removed in a future version.
+Instructions for updating:
+keep_dims is deprecated, use keepdims instead
+From /Users/joseph/anaconda3/lib/python3.6/site-packages/keras/backend/tensorflow_backend.py:1238: calling reduce_sum (from tensorflow.python.ops.math_ops) with keep_dims is deprecated and will be removed in a future version.
+Instructions for updating:
+keep_dims is deprecated, use keepdims instead
+Categorical slot 'sentiment' is set to a value ('axnious') that is not specified in the domain. Value will be ignored and the slot will behave as if no value is set. Make sure to add all values a categorical slot should store to the domain.
+Categorical slot 'sentiment' is set to a value ('axnious') that is not specified in the domain. Value will be ignored and the slot will behave as if no value is set. Make sure to add all values a categorical slot should store to the domain.
+Categorical slot 'sentiment' is set to a value ('axnious') that is not specified in the domain. Value will be ignored and the slot will behave as if no value is set. Make sure to add all values a categorical slot should store to the domain.
+Categorical slot 'sentiment' is set to a value ('axnious') that is not specified in the domain. Value will be ignored and the slot will behave as if no value is set. Make sure to add all values a categorical slot should store to the domain.
+Categorical slot 'sentiment' is set to a value ('axnious') that is not specified in the domain. Value will be ignored and the slot will behave as if no value is set. Make sure to add all values a categorical slot should store to the domain.
+Categorical slot 'sentiment' is set to a value ('axnious') that is not specified in the domain. Value will be ignored and the slot will behave as if no value is set. Make sure to add all values a categorical slot should store to the domain.
+Categorical slot 'sentiment' is set to a value ('axnious') that is not specified in the domain. Value will be ignored and the slot will behave as if no value is set. Make sure to add all values a categorical slot should store to the domain.
+Categorical slot 'sentiment' is set to a value ('axnious') that is not specified in the domain. Value will be ignored and the slot will behave as if no value is set. Make sure to add all values a categorical slot should store to the domain.
+Categorical slot 'sentiment' is set to a value ('axnious') that is not specified in the domain. Value will be ignored and the slot will behave as if no value is set. Make sure to add all values a categorical slot should store to the domain.
+Categorical slot 'sentiment' is set to a value ('axnious') that is not specified in the domain. Value will be ignored and the slot will behave as if no value is set. Make sure to add all values a categorical slot should store to the domain.
+Categorical slot 'sentiment' is set to a value ('axnious') that is not specified in the domain. Value will be ignored and the slot will behave as if no value is set. Make sure to add all values a categorical slot should store to the domain.
+Categorical slot 'sentiment' is set to a value ('axnious') that is not specified in the domain. Value will be ignored and the slot will behave as if no value is set. Make sure to add all values a categorical slot should store to the domain.
+Categorical slot 'sentiment' is set to a value ('axnious') that is not specified in the domain. Value will be ignored and the slot will behave as if no value is set. Make sure to add all values a categorical slot should store to the domain.
+Categorical slot 'sentiment' is set to a value ('axnious') that is not specified in the domain. Value will be ignored and the slot will behave as if no value is set. Make sure to add all values a categorical slot should store to the domain.
+Categorical slot 'sentiment' is set to a value ('axnious') that is not specified in the domain. Value will be ignored and the slot will behave as if no value is set. Make sure to add all values a categorical slot should store to the domain.
+Categorical slot 'sentiment' is set to a value ('axnious') that is not specified in the domain. Value will be ignored and the slot will behave as if no value is set. Make sure to add all values a categorical slot should store to the domain.
+Categorical slot 'sentiment' is set to a value ('axnious') that is not specified in the domain. Value will be ignored and the slot will behave as if no value is set. Make sure to add all values a categorical slot should store to the domain.
+Categorical slot 'sentiment' is set to a value ('axnious') that is not specified in the domain. Value will be ignored and the slot will behave as if no value is set. Make sure to add all values a categorical slot should store to the domain.
+Categorical slot 'sentiment' is set to a value ('axnious') that is not specified in the domain. Value will be ignored and the slot will behave as if no value is set. Make sure to add all values a categorical slot should store to the domain.
+Categorical slot 'sentiment' is set to a value ('axnious') that is not specified in the domain. Value will be ignored and the slot will behave as if no value is set. Make sure to add all values a categorical slot should store to the domain.
+Categorical slot 'sentiment' is set to a value ('axnious') that is not specified in the domain. Value will be ignored and the slot will behave as if no value is set. Make sure to add all values a categorical slot should store to the domain.
+Categorical slot 'sentiment' is set to a value ('axnious') that is not specified in the domain. Value will be ignored and the slot will behave as if no value is set. Make sure to add all values a categorical slot should store to the domain.
+Categorical slot 'sentiment' is set to a value ('axnious') that is not specified in the domain. Value will be ignored and the slot will behave as if no value is set. Make sure to add all values a categorical slot should store to the domain.
+Categorical slot 'sentiment' is set to a value ('axnious') that is not specified in the domain. Value will be ignored and the slot will behave as if no value is set. Make sure to add all values a categorical slot should store to the domain.
+Categorical slot 'sentiment' is set to a value ('axnious') that is not specified in the domain. Value will be ignored and the slot will behave as if no value is set. Make sure to add all values a categorical slot should store to the domain.
+Categorical slot 'sentiment' is set to a value ('axnious') that is not specified in the domain. Value will be ignored and the slot will behave as if no value is set. Make sure to add all values a categorical slot should store to the domain.
+Categorical slot 'sentiment' is set to a value ('axnious') that is not specified in the domain. Value will be ignored and the slot will behave as if no value is set. Make sure to add all values a categorical slot should store to the domain.
+Categorical slot 'sentiment' is set to a value ('axnious') that is not specified in the domain. Value will be ignored and the slot will behave as if no value is set. Make sure to add all values a categorical slot should store to the domain.
+Categorical slot 'sentiment' is set to a value ('axnious') that is not specified in the domain. Value will be ignored and the slot will behave as if no value is set. Make sure to add all values a categorical slot should store to the domain.
+Categorical slot 'sentiment' is set to a value ('axnious') that is not specified in the domain. Value will be ignored and the slot will behave as if no value is set. Make sure to add all values a categorical slot should store to the domain.
+Categorical slot 'sentiment' is set to a value ('axnious') that is not specified in the domain. Value will be ignored and the slot will behave as if no value is set. Make sure to add all values a categorical slot should store to the domain.
+Categorical slot 'sentiment' is set to a value ('axnious') that is not specified in the domain. Value will be ignored and the slot will behave as if no value is set. Make sure to add all values a categorical slot should store to the domain.
+Categorical slot 'sentiment' is set to a value ('axnious') that is not specified in the domain. Value will be ignored and the slot will behave as if no value is set. Make sure to add all values a categorical slot should store to the domain.
+Categorical slot 'sentiment' is set to a value ('axnious') that is not specified in the domain. Value will be ignored and the slot will behave as if no value is set. Make sure to add all values a categorical slot should store to the domain.
+Categorical slot 'sentiment' is set to a value ('axnious') that is not specified in the domain. Value will be ignored and the slot will behave as if no value is set. Make sure to add all values a categorical slot should store to the domain.
+Categorical slot 'sentiment' is set to a value ('axnious') that is not specified in the domain. Value will be ignored and the slot will behave as if no value is set. Make sure to add all values a categorical slot should store to the domain.
+Categorical slot 'sentiment' is set to a value ('axnious') that is not specified in the domain. Value will be ignored and the slot will behave as if no value is set. Make sure to add all values a categorical slot should store to the domain.
+Failed to use action 'special_resume_action_name' in history. Please make sure all actions are listed in the domains action list. If you recently removed an action, don't worry about this warning. It should stop appearing after a while. 
+Categorical slot 'sentiment' is set to a value ('axnious') that is not specified in the domain. Value will be ignored and the slot will behave as if no value is set. Make sure to add all values a categorical slot should store to the domain.
+Categorical slot 'sentiment' is set to a value ('axnious') that is not specified in the domain. Value will be ignored and the slot will behave as if no value is set. Make sure to add all values a categorical slot should store to the domain.
+Categorical slot 'sentiment' is set to a value ('axnious') that is not specified in the domain. Value will be ignored and the slot will behave as if no value is set. Make sure to add all values a categorical slot should store to the domain.
+Categorical slot 'sentiment' is set to a value ('axnious') that is not specified in the domain. Value will be ignored and the slot will behave as if no value is set. Make sure to add all values a categorical slot should store to the domain.
+Categorical slot 'sentiment' is set to a value ('axnious') that is not specified in the domain. Value will be ignored and the slot will behave as if no value is set. Make sure to add all values a categorical slot should store to the domain.
+Categorical slot 'sentiment' is set to a value ('axnious') that is not specified in the domain. Value will be ignored and the slot will behave as if no value is set. Make sure to add all values a categorical slot should store to the domain.
+Categorical slot 'sentiment' is set to a value ('axnious') that is not specified in the domain. Value will be ignored and the slot will behave as if no value is set. Make sure to add all values a categorical slot should store to the domain.
+Failed to use action 'special_resume_action_name' in history. Please make sure all actions are listed in the domains action list. If you recently removed an action, don't worry about this warning. It should stop appearing after a while. 
+From /Users/joseph/anaconda3/lib/python3.6/site-packages/keras/backend/tensorflow_backend.py:1355: calling reduce_any (from tensorflow.python.ops.math_ops) with keep_dims is deprecated and will be removed in a future version.
+Instructions for updating:
+keep_dims is deprecated, use keepdims instead
+From /Users/joseph/anaconda3/lib/python3.6/site-packages/keras/backend/tensorflow_backend.py:1238: calling reduce_sum (from tensorflow.python.ops.math_ops) with keep_dims is deprecated and will be removed in a future version.
+Instructions for updating:
+keep_dims is deprecated, use keepdims instead
+From /Users/joseph/anaconda3/lib/python3.6/site-packages/keras/backend/tensorflow_backend.py:1355: calling reduce_any (from tensorflow.python.ops.math_ops) with keep_dims is deprecated and will be removed in a future version.
+Instructions for updating:
+keep_dims is deprecated, use keepdims instead
+From /Users/joseph/anaconda3/lib/python3.6/site-packages/keras/backend/tensorflow_backend.py:1238: calling reduce_sum (from tensorflow.python.ops.math_ops) with keep_dims is deprecated and will be removed in a future version.
+Instructions for updating:
+keep_dims is deprecated, use keepdims instead
+From /Users/joseph/anaconda3/lib/python3.6/site-packages/keras/backend/tensorflow_backend.py:1355: calling reduce_any (from tensorflow.python.ops.math_ops) with keep_dims is deprecated and will be removed in a future version.
+Instructions for updating:
+keep_dims is deprecated, use keepdims instead
+From /Users/joseph/anaconda3/lib/python3.6/site-packages/keras/backend/tensorflow_backend.py:1238: calling reduce_sum (from tensorflow.python.ops.math_ops) with keep_dims is deprecated and will be removed in a future version.
+Instructions for updating:
+keep_dims is deprecated, use keepdims instead
+From /Users/joseph/anaconda3/lib/python3.6/site-packages/keras/backend/tensorflow_backend.py:1355: calling reduce_any (from tensorflow.python.ops.math_ops) with keep_dims is deprecated and will be removed in a future version.
+Instructions for updating:
+keep_dims is deprecated, use keepdims instead
+From /Users/joseph/anaconda3/lib/python3.6/site-packages/keras/backend/tensorflow_backend.py:1238: calling reduce_sum (from tensorflow.python.ops.math_ops) with keep_dims is deprecated and will be removed in a future version.
+Instructions for updating:
+keep_dims is deprecated, use keepdims instead
+From /Users/joseph/anaconda3/lib/python3.6/site-packages/keras/backend/tensorflow_backend.py:1355: calling reduce_any (from tensorflow.python.ops.math_ops) with keep_dims is deprecated and will be removed in a future version.
+Instructions for updating:
+keep_dims is deprecated, use keepdims instead
+From /Users/joseph/anaconda3/lib/python3.6/site-packages/keras/backend/tensorflow_backend.py:1238: calling reduce_sum (from tensorflow.python.ops.math_ops) with keep_dims is deprecated and will be removed in a future version.
+Instructions for updating:
+keep_dims is deprecated, use keepdims instead
+Failed to use action 'special_resume_action_name' in history. Please make sure all actions are listed in the domains action list. If you recently removed an action, don't worry about this warning. It should stop appearing after a while. 
+Failed to use action 'special_resume_action_name' in history. Please make sure all actions are listed in the domains action list. If you recently removed an action, don't worry about this warning. It should stop appearing after a while. 
+Failed to use action 'special_resume_action_name' in history. Please make sure all actions are listed in the domains action list. If you recently removed an action, don't worry about this warning. It should stop appearing after a while. 
+Failed to use action 'special_resume_action_name' in history. Please make sure all actions are listed in the domains action list. If you recently removed an action, don't worry about this warning. It should stop appearing after a while. 
+From /Users/joseph/anaconda3/lib/python3.6/site-packages/keras/backend/tensorflow_backend.py:1355: calling reduce_any (from tensorflow.python.ops.math_ops) with keep_dims is deprecated and will be removed in a future version.
+Instructions for updating:
+keep_dims is deprecated, use keepdims instead
+From /Users/joseph/anaconda3/lib/python3.6/site-packages/keras/backend/tensorflow_backend.py:1238: calling reduce_sum (from tensorflow.python.ops.math_ops) with keep_dims is deprecated and will be removed in a future version.
+Instructions for updating:
+keep_dims is deprecated, use keepdims instead
+From /Users/joseph/anaconda3/lib/python3.6/site-packages/keras/backend/tensorflow_backend.py:1355: calling reduce_any (from tensorflow.python.ops.math_ops) with keep_dims is deprecated and will be removed in a future version.
+Instructions for updating:
+keep_dims is deprecated, use keepdims instead
+From /Users/joseph/anaconda3/lib/python3.6/site-packages/keras/backend/tensorflow_backend.py:1238: calling reduce_sum (from tensorflow.python.ops.math_ops) with keep_dims is deprecated and will be removed in a future version.
+Instructions for updating:
+keep_dims is deprecated, use keepdims instead
+From /Users/joseph/anaconda3/lib/python3.6/site-packages/keras/backend/tensorflow_backend.py:1355: calling reduce_any (from tensorflow.python.ops.math_ops) with keep_dims is deprecated and will be removed in a future version.
+Instructions for updating:
+keep_dims is deprecated, use keepdims instead
+From /Users/joseph/anaconda3/lib/python3.6/site-packages/keras/backend/tensorflow_backend.py:1238: calling reduce_sum (from tensorflow.python.ops.math_ops) with keep_dims is deprecated and will be removed in a future version.
+Instructions for updating:
+keep_dims is deprecated, use keepdims instead

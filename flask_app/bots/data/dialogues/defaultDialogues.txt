@@ -1,0 +1,105 @@
+++ gad7
+!! Questionnaire
+:snode
+  - I’m now going to take you through a clinical process that will help you to explain how you feel to a clinician. In the past two weeks, how many days have you felt nervous, anxious, or on edge?
+:snode
+  - And how many days have you not been able to stop or control worrying?
+:snode
+  - In the past two weeks, how many days have you worried too much about different things?
+:snode
+  - How many days have you had trouble relaxing?
+:snode
+  - How many days have you been so restless that it’s been hard to sit still?
+:snode
+  - Thank you. How many days have you been so restless that it’s been hard to sit still?
+:snode
+  - In the past two weeks, how many days have you felt afraid, as if something awful might happen?
+:snode
+  - How difficult have any of these problems made it for you to do your work, take care of things at home, or get along with other people?
+:snode
+  - Is how you’re feeling related to social activities or situations?
+:tnode
+      $branch default
+            :snode
+              - Ok then. Well is it possibly related to a particular activity or object?
+      $endbranch
+      $branch affirm
+            :snode
+              - Ok, thank you. Is it also related to a particular activity or object?
+      $endbranch
+:endtnode
+:snode
+  - Ok. And finally, is it related to being alone or in crowds?
+:snode
+  - When you feel this way do you have any associated impulses or repeated behaviour?
+:snode
+  - Do you think you fear is unreasonable or excessive in any way?
+:snode 
+  - Thanks for answering these questions. You’ve just been through the GAD-7 questionnaire. Your answers will be useful for a clinician going forwards.
+==
+
+++ phq9
+!! Questionnaire
+:snode
+  - I’m now going to ask you some questions about how you’ve felt over the past two weeks. In the past two weeks, how many days have you had little interest or pleasure in doing things?
+:snode
+  - In the past two weeks, how many days have you felt down, depressed, or hopeless?
+:snode
+  - How many days have you had trouble falling or staying asleep, or sleeping too much?
+:snode
+  - Thank you. How many days were you bothered by feeling tired or having little energy?
+:snode
+  - How about the number of days you have had a poor appetite or overeaten?
+:snode
+  - How many days have you felt bad about yourself - or that you are a failure or have let yourself or your family down?
+:snode
+  - And how many days have you had trouble concentrating on things, such as reading the newspaper or watching television?
+:snode
+  - Thank you. How many days have you moved or spoken so slowly that other people could have noticed? Or the opposite - been so fidgety or restless that you’ve been moving around a lot more than usual?
+:snode
+  - In the past two weeks, how many days have you had thoughts that you’d be better off dead or of hurting yourself in some way?
+:snode
+  - How difficult have any of these problems made it for you to do your work, take care of things at home, or get along with other people?
+:snode
+  - Thank you for answering these questions, you’ve just been through the PHQ-9 questionnaire. Your responses will be useful for a clinician going forwards.
+==
+
+++ Stress
+!! RDialogue
+:snode
+  - Have you ever noticed that stress has a way of snowballing and becoming leading to things which cause more stress?
+:tnode
+      $branch default
+            :snode
+              - I know it might sound silly, but I believe you can combat that spiral.
+      $endbranch
+      $branch affirm
+            :snode
+              - It's true. I think it is possible to break free of the spiral though.
+      $endbranch
+:endtnode
+:snode
+  - Talk to me about something which causes you to get stressed out - anything you like.
+:snode
+  - According to you, what was it that made it so stressful?
+:snode
+  - How does that make you feel?
+:snode
+  - Ok. Often, what causes this sort of thing is that we have preconceptions about how we are, or others. What were you thinking about at the time?
+:snode
+  - And do you think that a friend would see the situation the same way?
+:snode
+  - It's important to recognise that we often convince ourselves of things. Do you think that applies in this situation, even at all?
+:tnode
+      $branch default
+            :snode
+              - Ok, well bear it in mind.
+      $endbranch
+      $branch affirm
+            :snode
+              - It's good to see that you are able to detach yourself from your own point of view.
+      $endbranch
+:endtnode
+:snode
+ - Ok, well I think we have talked about stress enough now!
+==

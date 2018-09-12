@@ -1,0 +1,1485 @@
+Started http server on port 5002
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+I've started
+I've gone 0 time(s)
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: False
+['thintHistory', "| | |  \n | --- | --- |\n| Bot: | None |\n| Bot: | action_listen |\n| | |\n| | |\n | User's latest message: | hi |\n| | |\n| | |\n| Predicted intent: | greet |\n "]
+['thintBotAction', 'The bot wants to [utter_greet] due to the intent. \n ⬇ Is this correct? ⬇\n']
+['thintKeyOptions', '\t1.\tYes\n\t2.\tNo, intent is right but the action is wrong\n\t3.\tThe intent is wrong\n\t0.\tExport current conversations as stories and quit\n']
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: False
+['thintBotAction', '------\nMessage: hi\nWhat intent is this? ➔']
+['thintActionList', '| Number | Intent | \n | --- | --- |\n|0|greet||1|goodbye||2|affirm||3|deny||4|thanks||5|thanks+goodbye||6|Feeling||7|selfharm||8|showTracker||9|requestDialogues|']
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+Started http server on port 5002
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+I've started
+I've gone 0 time(s)
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: False
+['thintHistory', "| | |  \n | --- | --- |\n| Bot: | None |\n| Bot: | action_listen |\n| | |\n| | |\n | User's latest message: | hi |\n| | |\n| | |\n| Predicted intent: | greet |\n "]
+['thintBotAction', 'The bot wants to [utter_greet] due to the intent. \n ⬇ Is this correct? ⬇\n']
+['thintKeyOptions', '\t1.\tYes\n\t2.\tNo, intent is right but the action is wrong\n\t3.\tThe intent is wrong\n\t0.\tExport current conversations as stories and quit\n']
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: False
+['thintHistory', "| | |  \n | --- | --- |\n| Bot: | None |\n| Bot: | action_listen |\n| | |\n| | |\n | User's latest message: | hi |\n| | |\n| | |\n| Predicted intent: | greet |\n "]
+['thintBotAction', 'what is the next action for the bot? ➔\n']
+['thintActionList', '| No. | Action name | Probability | \n | --- | --- | --- |\n|         0|                           action_listen   | 0.00|\n|         1|                          action_restart   | 0.00|\n|         2|                 utter_propose_dialogues   | 0.00|\n|         3|                             utter_greet   | 0.99|\n|         4|                           utter_goodbye   | 0.01|\n|         5|                           utter_confirm   | 0.00|\n|         6|             utter_propose_questionnaire   | 0.00|\n|         7|          action_stop_and_show_dialogues   | 0.00|\n|         8|                     action_feelingReply   | 0.00|\n|         9|                     action_show_tracker   | 0.00|\n|        10|                            action_greet   | 0.00|\n|        11|                              utter_phq9   | 0.00|\n|        12|                              utter_gad7   | 0.00|\n|        13|                    utter_self_harm_help   | 0.00|\n|        14|                            utter_thanks   | 0.00|\n|        15|                            respond_deny   | 0.00|\n|        16|                          utter_fallback   | 0.00|\n|        17|                        utter_proposeEnd   | 0.00|\n|        18|                             utter_step1   | 0.00|\n|        19|                             utter_step2   | 0.00|\n|        20|                             utter_step3   | 0.00|\n|        21|                             utter_step4   | 0.00|\n|        22|                             utter_step5   | 0.00|\n|        23|                             utter_step6   | 0.00|\n']
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: False
+['thintBotAction', 'thanks! The bot will now [utter_goodbye]\n -----------']
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: False
+Have a great day!
+['thintHistory', '| | |  \n | --- | --- |\n| Bot: | None |\n| Bot: | action_listen |\n| User: |greet |\n| Bot: | utter_goodbye |\n']
+['thintBotAction', 'The bot wants to [action_listen].\n ⬇ Is this correct? ⬇\n']
+['thintKeyOptions', '\t1.\tYes.\n\t2.\tNo, the action is wrong.\n\t0.\tExport current conversations as stories and quit\n']
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+I've gone 1 time(s)
+human queue is empty: False
+['thintBotAction', '⬆ Type in your next message above ⬆']
+['thintKeyOptions', '\n']
+UNLOCK_FLAG
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: False
+['thintHistory', "| | |  \n | --- | --- |\n| Bot: | None |\n| Bot: | action_listen |\n| User: |greet |\n| Bot: | utter_goodbye |\n| Bot: | action_listen |\n| | |\n| | |\n | User's latest message: | I am sad |\n| | |\n| | |\n| Predicted intent: | Feeling |\n | with sentiment: | Depressed |\n"]
+['thintBotAction', 'The bot wants to [action_feelingReply] due to the intent. \n ⬇ Is this correct? ⬇\n']
+['thintKeyOptions', '\t1.\tYes\n\t2.\tNo, intent is right but the action is wrong\n\t3.\tThe intent is wrong\n\t0.\tExport current conversations as stories and quit\n']
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: False
+['thintHistory', "| | |  \n | --- | --- |\n| Bot: | None |\n| Bot: | action_listen |\n| User: |greet |\n| Bot: | utter_goodbye |\n| Bot: | action_listen |\n| | |\n| | |\n | User's latest message: | I am sad |\n| | |\n| | |\n| Predicted intent: | Feeling |\n | with sentiment: | Depressed |\n"]
+['thintBotAction', 'what is the next action for the bot? ➔\n']
+['thintActionList', '| No. | Action name | Probability | \n | --- | --- | --- |\n|         0|                           action_listen   | 0.00|\n|         1|                          action_restart   | 0.00|\n|         2|                 utter_propose_dialogues   | 0.00|\n|         3|                             utter_greet   | 0.00|\n|         4|                           utter_goodbye   | 0.00|\n|         5|                           utter_confirm   | 0.00|\n|         6|             utter_propose_questionnaire   | 0.00|\n|         7|          action_stop_and_show_dialogues   | 0.00|\n|         8|                     action_feelingReply   | 1.00|\n|         9|                     action_show_tracker   | 0.00|\n|        10|                            action_greet   | 0.00|\n|        11|                              utter_phq9   | 0.00|\n|        12|                              utter_gad7   | 0.00|\n|        13|                    utter_self_harm_help   | 0.00|\n|        14|                            utter_thanks   | 0.00|\n|        15|                            respond_deny   | 0.00|\n|        16|                          utter_fallback   | 0.00|\n|        17|                        utter_proposeEnd   | 0.00|\n|        18|                             utter_step1   | 0.00|\n|        19|                             utter_step2   | 0.00|\n|        20|                             utter_step3   | 0.00|\n|        21|                             utter_step4   | 0.00|\n|        22|                             utter_step5   | 0.00|\n|        23|                             utter_step6   | 0.00|\n']
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: False
+['thintBotAction', 'thanks! The bot will now [utter_phq9]\n -----------']
+human queue is empty: True
+human queue is empty: True
+human queue is empty: False
+phq9 questionnaire blabla
+['thintHistory', '| | |  \n | --- | --- |\n| Bot: | None |\n| Bot: | action_listen |\n| User: |greet |\n| Bot: | utter_goodbye |\n| Bot: | action_listen |\n| User: |Feeling |\n| with sentiment: | Depressed |\n| Bot: | utter_phq9 |\n']
+['thintBotAction', 'The bot wants to [action_listen].\n ⬇ Is this correct? ⬇\n']
+['thintKeyOptions', '\t1.\tYes.\n\t2.\tNo, the action is wrong.\n\t0.\tExport current conversations as stories and quit\n']
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+I've gone 2 time(s)
+human queue is empty: False
+['thintBotAction', '⬆ Type in your next message above ⬆']
+['thintKeyOptions', '\n']
+UNLOCK_FLAG
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: False
+['thintHistory', "| | |  \n | --- | --- |\n| Bot: | None |\n| Bot: | action_listen |\n| User: |greet |\n| Bot: | utter_goodbye |\n| Bot: | action_listen |\n| User: |Feeling |\n| with sentiment: | Depressed |\n| Bot: | utter_phq9 |\n| Bot: | action_listen |\n| | |\n| | |\n | User's latest message: | Can you help me? |\n| | |\n| | |\n| Predicted intent: | selfharm |\n "]
+['thintBotAction', 'The bot wants to [action_listen] due to the intent. \n ⬇ Is this correct? ⬇\n']
+['thintKeyOptions', '\t1.\tYes\n\t2.\tNo, intent is right but the action is wrong\n\t3.\tThe intent is wrong\n\t0.\tExport current conversations as stories and quit\n']
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: False
+['thintBotAction', '------\nMessage: Can you help me?\nWhat intent is this? ➔']
+['thintActionList', '| Number | Intent | \n | --- | --- |\n|0|greet|\n|1|goodbye|\n|2|affirm|\n|3|deny|\n|4|thanks|\n|5|thanks+goodbye|\n|6|Feeling|\n|7|selfharm|\n|8|showTracker|\n|9|requestDialogues|\n']
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: False
+['thintHistory', '| | |  \n | --- | --- |\n| Bot: | None |\n| Bot: | action_listen |\n| User: |greet |\n| Bot: | utter_goodbye |\n| Bot: | action_listen |\n| User: |Feeling |\n| with sentiment: | Depressed |\n| Bot: | utter_phq9 |\n']
+['thintBotAction', 'The bot wants to [action_listen].\n ⬇ Is this correct? ⬇\n']
+['thintKeyOptions', '\t1.\tYes.\n\t2.\tNo, the action is wrong.\n\t0.\tExport current conversations as stories and quit\n']
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: False
+['thintHistory', '| | |  \n | --- | --- |\n| Bot: | None |\n| Bot: | action_listen |\n| User: |greet |\n| Bot: | utter_goodbye |\n| Bot: | action_listen |\n| User: |Feeling |\n| with sentiment: | Depressed |\n| Bot: | utter_phq9 |\n']
+['thintBotAction', 'what is the next action for the bot? ➔\n']
+['thintActionList', '| No. | Action name | Probability | \n | --- | --- | --- |\n|         0|                           action_listen   | 1.00|\n|         1|                          action_restart   | 0.00|\n|         2|                 utter_propose_dialogues   | 0.00|\n|         3|                             utter_greet   | 0.00|\n|         4|                           utter_goodbye   | 0.00|\n|         5|                           utter_confirm   | 0.00|\n|         6|             utter_propose_questionnaire   | 0.00|\n|         7|          action_stop_and_show_dialogues   | 0.00|\n|         8|                     action_feelingReply   | 0.00|\n|         9|                     action_show_tracker   | 0.00|\n|        10|                            action_greet   | 0.00|\n|        11|                              utter_phq9   | 0.00|\n|        12|                              utter_gad7   | 0.00|\n|        13|                    utter_self_harm_help   | 0.00|\n|        14|                            utter_thanks   | 0.00|\n|        15|                            respond_deny   | 0.00|\n|        16|                          utter_fallback   | 0.00|\n|        17|                        utter_proposeEnd   | 0.00|\n|        18|                             utter_step1   | 0.00|\n|        19|                             utter_step2   | 0.00|\n|        20|                             utter_step3   | 0.00|\n|        21|                             utter_step4   | 0.00|\n|        22|                             utter_step5   | 0.00|\n|        23|                             utter_step6   | 0.00|\n']
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: False
+['thintBotAction', 'thanks! The bot will now [utter_self_harm_help]\n -----------']
+human queue is empty: True
+human queue is empty: True
+human queue is empty: False
+I will phone someone to help you.
+['thintHistory', '| | |  \n | --- | --- |\n| Bot: | None |\n| Bot: | action_listen |\n| User: |greet |\n| Bot: | utter_goodbye |\n| Bot: | action_listen |\n| User: |Feeling |\n| with sentiment: | Depressed |\n| Bot: | utter_phq9 |\n| Bot: | utter_self_harm_help |\n']
+['thintBotAction', 'The bot wants to [action_listen].\n ⬇ Is this correct? ⬇\n']
+['thintKeyOptions', '\t1.\tYes.\n\t2.\tNo, the action is wrong.\n\t0.\tExport current conversations as stories and quit\n']
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+I've gone 3 time(s)
+human queue is empty: False
+['thintBotAction', '⬆ Type in your next message above ⬆']
+['thintKeyOptions', '\n']
+UNLOCK_FLAG
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: False
+['thintHistory', "| | |  \n | --- | --- |\n| Bot: | None |\n| Bot: | action_listen |\n| User: |greet |\n| Bot: | utter_goodbye |\n| Bot: | action_listen |\n| User: |Feeling |\n| with sentiment: | Depressed |\n| Bot: | utter_phq9 |\n| Bot: | utter_self_harm_help |\n| Bot: | action_listen |\n| | |\n| | |\n | User's latest message: | I want the tracker |\n| | |\n| | |\n| Predicted intent: | showTracker |\n "]
+['thintBotAction', 'The bot wants to [utter_fallback] due to the intent. \n ⬇ Is this correct? ⬇\n']
+['thintKeyOptions', '\t1.\tYes\n\t2.\tNo, intent is right but the action is wrong\n\t3.\tThe intent is wrong\n\t0.\tExport current conversations as stories and quit\n']
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: False
+['thintHistory', "| | |  \n | --- | --- |\n| Bot: | None |\n| Bot: | action_listen |\n| User: |greet |\n| Bot: | utter_goodbye |\n| Bot: | action_listen |\n| User: |Feeling |\n| with sentiment: | Depressed |\n| Bot: | utter_phq9 |\n| Bot: | utter_self_harm_help |\n| Bot: | action_listen |\n| | |\n| | |\n | User's latest message: | I want the tracker |\n| | |\n| | |\n| Predicted intent: | showTracker |\n "]
+['thintBotAction', 'what is the next action for the bot? ➔\n']
+['thintActionList', '| No. | Action name | Probability | \n | --- | --- | --- |\n|         0|                           action_listen   | 0.00|\n|         1|                          action_restart   | 0.00|\n|         2|                 utter_propose_dialogues   | 0.00|\n|         3|                             utter_greet   | 0.00|\n|         4|                           utter_goodbye   | 0.00|\n|         5|                           utter_confirm   | 0.00|\n|         6|             utter_propose_questionnaire   | 0.00|\n|         7|          action_stop_and_show_dialogues   | 0.00|\n|         8|                     action_feelingReply   | 0.00|\n|         9|                     action_show_tracker   | 0.00|\n|        10|                            action_greet   | 0.00|\n|        11|                              utter_phq9   | 0.00|\n|        12|                              utter_gad7   | 0.00|\n|        13|                    utter_self_harm_help   | 0.00|\n|        14|                            utter_thanks   | 0.00|\n|        15|                            respond_deny   | 0.00|\n|        16|                          utter_fallback   | 0.30|\n|        17|                        utter_proposeEnd   | 0.00|\n|        18|                             utter_step1   | 0.00|\n|        19|                             utter_step2   | 0.00|\n|        20|                             utter_step3   | 0.00|\n|        21|                             utter_step4   | 0.00|\n|        22|                             utter_step5   | 0.00|\n|        23|                             utter_step6   | 0.00|\n']
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: False
+['thintBotAction', 'thanks! The bot will now [action_show_tracker]\n -----------']
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: False
+{"sender_id": "cliniciansID", "slots": {"difficultyLevel": null, "numDays": null, "sentiment": "Depressed"}, "latest_message": {"intent": {"name": "showTracker", "confidence": 0.898123562335968}, "entities": [], "intent_ranking": [{"name": "showTracker", "confidence": 0.898123562335968}, {"name": "selfharm", "confidence": 0.3643912076950073}, {"name": "deny", "confidence": 0.1443374752998352}, {"name": "greet", "confidence": 0.01933121681213379}, {"name": "thanks", "confidence": 0.0042735375463962555}, {"name": "Feeling", "confidence": -0.005937859416007996}, {"name": "informUsername", "confidence": -0.005984269082546234}, {"name": "goodbye", "confidence": -0.019606754183769226}, {"name": "affirm", "confidence": -0.025545895099639893}, {"name": "thanks+goodbye", "confidence": -0.042954836040735245}], "text": "I want the tracker"}, "latest_event_time": 1535664267.143546, "paused": false, "events": null}
+['thintHistory', '| | |  \n | --- | --- |\n| Bot: | None |\n| Bot: | action_listen |\n| User: |greet |\n| Bot: | utter_goodbye |\n| Bot: | action_listen |\n| User: |Feeling |\n| with sentiment: | Depressed |\n| Bot: | utter_phq9 |\n| Bot: | utter_self_harm_help |\n| Bot: | action_listen |\n| User: |showTracker |\n| Bot: | action_show_tracker |\n']
+['thintBotAction', 'The bot wants to [action_listen].\n ⬇ Is this correct? ⬇\n']
+['thintKeyOptions', '\t1.\tYes.\n\t2.\tNo, the action is wrong.\n\t0.\tExport current conversations as stories and quit\n']
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+Started http server on port 5002
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+I've started
+I've gone 0 time(s)
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: False
+['thintHistory', "| | |  \n | --- | --- |\n| Bot: | None |\n| Bot: | action_listen |\n| | |\n| | |\n | User's latest message: | hi |\n| | |\n| | |\n| Predicted intent: | greet |\n "]
+['thintBotAction', 'The bot wants to [utter_greet] due to the intent. \n ⬇ Is this correct? ⬇\n']
+['thintKeyOptions', '\t1.\tYes\n\t2.\tNo, intent is right but the action is wrong\n\t3.\tThe intent is wrong\n\t0.\tExport current conversations as stories and quit\n']
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: False
+['thintBotAction', '------\nMessage: hi\nWhat intent is this? ➔']
+['thintActionList', '| Number | Intent | \n | --- | --- |\n|0|greet|\n|1|goodbye|\n|2|affirm|\n|3|deny|\n|4|thanks|\n|5|thanks+goodbye|\n|6|Feeling|\n|7|selfharm|\n|8|showTracker|\n|9|requestDialogues|\n']
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+human queue is empty: True
+Started http server on port 5002
+I've started
+Started http server on port 5002
+I've started
+Started http server on port 5002
+I've started
+Started http server on port 5002
+I've started
+Started http server on port 5002
+I've started
+Started http server on port 5002
+I've started
+Started http server on port 5002
+I've started
+Started http server on port 5002
+I've started
+Started http server on port 5002
+I've started
+Started http server on port 5002
+I've started
+Started http server on port 5002
+I've started
+Started http server on port 5002
+I've started
+Started http server on port 5002
+I've started
+Started http server on port 5002
+I've started
+Started http server on port 5002
+I've started
+Started http server on port 5002
+I've started
+Started http server on port 5002
+I've started
+Started http server on port 5002
+I've started
+Started http server on port 5002
+I've started
+Started http server on port 5002
+I've started
+Started http server on port 5002
+I've started
+Started http server on port 5002
+I've started
+Started http server on port 5002
+I've started
+Started http server on port 5002
+Started http server on port 5002
+I've started
+Started http server on port 5002
+I've started
+Started http server on port 5002
+I've started
+Started http server on port 5002
+I've started
+Started http server on port 5002
+I've started
+Started http server on port 5002
+I've started
+Started http server on port 5002
+I've started
+Started http server on port 5002
+I've started
+Started http server on port 5002
+I've started
+Started http server on port 5002
+I've started
+Started http server on port 5002
+I've started
+Started http server on port 5002
+I've started
+Started http server on port 5002
+I've started
+Started http server on port 5002
+I've started
+Started http server on port 5002
+I've started
+Started http server on port 5002
+I've started
+Started http server on port 5002
+I've started
+Started http server on port 5002
+I've started
+Started http server on port 5002
+I've started

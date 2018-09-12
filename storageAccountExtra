@@ -1,0 +1,93 @@
+STORAGE_ACCOUNT=$(az storage account list --resource-group acrMHBot --query "[?contains(name,'mystorageaccount')].[name]" --output tsv)
+echo $STORAGE_ACCOUNT
+
+STORAGE_KEY=$(az storage account keys list --resource-group acrMHBot --account-name mystorageaccount18896 --query "[0].value" --output tsv)
+echo $STORAGE_KEY
+
+
+
+
+*** THIS IS THE COMMAND I FINALLY USED ***
+
+az container create \
+    --resource-group acrMHBot \
+    --name mentalhealthbot \
+    --image ucabjpc/project_final:v6 \
+    --dns-name-label mentalhealthbot \
+    --ports 80 5002 \
+    --azure-file-volume-account-name mystorageaccount18896 \
+    --azure-file-volume-account-key EsR7BupYkPV6zXuoExBZg0Mw3y4k1SC7K521x3zJsVd0eB8Ig0XkCm8HyxSBpFSYrRhTbve/f6cJbf3t3tomCQ== \
+    --azure-file-volume-share-name acishare \
+    --azure-file-volume-mount-path /app/flask_active/rasabot/data/dialogues
+
+**********************************************
+
+
+
+
+
+
+
+
+
+
+
+
+!!!!! The volume mount can't be "/app" - there is a problem putting the root directory as the mount and then
+changing the working directory to a child directory (flaskapp)
+
+az container create \
+    --resource-group acrMHBot \
+    --name mhtbotfiles \
+    --image ucabjpc/project_final:v4 \
+    --dns-name-label mhtbot1 \
+    --ports 80 5002 \
+    --gitrepo-url https://github.com/JCourt1/mht_bot_app/tree/master/flask_active/rasabot \
+    --gitrepo-mount-path /app/flask_active/rasabot
+
+
+
+### High hopes for this one...
+
+az container create \
+    --resource-group acrMHBot \
+    --name mhtbotfiles \
+    --image ucabjpc/project_final:v4 \
+    --dns-name-label mhtbot1 \
+    --ports 80 5002 \
+    --gitrepo-url https://github.com/JCourt1/rasaBot.git  \
+    --gitrepo-mount-path /app/flask_active/rasabot
+
+
+    ## Found the command here:
+    https://docs.microsoft.com/en-us/cli/azure/container?view=azure-cli-latest
+
+    ## az container create -g MyResourceGroup --name myapp --image myimage:latest --command-line "cat /mnt/gitrepo" --gitrepo-url https://github.com/user/myrepo.git --gitrepo-dir ./dir1 --gitrepo-mount-path /mnt/gitrepo
+
+
+
+
+
+    ////// DIDNT WORK IN THE END SINCE YOU CAN'T UPLOAD ENTIRE FOLDERS ON AZURE FILE SHARE
+
+    STORAGE_ACCOUNT=$(az storage account list --resource-group acrMHBot --query "[?contains(name,'storageaccount')].[name]" --output tsv)
+    echo $STORAGE_ACCOUNT
+
+
+    STORAGE_KEY=$(az storage account keys list --resource-group acrMHBot --account-name storageaccount22455 --query "[0].value" --output tsv)
+    echo $STORAGE_KEY
+    -> ez9E7XOfiaQAXCAIR2sRRMuIK9piCNDRhK8OWL5SrNlmUYRuyGY5wkh6dDRUxPxlAXSwl1+LrYK/kHoEIdo5Gg==
+
+az container create \
+    --resource-group acrMHBot \
+    --name mhtbotfiles1 \
+    --image ucabjpc/project_final:v4 \
+    --dns-name-label mentalhealthchatbot \
+    --ports 80 5002 \
+    --azure-file-volume-account-name storageaccount22455 \
+    --azure-file-volume-account-key ez9E7XOfiaQAXCAIR2sRRMuIK9piCNDRhK8OWL5SrNlmUYRuyGY5wkh6dDRUxPxlAXSwl1+LrYK/kHoEIdo5Gg== \
+    --azure-file-volume-share-name acishare \
+    --azure-file-volume-mount-path /app/flask_active/rasabot/data
+
+
+    /////

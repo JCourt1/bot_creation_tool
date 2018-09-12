@@ -1,0 +1,54 @@
+{
+  "action_fingerprints": {
+    "action_listen": {
+      "slots": [
+        "sentiment"
+      ]
+    },
+    "utter_propose_dialogues": {
+      "slots": []
+    },
+    "show_dialogues": {
+      "slots": []
+    },
+    "utter_askCause": {
+      "slots": []
+    },
+    "action_say_goodbye": {
+      "slots": []
+    },
+    "utter_greet": {
+      "slots": []
+    },
+    "respond_howareyou": {
+      "slots": []
+    },
+    "show_gad7": {
+      "slots": []
+    },
+    "action_log_self_harm": {
+      "slots": []
+    },
+    "show_phq9": {
+      "slots": []
+    },
+    "respond_deny": {
+      "slots": []
+    },
+    "utter_thanks": {
+      "slots": []
+    }
+  },
+  "rasa_core": "0.9.6",
+  "max_histories": [
+    5,
+    5,
+    null
+  ],
+  "ensemble_name": "rasa_core.policies.ensemble.SimplePolicyEnsemble",
+  "policy_names": [
+    "rasa_core.policies.memoization.MemoizationPolicy",
+    "rasa_core.policies.keras_policy.KerasPolicy",
+    "rasa_core.policies.fallback.FallbackPolicy"
+  ]
+}

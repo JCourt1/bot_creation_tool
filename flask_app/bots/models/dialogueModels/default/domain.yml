@@ -1,0 +1,110 @@
+action_factory: null
+action_names:
+- respond_howareyou
+- utter_greet
+- utter_thanks
+- respond_affirm
+- respond_deny
+- utter_ask_if_end
+- utter_fallback
+- utter_propose_dialogues
+- utter_propose_questionnaire
+- utter_askCause
+- utter_repropose_dialogs
+- action_say_goodbye
+- show_questionnaires
+- show_dialogues
+- reply_to_feeling
+- action_log_self_harm
+- show_phq9
+- show_gad7
+actions:
+- respond_howareyou
+- utter_greet
+- utter_thanks
+- respond_affirm
+- respond_deny
+- utter_ask_if_end
+- utter_fallback
+- utter_propose_dialogues
+- utter_propose_questionnaire
+- utter_askCause
+- utter_repropose_dialogs
+- customActions.SayGoodbye
+- customActions.ShowQuestionnaires
+- customActions.ShowDialogues
+- customActions.ReplyToFeelingExpressed
+- customActions.LogSelfHarmMessage
+- customActions.ShowPHQ9
+- customActions.ShowGAD7
+config:
+  store_entities_as_slots: true
+entities:
+- numDays
+- difficultyLevel
+- sentiment
+intents:
+- greet
+- askHowBotIs
+- goodbye
+- affirm
+- deny
+- thanks
+- expressSelfHarm
+- askWhatCanBotDo
+- askForGuidance
+- requestDialogues
+- requestQuestionnaires
+- expressFeeling
+slots:
+  sentiment:
+    initial_value: null
+    type: rasa_core.slots.CategoricalSlot
+    values:
+    - depressed
+    - anxious
+    - happy
+templates:
+  respond_affirm:
+  - text: Ok great!
+  respond_deny:
+  - text: That's a shame. Let me know if you change your mind.
+  respond_howareyou:
+  - text: Not so bad thanks
+  - text: I'm alright actually, thanks for asking.
+  - text: Not too bad, I wouldn't mind having a body and all but I enjoy what I do.
+  utter_askCause:
+  - text: What do you think is the reason for feeling that way?
+  - text: Would you be able to explain why you feel like that?
+  - text: Is there anything in particular that might have lead to you feeling that
+      way?
+  - text: What would you say is the cause of your feeling, if there had to be one?
+  utter_ask_if_end:
+  - text: Would you like to talk about anything else?
+  utter_fallback:
+  - text: Sorry, I didn't understand what you just said.
+  utter_greet:
+  - text: Hello there!
+  - text: Hi!
+  - text: Hello!
+  - text: Howdy
+  - text: Hi there
+  - text: Hiya!
+  utter_propose_dialogues:
+  - text: Do you want to do a dialogue?
+  - text: I might be able to offer some help, do you want to hear what I can talk
+      to you about?
+  - text: I have been trained to talk about a few things - would you like to know
+      what?
+  utter_propose_questionnaire:
+  - text: Would it be alright if we did a questionnaire?
+  - text: Would you like to do a questionnaire?
+  utter_repropose_dialogs:
+  - text: How about another chat about something different?
+  - text: Did you want to talk about anything else from that list I showed you?
+  - text: Do you want to have another chat?
+  - text: Would you like to have another conversation?
+  utter_thanks:
+  - text: You are very welcome.
+  - text: Glad I could help!
+topics: []

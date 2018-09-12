@@ -1,0 +1,4 @@
+
+
+//
+Change the name of app.js to reflect the fact that it is the app for the training, not for the patient's interface.

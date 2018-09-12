@@ -1,0 +1,119 @@
+<link rel="stylesheet" href="/static/style.css" type="text/css">
+
+<body id="patientLoginScreen">
+<a class="hiddenanchor" id="toregister"></a>
+<a class="hiddenanchor" id="tologin"></a>
+<a class="hiddenanchor" id="backtoregister"></a>
+
+<div id="wrapper">
+		<div id="login" class="animate form">
+
+					<form action="/login" method="POST">
+						<div class="login">
+							<div class="login-screen">
+								<div class="app-title">
+									<h1>Login</h1>
+								</div>
+
+								<div class="login-form">
+									<div class="control-group">
+									<input type="text" class="login-field" value="" placeholder="username" name="username">
+									<label class="login-field-icon fui-user" for="login-name"></label>
+									</div>
+
+									<div class="control-group">
+									<input type="password" class="login-field" value="" placeholder="password" name="password">
+									<label class="login-field-icon fui-lock" for="login-pass"></label>
+									</div>
+
+					                <input type="submit" value="Log in" class="btn btn-primary btn-large btn-block" >
+								    <br>
+
+										{% with messages = get_flashed_messages() %}
+										{% if messages %}
+											<ul class=flashes>
+											{% for message in messages %}
+													{% if message != "success!" %}
+															<p><strong>Error:</strong> {{ message }}</p>
+													{% endif %}
+											{% endfor %}
+											</ul>
+											{% endif %}
+										{% endwith %}
+
+										<p class="change_link">
+										If you haven't created an account, click
+										<a href="#toregister" class="to_register">here</a>
+										to register
+										</p>
+								</div>
+							</div>
+						</div>
+
+
+					</form>
+
+		</div>
+
+		<div id="register" class="animate form">
+
+					<form action="/register" method="POST">
+						<div class="login">
+							<div class="login-screen">
+								<div class="app-title">
+									<h1>Register</h1>
+								</div>
+
+								<div class="login-form">
+									<div class="control-group">
+									<input type="text" class="login-field" value="" placeholder="username" name="username">
+									<label class="login-field-icon fui-user" for="login-name"></label>
+									</div>
+
+									<div class="control-group">
+									<input type="password" class="login-field" value="" placeholder="password" name="password">
+									<label class="login-field-icon fui-lock" for="login-pass"></label>
+									</div>
+
+									<div class="control-group">
+									<input type="password" class="login-field" value="" placeholder="confirm password" name="confirmpassword">
+									<label class="login-field-icon fui-lock" for="login-pass"></label>
+									</div>
+
+
+													<input type="submit" value="Submit" class="btn btn-primary btn-large btn-block" >
+										<br>
+
+										{% with messages = get_flashed_messages() %}
+										{% if messages %}
+											<ul class=flashes>
+											{% for message in messages %}
+												{% if message == "success!" %}
+														<p><strong>{{ message }}</strong></p>
+												{% else %}
+														<p><strong>Error:</strong> {{ message }}</p>
+												{% endif %}
+
+											{% endfor %}
+											</ul>
+											{% endif %}
+										{% endwith %}
+
+										<p class="change_link">
+										If you've already registered, go ahead and
+										<a href="#tologin" class="to_register"> log in! </a>
+										</p>
+								</div>
+							</div>
+						</div>
+
+
+					</form>
+
+
+
+		</div>
+
+</div>
+
+</body>

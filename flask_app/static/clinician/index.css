@@ -1,0 +1,584 @@
+* {
+  font-family: "Open Sans", Helvetica, "Helvetica Neue", sans-serif;
+  box-sizing: border-box;
+}
+
+html, body {
+    height: 100%;
+    margin: 0;
+    padding: 0;
+    font-family: system-ui;
+    font-weight: 200;
+    color: 	#3e5869;
+}
+
+
+
+#filler {
+  padding: 100px;
+}
+
+/* #chat-container {
+  margin: 100px auto;
+  width: 360px;
+  z-index: 100;
+  box-shadow: 0 0 3em blue;
+} */
+
+@media (max-width: 400px) {
+  .chat-container {
+    margin: 20px 10px;
+    width: auto;
+  }
+}
+
+
+#everything {
+    height: 100%;
+    padding-top: 3rem;
+    /* padding-left: 1rem; */
+    height: 100%;
+    grid-template-columns: 1fr 1fr 3fr 60px 60px 2fr;
+    grid-template-rows: 1fr 1fr 60px 60px 1fr 1fr;
+    grid-template-areas:
+      "c c c c c c"
+      "c c c c c c"
+      "c c c c c c"
+      "c c c c c c"
+      "c c c c c c"
+      "c c c c c c";
+}
+
+.wholeApp {
+  grid-area: c;
+  background-color: #eaeaea;
+  padding: 10px;
+}
+
+.sideBar {
+  grid-area: l;
+}
+
+.tpanel {
+  width: 100%;
+  height: 80vh;
+}
+
+
+
+.rwt__tablist[aria-orientation="vertical"] .rwt__tab[aria-selected="true"]:after {
+      border-right: 3px solid #d5b3e8;
+}
+
+#chatAndTraining {
+  display: grid;
+  height: 100%;
+  grid-template-columns: 7fr 2fr 250px 2fr 4fr 4fr;
+  grid-template-rows: 1fr 2fr 80px 2fr 2fr 3fr;
+  grid-template-areas:
+
+      "hc c c c alc alc"
+      "hc c c c alc alc"
+      "hc c c c alc alc"
+      "hc c c c alc alc"
+      "bl bac bac bac alc alc"
+      "bl koc koc koc alc alc";
+}
+
+
+    /* "tl c c c tr tr"
+    "tl c c c tr tr"
+    "bl bl c c mr mr"
+    "bl bl c c mr mr"
+    "bl bl c c r r"
+    "bl bl c c r r"; */
+
+#ActionListContainer {
+  grid-area: alc;
+  background-color: #ffe7df;
+  margin-left: 20px;
+  margin-right: 10px;
+  overflow: hidden;
+  /* margin-bottom: 40px; */
+}
+
+#ActionListContainer table {
+  color: #322da9;
+  table-layout: fixed;
+  width: 100%;
+}
+
+#ActionListContainer table tr th:nth-child(2) {
+  width: 70%;
+}
+
+#ActionListContainer table tr th:nth-child(3) {
+  width: 20%;
+}
+
+#ActionListWrapper {
+  overflow: auto;
+  overflow-y: scroll;
+  height: 100%;
+  /* padding-bottom: 0px !important; */
+}
+
+#ActionListContainer ul {
+  height: 90%;
+}
+
+#HistoryContainer {
+  grid-area: hc;
+  background-color: #ffe7df;
+  margin-left: 20px;
+  margin-right: 10px;
+  overflow: hidden;
+  height: 100%;
+}
+
+#HistoryContainer * {
+  border-style: none;
+}
+
+#HistoryContainer table {
+  color: #322da9;
+  table-layout: fixed;
+  width: 100%;
+}
+
+#HistoryContainer table td {
+  padding-bottom: 5px;
+}
+
+
+
+#HistoryWrapper {
+  overflow: auto;
+  overflow-y: scroll;
+  height: 98%;
+}
+
+#HistoryContainer ul {
+  height: 83%;
+}
+
+#BotActionContainer h2 {
+  color: #5290f5;
+  text-align: left;
+  display: inline-block; */
+  margin-left: 15px;
+  padding: 0;
+  margin: 0;
+  margin-top: 5px;
+}
+
+#BotActionContainer {
+  grid-area: bac;
+  color: #886a6a;
+  background-color: #040404;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  text-align: center;
+  }
+
+#BotActionWrapper {
+  /* height: 100%; */
+  /* margin: auto; */
+  /* vertical-align: middle; */
+}
+
+#BotActionWrapper ul, #BotActionWrapper h2 {
+  /* display: inline-block; */
+  /* vertical-align: middle; */
+}
+
+#BotActionContainer a {
+  color: red;
+}
+
+#BotActionContainer ul {
+  overflow: initial;
+}
+
+
+
+
+#About {
+  border-style: solid;
+  border-radius: 13px;
+  margin-left: 10px;
+  background-color: #eaeaea;
+  padding-bottom: 40px;
+}
+
+#About h2 {
+  margin-top: 10px;
+  font-size: 35px;
+  text-align: center;
+}
+
+#About h5 {
+  font-size: 18px;
+}
+
+#About h3 {
+  font-size: 35px;
+  text-align: center;
+}
+
+#About h4 {
+  font-size: 23px;
+
+}
+
+#About ul, #About ul li {
+  background-color: transparent;
+  list-style: square;
+
+}
+
+.indented {
+  margin-left: 100px;
+  margin-right: 100px;
+}
+
+.indented h6 {
+
+  text-align: center;
+  font-size: 15px;
+}
+
+
+#KeyOptionsContainer {
+
+  grid-area: koc;
+  background-color: #eaeaea;
+  overflow: hidden;
+}
+
+#KeyOptionsWrapper {
+  height: 100%;
+  background-color: #343d4e;
+  overflow: auto;
+  overflow-y: scroll;
+}
+
+#KeyOptionsWrapper h2 {
+  color:aliceblue;
+}
+
+#KeyOptionsContainer ul {
+  height:  65%;
+  margin-right: 5px;
+}
+
+ul {
+  list-style: none;
+  padding-left: 10px;
+  padding-right:10px;
+  /* margin:  auto; */
+  /* margin-left: 10px; */
+  /* margin-right: 10px; */
+  /* margin-bottom: 10px; */
+  /* margin-top: 10px; */
+  margin:  10px;
+  background-color: white;
+  border-radius: 20px;
+   */
+}
+
+
+ul li {padding-top:10px;}
+
+
+
+
+
+li {
+  border-radius: 8px;
+  background-color: white;
+  /* padding: 5px; */
+  /* height:  100%; */
+}
+
+/* tbody {
+    display:table;
+    width:100%;
+    table-layout:fixed
+} */
+
+/* table, th, td {
+   border: 1px solid black;
+} */
+
+td {
+  height: 10px;
+}
+
+.training-hint-text {
+
+  color: red;
+
+}
+
+.training-hints {
+  border-radius: 5px;
+  border-style: solid;
+  /* margin-bottom:  50px; */
+  /* padding: 50px; */
+}
+
+.training-hints h2 {
+  text-align: center;
+}
+
+.highlightIt {
+  /* background-color: red !important; */
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.9), 0 6px 20px 0 rgba(0, 0, 0, 0.9);
+}
+
+#chat-container {
+  grid-area: c;
+}
+
+
+
+.buttonDiv {
+  text-align: center;
+  padding: 10px;
+}
+
+.btn {
+  width: 100px;
+}
+
+
+#spaceTop {
+  grid-area: t;
+}
+
+#spaceBottom {
+  grid-area: b;
+}
+
+#spaceLeft {
+  grid-area: l;
+}
+
+/* #spaceRight {
+  grid-area: r;
+} */
+
+#buttonsAndInstructions {
+  grid-area: bl;
+  color: black;
+  background-color: #252a33;
+  margin-top: 10px;
+  margin-left: 20px;
+  margin-right: 10px;
+  text-align: center;
+  border-radius: 5px;
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr;
+  grid-template-rows: 1fr 2fr 1fr 2fr 1fr 1fr;
+  grid-template-areas:
+
+      "s s s s s s"
+      "s s s s s s"
+      "f f f f f f"
+      "f f f f f f"
+      "b b b b b b"
+      "b b b b b b";
+}
+
+
+.glowing {
+  background-color: #f75151;
+  border-radius: 100px;
+  /* text-align: center; */
+  margin: auto;
+  box-shadow: 0px 0px 20px #fff;
+  /* box-shadow: 5px 10px #888888; */
+}
+
+#statusContainer {
+  grid-area: s;
+  height: 80px;
+  width: 200px;
+  margin:auto;
+  margin-top: 20px;
+  /* margin-bottom: 20px; */
+  text-align: center;
+  color: white;
+}
+
+.off {
+  background-color: #401fde;
+  box-shadow: 0px 0px 10px #fff;
+}
+
+#trainingBotStatus {display: block;margin-left: auto;margin-right: auto;border-radius: 100px;text-align: center;height: 40px;width: 40px;}
+
+#trainButton {
+  grid-area: b;
+}
+
+#trainForm {
+  grid-area: f;
+  position: relative;
+  margin-top: 5px;
+}
+
+#trainForm * {
+  width: 50%;
+  float: bottom;
+  padding: 10px;
+  margin-bottom: 10px;
+  margin-bottom: 5px;
+  border-radius: 10px;
+  font-size: 15px;
+  display: inline-block;
+}
+
+#trainForm label {
+  color: #fefcff;
+}
+
+.Hidden {
+  display: none !important;
+}
+
+
+#runBotContainer {
+  padding: 10px;
+  margin-left: 10px;
+  background-color: #7b7b7b;
+  text-align: center;
+  color: #fffefe;
+  border-radius: 13px;
+  border-style: solid;
+  /* width: 60%; */
+  /* display: inline-block; */
+  float: center;
+  /* margin-left: 50%; */
+  margin: auto;
+  /* margin-top: 5em; */
+  /* margin-right: 50%; */
+  margin-left: 10px;
+  margin-right: 10px;
+}
+
+#runBotContainer p {
+  font-size: 20px;
+}
+
+#formContainer * {
+  padding-right: 10px;
+  padding-left: 30px
+}
+
+#About * {
+  text-align: justify;
+  margin:auto;
+  width: 95%;
+  padding: 10px;
+}
+
+#runBotContainer .buttonDiv button {
+  background-color: #ffffff !important;
+  border-radius: 10px !important;
+  margin-top: 30px;
+  -webkit-box-shadow: -1px 1px 58px -2px rgba(243, 243, 243, 0.75) !important;
+
+  -moz-box-shadow: -1px 1px 58px -2px rgba(0,0,0,0.75);
+  box-shadow: -1px 1px 58px -2px rgba(0,0,0,0.75);
+}
+
+#runBotContainer .buttonDiv button:hover {
+  background-color: #d8daff !important;
+  -webkit-box-shadow: -1px 1px 18px -2px rgba(0,0,0,0.75) !important;
+}
+
+
+#trainButton button {
+  -webkit-box-shadow: -1px 1px 58px -2px rgba(16, 16, 16, 0.99) !important;
+  border-radius: 10px !important;
+}
+
+#statsTable td {
+  text-align: center;
+}
+
+#runBotForm select {
+  font-size: 17px;
+  font-family: roboto;
+}
+
+.dialogueForm > h2 {
+  margin-top: 10px;
+  margin-bottom: 20px;
+  text-align: center;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  margin: 10px;
+  background-color: #fffcfe;
+}
+
+.dialogueForm form {
+  margin-bottom: 30px;
+  border-width: 50p;
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+
+.deleteDialogueFilesForm {
+  margin-bottom: 20px;
+}
+
+
+
+#runBotContainer h2 {
+    margin: auto;
+    margin-bottom: 25px;
+
+}
+
+#runBotContainer select {
+
+    height: 35px;
+    display: inline-block;
+
+}
+
+#oldm {
+  margin-top: 15px;
+}
+
+
+
+/* width */
+::-webkit-scrollbar {
+    width: 10px;
+    border-radius: 10px;
+}
+
+/* Track */
+::-webkit-scrollbar-track {
+    background: #40393926;
+}
+
+/* Handle */
+::-webkit-scrollbar-thumb {
+    background: #9f9fa2;
+}
+
+/* Handle on hover */
+::-webkit-scrollbar-thumb:hover {
+    background: black;
+}
+
+
+/* Handle on hover */
+::-webkit-scrollbar-thumb:hover {
+    background: black;
+}

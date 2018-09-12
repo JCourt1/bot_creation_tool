@@ -1,0 +1,16 @@
+#!/bin/bash
+
+ACI_PERS_RESOURCE_GROUP=acrMHBot
+ACI_PERS_STORAGE_ACCOUNT_NAME=storageaccount$RANDOM
+ACI_PERS_LOCATION=westeurope
+ACI_PERS_SHARE_NAME=acishare
+
+az storage account create \
+    --resource-group $ACI_PERS_RESOURCE_GROUP \
+    --name $ACI_PERS_STORAGE_ACCOUNT_NAME \
+    --location $ACI_PERS_LOCATION \
+    --sku Standard_LRS
+
+export AZURE_STORAGE_CONNECTION_STRING=`az storage account show-connection-string --resource-group $ACI_PERS_RESOURCE_GROUP --name $ACI_PERS_STORAGE_ACCOUNT_NAME --output tsv`
+
+az storage share create -n $ACI_PERS_SHARE_NAME

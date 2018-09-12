@@ -1,0 +1,137 @@
+* {
+  font-family: "Open Sans", Helvetica, "Helvetica Neue", sans-serif;
+  box-sizing: border-box;
+}
+
+html, body {
+    height: 100%;
+    margin: 0;
+    padding: 0;
+    font-family: system-ui;
+    font-weight: 200;
+    color: 	#3e5869;
+}
+
+/* #chat-container {
+  margin: 100px auto;
+  width: 360px;
+  z-index: 100;
+  box-shadow: 0 0 3em blue;
+} */
+
+@media (max-width: 400px) {
+  .chat-container {
+    margin: 20px 10px;
+    width: auto;
+  }
+}
+
+.chat-demo-button {
+  border-radius: 3px;
+  color: #343d4e;
+  border: 2px solid #343d4e;
+  padding: 5px 10px;
+  background-color: white;
+  outline: none;
+  font-size: 12px;
+  cursor: pointer;
+}
+.chat-demo-button:hover {
+  background-color: rgba(52, 61, 78, 0.3);
+}
+.chat-demo-button:active {
+  background-color: rgba(52, 61, 78, 0.8);
+}
+
+
+#everything {
+    display: grid;
+    height: 100%;
+    grid-template-columns: 1fr 1fr 3fr 60px 60px 2fr;
+    grid-template-rows: 1fr 1fr 60px 60px 1fr 1fr;
+    grid-template-areas:
+        "c c c c c c"
+        "c c c c c c"
+        "c c c c c c"
+        "c c c c c c"
+        "c c c c c c"
+        "c c c c c c";
+}
+
+
+#app {
+    grid-area: r;
+    display: grid;
+    height: 100%;
+    grid-template-columns: 1fr 1fr 60px 60px 1fr 1fr;
+    grid-template-rows: 1fr 1fr 60px 60px 1fr 1fr;
+    grid-template-areas:
+        "c c c c c c"
+        "c c c c c c"
+        "c c c c c c"
+        "c c c c c c"
+        "c c c c c c"
+        "c c c c c c";
+}
+
+.wholeApp {
+  background-color: #c8cade82;
+  grid-area: c;
+  padding-left: 1px;
+  padding-right: 1px;
+  padding-top: 20px;
+  display: grid;
+  height: 100%;
+  grid-template-columns: 2fr 2fr 350px 1fr 2fr 2fr;
+  grid-template-rows: 1fr 1fr 60px 60px 1fr 1fr;
+  grid-template-areas:
+      "l l c c r r"
+      "l l c c r r"
+      "l l c c r r"
+      "l l c c r r"
+      "l l c c r r"
+      "l l c c b b";
+}
+
+#chat-container {
+  grid-area: c;
+}
+
+
+#spaceTop {
+  grid-area: t;
+}
+
+#spaceBottom {
+  grid-area: b;
+}
+
+#spaceLeft {
+  grid-area: l;
+}
+
+/* #spaceRight {
+  grid-area: r;
+} */
+
+
+/* width */
+::-webkit-scrollbar {
+    width: 15px;
+    border-radius: 10px;
+}
+
+/* Track */
+::-webkit-scrollbar-track {
+    background: #40393926;
+}
+
+/* Handle */
+::-webkit-scrollbar-thumb {
+    background: #9f9fa2;
+}
+
+/* Handle on hover */
+::-webkit-scrollbar-thumb:hover {
+    background: black;
+}

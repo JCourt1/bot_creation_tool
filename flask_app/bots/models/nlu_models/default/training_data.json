@@ -1,0 +1,1660 @@
+{
+  "rasa_nlu_data": {
+    "common_examples": [
+      {
+        "intent": "greet",
+        "text": "hi"
+      },
+      {
+        "intent": "greet",
+        "text": "hello"
+      },
+      {
+        "intent": "greet",
+        "text": "Hiya"
+      },
+      {
+        "intent": "greet",
+        "text": "Hello"
+      },
+      {
+        "intent": "greet",
+        "text": "Alright"
+      },
+      {
+        "intent": "greet",
+        "text": "hi"
+      },
+      {
+        "intent": "greet",
+        "text": "hello"
+      },
+      {
+        "intent": "greet",
+        "text": "Hiya"
+      },
+      {
+        "intent": "greet",
+        "text": "Hello"
+      },
+      {
+        "intent": "greet",
+        "text": "Alright"
+      },
+      {
+        "intent": "greet",
+        "text": "hi"
+      },
+      {
+        "intent": "greet",
+        "text": "hello"
+      },
+      {
+        "intent": "greet",
+        "text": "Hiya"
+      },
+      {
+        "intent": "greet",
+        "text": "Hello"
+      },
+      {
+        "intent": "greet",
+        "text": "Alright"
+      },
+      {
+        "intent": "greet",
+        "text": "hi"
+      },
+      {
+        "intent": "greet",
+        "text": "hello"
+      },
+      {
+        "intent": "greet",
+        "text": "Hiya"
+      },
+      {
+        "intent": "greet",
+        "text": "Hello"
+      },
+      {
+        "intent": "greet",
+        "text": "Alright"
+      },
+      {
+        "intent": "askHowBotIs",
+        "text": "how are you"
+      },
+      {
+        "intent": "askHowBotIs",
+        "text": "How's it going?"
+      },
+      {
+        "intent": "askHowBotIs",
+        "text": "How are you today?"
+      },
+      {
+        "intent": "askHowBotIs",
+        "text": "What's up?"
+      },
+      {
+        "intent": "askHowBotIs",
+        "text": "Ca va?"
+      },
+      {
+        "intent": "askHowBotIs",
+        "text": "Como estas?"
+      },
+      {
+        "intent": "askHowBotIs",
+        "text": "geht's dir gut?"
+      },
+      {
+        "intent": "askHowBotIs",
+        "text": "How's it going"
+      },
+      {
+        "intent": "askHowBotIs",
+        "text": "Alright?"
+      },
+      {
+        "intent": "askHowBotIs",
+        "text": "how are you"
+      },
+      {
+        "intent": "askHowBotIs",
+        "text": "How's it going?"
+      },
+      {
+        "intent": "askHowBotIs",
+        "text": "How are you today?"
+      },
+      {
+        "intent": "askHowBotIs",
+        "text": "What's up?"
+      },
+      {
+        "intent": "askHowBotIs",
+        "text": "Ca va?"
+      },
+      {
+        "intent": "askHowBotIs",
+        "text": "Como estas?"
+      },
+      {
+        "intent": "askHowBotIs",
+        "text": "geht's dir gut?"
+      },
+      {
+        "intent": "askHowBotIs",
+        "text": "How's it going"
+      },
+      {
+        "intent": "askHowBotIs",
+        "text": "Alright?"
+      },
+      {
+        "intent": "goodbye",
+        "text": "bye"
+      },
+      {
+        "intent": "goodbye",
+        "text": "goodbye"
+      },
+      {
+        "intent": "goodbye",
+        "text": "See you later then"
+      },
+      {
+        "intent": "goodbye",
+        "text": "Goodbye"
+      },
+      {
+        "intent": "goodbye",
+        "text": "Bye"
+      },
+      {
+        "intent": "goodbye",
+        "text": "See ya"
+      },
+      {
+        "intent": "goodbye",
+        "text": "Bye bye"
+      },
+      {
+        "intent": "goodbye",
+        "text": "Cheerio"
+      },
+      {
+        "intent": "goodbye",
+        "text": "bye"
+      },
+      {
+        "intent": "goodbye",
+        "text": "goodbye"
+      },
+      {
+        "intent": "goodbye",
+        "text": "See you later then"
+      },
+      {
+        "intent": "goodbye",
+        "text": "Goodbye"
+      },
+      {
+        "intent": "goodbye",
+        "text": "Bye"
+      },
+      {
+        "intent": "goodbye",
+        "text": "See ya"
+      },
+      {
+        "intent": "goodbye",
+        "text": "Bye bye"
+      },
+      {
+        "intent": "goodbye",
+        "text": "Cheerio"
+      },
+      {
+        "intent": "goodbye",
+        "text": "bye"
+      },
+      {
+        "intent": "goodbye",
+        "text": "goodbye"
+      },
+      {
+        "intent": "goodbye",
+        "text": "See you later then"
+      },
+      {
+        "intent": "goodbye",
+        "text": "Goodbye"
+      },
+      {
+        "intent": "goodbye",
+        "text": "Bye"
+      },
+      {
+        "intent": "goodbye",
+        "text": "See ya"
+      },
+      {
+        "intent": "goodbye",
+        "text": "Bye bye"
+      },
+      {
+        "intent": "goodbye",
+        "text": "Cheerio"
+      },
+      {
+        "intent": "affirm",
+        "text": "yes"
+      },
+      {
+        "intent": "affirm",
+        "text": "indeed"
+      },
+      {
+        "intent": "affirm",
+        "text": "Yep"
+      },
+      {
+        "intent": "affirm",
+        "text": "yeah"
+      },
+      {
+        "intent": "affirm",
+        "text": "That's correct"
+      },
+      {
+        "intent": "affirm",
+        "text": "Ok"
+      },
+      {
+        "intent": "affirm",
+        "text": "Alright then"
+      },
+      {
+        "intent": "affirm",
+        "text": "yes"
+      },
+      {
+        "intent": "affirm",
+        "text": "indeed"
+      },
+      {
+        "intent": "affirm",
+        "text": "Yep"
+      },
+      {
+        "intent": "affirm",
+        "text": "yeah"
+      },
+      {
+        "intent": "affirm",
+        "text": "That's correct"
+      },
+      {
+        "intent": "affirm",
+        "text": "Ok"
+      },
+      {
+        "intent": "affirm",
+        "text": "Alright then"
+      },
+      {
+        "intent": "affirm",
+        "text": "yes"
+      },
+      {
+        "intent": "affirm",
+        "text": "indeed"
+      },
+      {
+        "intent": "affirm",
+        "text": "Yep"
+      },
+      {
+        "intent": "affirm",
+        "text": "yeah"
+      },
+      {
+        "intent": "affirm",
+        "text": "That's correct"
+      },
+      {
+        "intent": "affirm",
+        "text": "Ok"
+      },
+      {
+        "intent": "affirm",
+        "text": "Alright then"
+      },
+      {
+        "intent": "deny",
+        "text": "no"
+      },
+      {
+        "intent": "deny",
+        "text": "no thanks"
+      },
+      {
+        "intent": "deny",
+        "text": "Nah"
+      },
+      {
+        "intent": "deny",
+        "text": "nope"
+      },
+      {
+        "intent": "deny",
+        "text": "I don't think so"
+      },
+      {
+        "intent": "deny",
+        "text": "Probably not"
+      },
+      {
+        "intent": "deny",
+        "text": "Maybe not"
+      },
+      {
+        "intent": "deny",
+        "text": "No"
+      },
+      {
+        "intent": "deny",
+        "text": "no"
+      },
+      {
+        "intent": "deny",
+        "text": "no thanks"
+      },
+      {
+        "intent": "deny",
+        "text": "Nah"
+      },
+      {
+        "intent": "deny",
+        "text": "nope"
+      },
+      {
+        "intent": "deny",
+        "text": "I don't think so"
+      },
+      {
+        "intent": "deny",
+        "text": "Probably not"
+      },
+      {
+        "intent": "deny",
+        "text": "Maybe not"
+      },
+      {
+        "intent": "deny",
+        "text": "No"
+      },
+      {
+        "intent": "deny",
+        "text": "no"
+      },
+      {
+        "intent": "deny",
+        "text": "no thanks"
+      },
+      {
+        "intent": "deny",
+        "text": "Nah"
+      },
+      {
+        "intent": "deny",
+        "text": "nope"
+      },
+      {
+        "intent": "deny",
+        "text": "I don't think so"
+      },
+      {
+        "intent": "deny",
+        "text": "Probably not"
+      },
+      {
+        "intent": "deny",
+        "text": "Maybe not"
+      },
+      {
+        "intent": "deny",
+        "text": "No"
+      },
+      {
+        "intent": "thanks",
+        "text": "thanks"
+      },
+      {
+        "intent": "thanks",
+        "text": "great!"
+      },
+      {
+        "intent": "thanks",
+        "text": "That is great"
+      },
+      {
+        "intent": "thanks",
+        "text": "Thank you"
+      },
+      {
+        "intent": "thanks",
+        "text": "Thank you very much"
+      },
+      {
+        "intent": "thanks",
+        "text": "thanks"
+      },
+      {
+        "intent": "thanks",
+        "text": "great!"
+      },
+      {
+        "intent": "thanks",
+        "text": "That is great"
+      },
+      {
+        "intent": "thanks",
+        "text": "Thank you"
+      },
+      {
+        "intent": "thanks",
+        "text": "Thank you very much"
+      },
+      {
+        "intent": "thanks",
+        "text": "thanks"
+      },
+      {
+        "intent": "thanks",
+        "text": "great!"
+      },
+      {
+        "intent": "thanks",
+        "text": "That is great"
+      },
+      {
+        "intent": "thanks",
+        "text": "Thank you"
+      },
+      {
+        "intent": "thanks",
+        "text": "Thank you very much"
+      },
+      {
+        "intent": "thanks",
+        "text": "thanks"
+      },
+      {
+        "intent": "thanks",
+        "text": "great!"
+      },
+      {
+        "intent": "thanks",
+        "text": "That is great"
+      },
+      {
+        "intent": "thanks",
+        "text": "Thank you"
+      },
+      {
+        "intent": "thanks",
+        "text": "Thank you very much"
+      },
+      {
+        "intent": "expressSelfHarm",
+        "text": "I want to commit suicide"
+      },
+      {
+        "intent": "expressSelfHarm",
+        "text": "I want to end my life"
+      },
+      {
+        "intent": "expressSelfHarm",
+        "text": "I want to die"
+      },
+      {
+        "intent": "expressSelfHarm",
+        "text": "Kill myself"
+      },
+      {
+        "intent": "expressSelfHarm",
+        "text": "Can't take it anymore"
+      },
+      {
+        "intent": "expressSelfHarm",
+        "text": "I can't stop thinking about dying"
+      },
+      {
+        "intent": "expressSelfHarm",
+        "text": "I want to commit suicide"
+      },
+      {
+        "intent": "expressSelfHarm",
+        "text": "I want to end my life"
+      },
+      {
+        "intent": "expressSelfHarm",
+        "text": "I want to die"
+      },
+      {
+        "intent": "expressSelfHarm",
+        "text": "Kill myself"
+      },
+      {
+        "intent": "expressSelfHarm",
+        "text": "Can't take it anymore"
+      },
+      {
+        "intent": "expressSelfHarm",
+        "text": "I can't stop thinking about dying"
+      },
+      {
+        "intent": "expressSelfHarm",
+        "text": "I want to commit suicide"
+      },
+      {
+        "intent": "expressSelfHarm",
+        "text": "I want to end my life"
+      },
+      {
+        "intent": "expressSelfHarm",
+        "text": "I want to die"
+      },
+      {
+        "intent": "expressSelfHarm",
+        "text": "Kill myself"
+      },
+      {
+        "intent": "expressSelfHarm",
+        "text": "Can't take it anymore"
+      },
+      {
+        "intent": "expressSelfHarm",
+        "text": "I can't stop thinking about dying"
+      },
+      {
+        "intent": "askWhatCanBotDo",
+        "text": "What are you able to do?"
+      },
+      {
+        "intent": "askWhatCanBotDo",
+        "text": "What can you do?"
+      },
+      {
+        "intent": "askWhatCanBotDo",
+        "text": "Could you show me what you can do?"
+      },
+      {
+        "intent": "askWhatCanBotDo",
+        "text": "What can I ask you?"
+      },
+      {
+        "intent": "askWhatCanBotDo",
+        "text": "What sort of things do you do"
+      },
+      {
+        "intent": "askWhatCanBotDo",
+        "text": "What are you able to do?"
+      },
+      {
+        "intent": "askWhatCanBotDo",
+        "text": "What can you do?"
+      },
+      {
+        "intent": "askWhatCanBotDo",
+        "text": "Could you show me what you can do?"
+      },
+      {
+        "intent": "askWhatCanBotDo",
+        "text": "What can I ask you?"
+      },
+      {
+        "intent": "askWhatCanBotDo",
+        "text": "What sort of things do you do"
+      },
+      {
+        "intent": "askWhatCanBotDo",
+        "text": "What are you able to do?"
+      },
+      {
+        "intent": "askWhatCanBotDo",
+        "text": "What can you do?"
+      },
+      {
+        "intent": "askWhatCanBotDo",
+        "text": "Could you show me what you can do?"
+      },
+      {
+        "intent": "askWhatCanBotDo",
+        "text": "What can I ask you?"
+      },
+      {
+        "intent": "askWhatCanBotDo",
+        "text": "What sort of things do you do"
+      },
+      {
+        "intent": "askWhatCanBotDo",
+        "text": "What are you able to do?"
+      },
+      {
+        "intent": "askWhatCanBotDo",
+        "text": "What can you do?"
+      },
+      {
+        "intent": "askWhatCanBotDo",
+        "text": "Could you show me what you can do?"
+      },
+      {
+        "intent": "askWhatCanBotDo",
+        "text": "What can I ask you?"
+      },
+      {
+        "intent": "askWhatCanBotDo",
+        "text": "What sort of things do you do"
+      },
+      {
+        "intent": "askForGuidance",
+        "text": "I don't know what to do with myself"
+      },
+      {
+        "intent": "askForGuidance",
+        "text": "I can't see the point of anything"
+      },
+      {
+        "intent": "askForGuidance",
+        "text": "I don't know what to do with myself."
+      },
+      {
+        "intent": "askForGuidance",
+        "text": "I feel so lost."
+      },
+      {
+        "intent": "askForGuidance",
+        "text": "Can you help me?"
+      },
+      {
+        "intent": "askForGuidance",
+        "text": "I don't know what to do with myself"
+      },
+      {
+        "intent": "askForGuidance",
+        "text": "I can't see the point of anything"
+      },
+      {
+        "intent": "askForGuidance",
+        "text": "I don't know what to do with myself."
+      },
+      {
+        "intent": "askForGuidance",
+        "text": "I feel so lost."
+      },
+      {
+        "intent": "askForGuidance",
+        "text": "Can you help me?"
+      },
+      {
+        "intent": "askForGuidance",
+        "text": "I don't know what to do with myself"
+      },
+      {
+        "intent": "askForGuidance",
+        "text": "I can't see the point of anything"
+      },
+      {
+        "intent": "askForGuidance",
+        "text": "I don't know what to do with myself."
+      },
+      {
+        "intent": "askForGuidance",
+        "text": "I feel so lost."
+      },
+      {
+        "intent": "askForGuidance",
+        "text": "Can you help me?"
+      },
+      {
+        "intent": "askForGuidance",
+        "text": "I don't know what to do with myself"
+      },
+      {
+        "intent": "askForGuidance",
+        "text": "I can't see the point of anything"
+      },
+      {
+        "intent": "askForGuidance",
+        "text": "I don't know what to do with myself."
+      },
+      {
+        "intent": "askForGuidance",
+        "text": "I feel so lost."
+      },
+      {
+        "intent": "askForGuidance",
+        "text": "Can you help me?"
+      },
+      {
+        "intent": "requestDialogues",
+        "text": "Please show me the dialogues"
+      },
+      {
+        "intent": "requestDialogues",
+        "text": "What dialogues do you have?"
+      },
+      {
+        "intent": "requestDialogues",
+        "text": "Dialogues"
+      },
+      {
+        "intent": "requestDialogues",
+        "text": "Can you show me what therapy you have?"
+      },
+      {
+        "intent": "requestDialogues",
+        "text": "I want some therapy"
+      },
+      {
+        "intent": "requestDialogues",
+        "text": "Please show me the dialogues"
+      },
+      {
+        "intent": "requestDialogues",
+        "text": "What dialogues do you have?"
+      },
+      {
+        "intent": "requestDialogues",
+        "text": "Dialogues"
+      },
+      {
+        "intent": "requestDialogues",
+        "text": "Can you show me what therapy you have?"
+      },
+      {
+        "intent": "requestDialogues",
+        "text": "I want some therapy"
+      },
+      {
+        "intent": "requestDialogues",
+        "text": "Please show me the dialogues"
+      },
+      {
+        "intent": "requestDialogues",
+        "text": "What dialogues do you have?"
+      },
+      {
+        "intent": "requestDialogues",
+        "text": "Dialogues"
+      },
+      {
+        "intent": "requestDialogues",
+        "text": "Can you show me what therapy you have?"
+      },
+      {
+        "intent": "requestDialogues",
+        "text": "I want some therapy"
+      },
+      {
+        "intent": "requestDialogues",
+        "text": "Please show me the dialogues"
+      },
+      {
+        "intent": "requestDialogues",
+        "text": "What dialogues do you have?"
+      },
+      {
+        "intent": "requestDialogues",
+        "text": "Dialogues"
+      },
+      {
+        "intent": "requestDialogues",
+        "text": "Can you show me what therapy you have?"
+      },
+      {
+        "intent": "requestDialogues",
+        "text": "I want some therapy"
+      },
+      {
+        "intent": "requestQuestionnaires",
+        "text": "What questionnaires are available?"
+      },
+      {
+        "intent": "requestQuestionnaires",
+        "text": "Questionnaires"
+      },
+      {
+        "intent": "requestQuestionnaires",
+        "text": "Can I do a questionnaire"
+      },
+      {
+        "intent": "requestQuestionnaires",
+        "text": "I would like to do a questionnaire"
+      },
+      {
+        "intent": "requestQuestionnaires",
+        "text": "I am looking for help from a clinician."
+      },
+      {
+        "intent": "requestQuestionnaires",
+        "text": "What questionnaires are available?"
+      },
+      {
+        "intent": "requestQuestionnaires",
+        "text": "Questionnaires"
+      },
+      {
+        "intent": "requestQuestionnaires",
+        "text": "Can I do a questionnaire"
+      },
+      {
+        "intent": "requestQuestionnaires",
+        "text": "I would like to do a questionnaire"
+      },
+      {
+        "intent": "requestQuestionnaires",
+        "text": "I am looking for help from a clinician."
+      },
+      {
+        "intent": "requestQuestionnaires",
+        "text": "What questionnaires are available?"
+      },
+      {
+        "intent": "requestQuestionnaires",
+        "text": "Questionnaires"
+      },
+      {
+        "intent": "requestQuestionnaires",
+        "text": "Can I do a questionnaire"
+      },
+      {
+        "intent": "requestQuestionnaires",
+        "text": "I would like to do a questionnaire"
+      },
+      {
+        "intent": "requestQuestionnaires",
+        "text": "I am looking for help from a clinician."
+      },
+      {
+        "intent": "requestQuestionnaires",
+        "text": "What questionnaires are available?"
+      },
+      {
+        "intent": "requestQuestionnaires",
+        "text": "Questionnaires"
+      },
+      {
+        "intent": "requestQuestionnaires",
+        "text": "Can I do a questionnaire"
+      },
+      {
+        "intent": "requestQuestionnaires",
+        "text": "I would like to do a questionnaire"
+      },
+      {
+        "intent": "requestQuestionnaires",
+        "text": "I am looking for help from a clinician."
+      },
+      {
+        "intent": "expressFeeling",
+        "entities": [
+          {
+            "start": 0,
+            "end": 5,
+            "value": "Happy",
+            "entity": "sentiment"
+          }
+        ],
+        "text": "great"
+      },
+      {
+        "intent": "expressFeeling",
+        "entities": [
+          {
+            "start": 0,
+            "end": 9,
+            "value": "Happy",
+            "entity": "sentiment"
+          }
+        ],
+        "text": "wonderful"
+      },
+      {
+        "intent": "expressFeeling",
+        "entities": [
+          {
+            "start": 0,
+            "end": 5,
+            "value": "Happy",
+            "entity": "sentiment"
+          }
+        ],
+        "text": "happy"
+      },
+      {
+        "intent": "expressFeeling",
+        "entities": [
+          {
+            "start": 0,
+            "end": 4,
+            "value": "Depressed",
+            "entity": "sentiment"
+          }
+        ],
+        "text": "down"
+      },
+      {
+        "intent": "expressFeeling",
+        "entities": [
+          {
+            "start": 0,
+            "end": 9,
+            "value": "Depressed",
+            "entity": "sentiment"
+          }
+        ],
+        "text": "depressed"
+      },
+      {
+        "intent": "expressFeeling",
+        "entities": [
+          {
+            "start": 0,
+            "end": 9,
+            "value": "Happy",
+            "entity": "sentiment"
+          }
+        ],
+        "text": "delighted"
+      },
+      {
+        "intent": "expressFeeling",
+        "entities": [
+          {
+            "start": 0,
+            "end": 3,
+            "value": "Depressed",
+            "entity": "sentiment"
+          }
+        ],
+        "text": "low"
+      },
+      {
+        "intent": "expressFeeling",
+        "entities": [
+          {
+            "start": 0,
+            "end": 8,
+            "value": "Happy",
+            "entity": "sentiment"
+          }
+        ],
+        "text": "the best"
+      },
+      {
+        "intent": "expressFeeling",
+        "entities": [
+          {
+            "start": 0,
+            "end": 7,
+            "value": "Happy",
+            "entity": "sentiment"
+          }
+        ],
+        "text": "content"
+      },
+      {
+        "intent": "expressFeeling",
+        "entities": [
+          {
+            "start": 0,
+            "end": 8,
+            "value": "Happy",
+            "entity": "sentiment"
+          }
+        ],
+        "text": "cheerful"
+      },
+      {
+        "intent": "expressFeeling",
+        "entities": [
+          {
+            "start": 0,
+            "end": 7,
+            "value": "Anxious",
+            "entity": "sentiment"
+          }
+        ],
+        "text": "anxious"
+      },
+      {
+        "intent": "expressFeeling",
+        "entities": [
+          {
+            "start": 0,
+            "end": 12,
+            "value": "Depressed",
+            "entity": "sentiment"
+          }
+        ],
+        "text": "not the best"
+      },
+      {
+        "intent": "expressFeeling",
+        "entities": [
+          {
+            "start": 2,
+            "end": 18,
+            "value": "Depressed",
+            "entity": "sentiment"
+          }
+        ],
+        "text": "I don't feel great"
+      },
+      {
+        "intent": "expressFeeling",
+        "entities": [
+          {
+            "start": 0,
+            "end": 15,
+            "value": "Depressed",
+            "entity": "sentiment"
+          }
+        ],
+        "text": "don't feel good"
+      },
+      {
+        "intent": "expressFeeling",
+        "entities": [
+          {
+            "start": 0,
+            "end": 14,
+            "value": "Happy",
+            "entity": "sentiment"
+          }
+        ],
+        "text": "don't feel bad"
+      },
+      {
+        "intent": "expressFeeling",
+        "entities": [
+          {
+            "start": 0,
+            "end": 13,
+            "value": "Depressed",
+            "entity": "sentiment"
+          }
+        ],
+        "text": "don't feel ok"
+      },
+      {
+        "intent": "expressFeeling",
+        "entities": [
+          {
+            "start": 11,
+            "end": 16,
+            "value": "Anxious",
+            "entity": "sentiment"
+          }
+        ],
+        "text": "I am a bit nervy"
+      },
+      {
+        "intent": "expressFeeling",
+        "entities": [
+          {
+            "start": 7,
+            "end": 11,
+            "value": "Depressed",
+            "entity": "sentiment"
+          }
+        ],
+        "text": "I feel shit"
+      },
+      {
+        "intent": "expressFeeling",
+        "entities": [
+          {
+            "start": 7,
+            "end": 12,
+            "value": "Depressed",
+            "entity": "sentiment"
+          }
+        ],
+        "text": "I feel awful"
+      },
+      {
+        "intent": "expressFeeling",
+        "entities": [
+          {
+            "start": 7,
+            "end": 10,
+            "value": "Depressed",
+            "entity": "sentiment"
+          }
+        ],
+        "text": "I feel bad"
+      },
+      {
+        "intent": "expressFeeling",
+        "entities": [
+          {
+            "start": 14,
+            "end": 17,
+            "value": "Depressed",
+            "entity": "sentiment"
+          }
+        ],
+        "text": "I feel really bad"
+      },
+      {
+        "intent": "expressFeeling",
+        "entities": [
+          {
+            "start": 7,
+            "end": 10,
+            "value": "Depressed",
+            "entity": "sentiment"
+          }
+        ],
+        "text": "I feel sad"
+      },
+      {
+        "intent": "expressFeeling",
+        "entities": [
+          {
+            "start": 4,
+            "end": 12,
+            "value": "Depressed",
+            "entity": "sentiment"
+          }
+        ],
+        "text": "I'm terrible"
+      },
+      {
+        "intent": "expressFeeling",
+        "entities": [
+          {
+            "start": 9,
+            "end": 14,
+            "value": "Happy",
+            "entity": "sentiment"
+          }
+        ],
+        "text": "i'm very happy"
+      },
+      {
+        "intent": "expressFeeling",
+        "entities": [
+          {
+            "start": 5,
+            "end": 12,
+            "value": "Depressed",
+            "entity": "sentiment"
+          }
+        ],
+        "text": "very unhappy"
+      },
+      {
+        "intent": "expressFeeling",
+        "entities": [
+          {
+            "start": 19,
+            "end": 23,
+            "value": "Depressed",
+            "entity": "sentiment"
+          }
+        ],
+        "text": "i'm feeling really down"
+      },
+      {
+        "intent": "expressFeeling",
+        "entities": [
+          {
+            "start": 10,
+            "end": 28,
+            "value": "Depressed",
+            "entity": "sentiment"
+          }
+        ],
+        "text": "i've been feeling a bit down"
+      },
+      {
+        "intent": "expressFeeling",
+        "entities": [
+          {
+            "start": 16,
+            "end": 23,
+            "value": "Anxious",
+            "entity": "sentiment"
+          }
+        ],
+        "text": "i have a bit of anxiety"
+      },
+      {
+        "intent": "expressFeeling",
+        "entities": [
+          {
+            "start": 18,
+            "end": 25,
+            "value": "Depressed",
+            "entity": "sentiment"
+          }
+        ],
+        "text": "i'm feeling quite unhappy"
+      },
+      {
+        "intent": "expressFeeling",
+        "entities": [
+          {
+            "start": 25,
+            "end": 29,
+            "value": "Depressed",
+            "entity": "sentiment"
+          }
+        ],
+        "text": "i've been feeling really down"
+      },
+      {
+        "intent": "expressFeeling",
+        "entities": [
+          {
+            "start": 7,
+            "end": 10,
+            "value": "Depressed",
+            "entity": "sentiment"
+          }
+        ],
+        "text": "really low"
+      },
+      {
+        "intent": "expressFeeling",
+        "entities": [
+          {
+            "start": 7,
+            "end": 12,
+            "value": "Happy",
+            "entity": "sentiment"
+          }
+        ],
+        "text": "pretty happy!"
+      },
+      {
+        "intent": "expressFeeling",
+        "entities": [
+          {
+            "start": 17,
+            "end": 20,
+            "value": "Depressed",
+            "entity": "sentiment"
+          },
+          {
+            "start": 25,
+            "end": 32,
+            "value": "Anxious",
+            "entity": "sentiment"
+          }
+        ],
+        "text": "a combination of low and anxious i'd say"
+      },
+      {
+        "intent": "expressFeeling",
+        "entities": [
+          {
+            "start": 25,
+            "end": 28,
+            "value": "Depressed",
+            "entity": "sentiment"
+          }
+        ],
+        "text": "i've been feeling really low"
+      },
+      {
+        "intent": "expressFeeling",
+        "entities": [
+          {
+            "start": 0,
+            "end": 10,
+            "value": "Depressed",
+            "entity": "sentiment"
+          }
+        ],
+        "text": "spiritless"
+      },
+      {
+        "intent": "expressFeeling",
+        "entities": [
+          {
+            "start": 6,
+            "end": 23,
+            "value": "Depressed",
+            "entity": "sentiment"
+          }
+        ],
+        "text": "a bit down in the mouth"
+      },
+      {
+        "intent": "expressFeeling",
+        "entities": [
+          {
+            "start": 11,
+            "end": 18,
+            "value": "Depressed",
+            "entity": "sentiment"
+          }
+        ],
+        "text": "incredibly unhappy"
+      },
+      {
+        "intent": "expressFeeling",
+        "entities": [
+          {
+            "start": 12,
+            "end": 17,
+            "value": "Happy",
+            "entity": "sentiment"
+          }
+        ],
+        "text": "i'm feeling great!"
+      },
+      {
+        "intent": "expressFeeling",
+        "entities": [
+          {
+            "start": 12,
+            "end": 17,
+            "value": "Happy",
+            "entity": "sentiment"
+          }
+        ],
+        "text": "i'm feeling grand thanks"
+      },
+      {
+        "intent": "expressFeeling",
+        "entities": [
+          {
+            "start": 5,
+            "end": 22,
+            "value": "Happy",
+            "entity": "sentiment"
+          }
+        ],
+        "text": "i've never been better!"
+      },
+      {
+        "intent": "expressFeeling",
+        "entities": [
+          {
+            "start": 34,
+            "end": 43,
+            "value": "Depressed",
+            "entity": "sentiment"
+          }
+        ],
+        "text": "i don't think i've ever felt more depressed"
+      },
+      {
+        "intent": "expressFeeling",
+        "entities": [
+          {
+            "start": 0,
+            "end": 11,
+            "value": "Depressed",
+            "entity": "sentiment"
+          }
+        ],
+        "text": "in the pits you know?"
+      },
+      {
+        "intent": "expressFeeling",
+        "entities": [
+          {
+            "start": 18,
+            "end": 26,
+            "value": "Anxious",
+            "entity": "sentiment"
+          }
+        ],
+        "text": "i just can't stop worrying"
+      },
+      {
+        "intent": "expressFeeling",
+        "entities": [
+          {
+            "start": 7,
+            "end": 17,
+            "value": "Depressed",
+            "entity": "sentiment"
+          }
+        ],
+        "text": "really bummed out"
+      },
+      {
+        "intent": "expressFeeling",
+        "entities": [
+          {
+            "start": 25,
+            "end": 29,
+            "value": "Depressed",
+            "entity": "sentiment"
+          }
+        ],
+        "text": "i've been feeling pretty blue"
+      },
+      {
+        "intent": "expressFeeling",
+        "entities": [
+          {
+            "start": 12,
+            "end": 19,
+            "value": "Happy",
+            "entity": "sentiment"
+          }
+        ],
+        "text": "i feel very content"
+      },
+      {
+        "intent": "expressFeeling",
+        "entities": [
+          {
+            "start": 7,
+            "end": 17,
+            "value": "Happy",
+            "entity": "sentiment"
+          }
+        ],
+        "text": "i'm in good cheer"
+      },
+      {
+        "intent": "expressFeeling",
+        "entities": [
+          {
+            "start": 17,
+            "end": 25,
+            "value": "Happy",
+            "entity": "sentiment"
+          }
+        ],
+        "text": "i'm feeling very cheerful"
+      },
+      {
+        "intent": "expressFeeling",
+        "entities": [
+          {
+            "start": 19,
+            "end": 25,
+            "value": "Happy",
+            "entity": "sentiment"
+          }
+        ],
+        "text": "i'm feeling pretty chirpy"
+      },
+      {
+        "intent": "expressFeeling",
+        "entities": [
+          {
+            "start": 7,
+            "end": 16,
+            "value": "Happy",
+            "entity": "sentiment"
+          }
+        ],
+        "text": "i feel contented"
+      },
+      {
+        "intent": "expressFeeling",
+        "entities": [
+          {
+            "start": 0,
+            "end": 6,
+            "value": "Happy",
+            "entity": "sentiment"
+          }
+        ],
+        "text": "chirpy"
+      },
+      {
+        "intent": "expressFeeling",
+        "entities": [
+          {
+            "start": 6,
+            "end": 10,
+            "value": "Depressed",
+            "entity": "sentiment"
+          }
+        ],
+        "text": "a bit down"
+      },
+      {
+        "intent": "expressFeeling",
+        "entities": [
+          {
+            "start": 7,
+            "end": 11,
+            "value": "Depressed",
+            "entity": "sentiment"
+          }
+        ],
+        "text": "pretty down"
+      },
+      {
+        "intent": "expressFeeling",
+        "entities": [
+          {
+            "start": 17,
+            "end": 21,
+            "value": "Depressed",
+            "entity": "sentiment"
+          }
+        ],
+        "text": "I'm been feeling down"
+      },
+      {
+        "intent": "expressFeeling",
+        "text": "not feeling too great"
+      },
+      {
+        "intent": "expressFeeling",
+        "entities": [
+          {
+            "start": 7,
+            "end": 10,
+            "value": "Depressed",
+            "entity": "sentiment"
+          }
+        ],
+        "text": "pretty sad"
+      },
+      {
+        "intent": "expressFeeling",
+        "text": "not too happy"
+      },
+      {
+        "intent": "expressFeeling",
+        "entities": [
+          {
+            "start": 4,
+            "end": 23,
+            "value": "Happy",
+            "entity": "sentiment"
+          }
+        ],
+        "text": "the best i've ever felt"
+      },
+      {
+        "intent": "expressFeeling",
+        "entities": [
+          {
+            "start": 0,
+            "end": 17,
+            "value": "Depressed",
+            "entity": "sentiment"
+          }
+        ],
+        "text": "not too wonderful"
+      }
+    ],
+    "regex_features": [],
+    "entity_synonyms": [
+      {
+        "value": "Happy",
+        "synonyms": [
+          "great",
+          "wonderful",
+          "happy",
+          "delighted",
+          "the best",
+          "content",
+          "cheerful",
+          "don't feel bad",
+          "grand",
+          "never been better",
+          "good cheer",
+          "chirpy",
+          "contented",
+          "best i've ever felt"
+        ]
+      },
+      {
+        "value": "Depressed",
+        "synonyms": [
+          "down",
+          "depressed",
+          "low",
+          "not the best",
+          "don't feel great",
+          "don't feel good",
+          "don't feel ok",
+          "shit",
+          "awful",
+          "bad",
+          "sad",
+          "terrible",
+          "unhappy",
+          "feeling a bit down",
+          "spiritless",
+          "down in the mouth",
+          "in the pits",
+          "bummed out",
+          "blue",
+          "not too wonderful"
+        ]
+      },
+      {
+        "value": "Anxious",
+        "synonyms": [
+          "anxious",
+          "nervy",
+          "anxiety",
+          "worrying"
+        ]
+      }
+    ]
+  }
+}

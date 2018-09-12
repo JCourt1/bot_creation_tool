@@ -1,0 +1,7 @@
+[
+  "test_dialogue.py::test_validateInputLoop",
+  "test_dialogue.py::test_little",
+  "test_dialogue.py::test_loop_with_nested",
+  "test_dialogue.py::test_specific_results",
+  "test_dialogue.py::test_dialogueHandler_init"
+]

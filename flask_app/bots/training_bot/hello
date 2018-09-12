@@ -1,0 +1,10 @@
+## Generated Story -6856033991298757126
+* greet
+* Feeling{"sentiment": "Depressed"}
+    - slot{"sentiment": "Depressed"}
+    - action_feelingReply
+    - utter_thanks
+* Feeling{"sentiment": "don't feel happy"}
+    - slot{"sentiment": "don't feel happy"}
+    - export
+

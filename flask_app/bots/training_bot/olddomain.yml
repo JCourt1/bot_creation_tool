@@ -1,0 +1,74 @@
+slots:
+  numDays:
+    type: unfeaturized
+  difficultyLevel:
+    type: unfeaturized
+  sentiment:
+    type: categorical
+    values:
+    - Depressed
+    - Anxious
+    - Happy
+
+
+intents:
+  - greet
+  - goodbye
+  - affirm
+  - thanks
+  - thanks+goodbye
+  - Feeling
+  - selfharm
+  - answerQuestionnaire+selfharm
+  - answerQuestionnaire
+
+
+entities:
+  - numDays
+  - difficultyLevel
+  - sentiment
+
+
+templates:
+  utter_greet:
+    - "Hey, how can I help you?"
+  utter_goodbye:
+    - "Talk to you later!"
+    - "Goodbye :("
+    - "Bye!"
+    - "Have a great day!"
+  utter_confirm:
+    - "Done - I have just booked you a spot at the Bots Berlin meetup."
+    - "Great, just made an RSVP for you."
+  utter_propose_questionnaire:
+    - "Do you want to do a questionnaire?"
+  utter_phq9:
+    - "phq9 questionnaire blabla"
+  utter_gad7:
+    - "gad7 questionnaire blabla"
+  utter_self_harm_help:
+    - "I will phone someone to help you."
+  utter_thanks:
+    - "You are very welcome."
+    - "Glad I could help!"
+  utter_deny:
+    - "That's a shame. Let me know if you change your mind."
+  utter_fallback:
+    - "Sorry, I didn't understand what you just said."
+  utter_proposeEnd:
+    - "Would you like to finish now?"
+
+
+actions:
+  - utter_greet
+  - utter_goodbye
+  - utter_confirm
+  - utter_propose_questionnaire
+  - customActions.ActionFeelingReply
+  - utter_phq9
+  - utter_gad7
+  - utter_self_harm_help
+  - utter_thanks
+  - utter_deny
+  - utter_fallback
+  - utter_proposeEnd

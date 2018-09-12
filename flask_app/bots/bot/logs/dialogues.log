@@ -1,0 +1,2216 @@
+index = 0
+index = 0
+self.nodes = [None, None]
+index = 0
+self.nodes = [<dialogues.SimpleNode object at 0x1a088d65c0>]
+Simple Node
+
+index = 0
+self.nodes = [None, None]
+index = 0
+self.nodes = [<dialogues.SimpleNode object at 0x1a1234eeb8>, <dialogues.TreeNode object at 0x1a1235d080>, <dialogues.SimpleNode object at 0x1a1235d0b8>]
+Simple Node
+Tree Node
+	branch: default
+		Simple Node
+	branch: Feeling
+		Simple Node
+Simple Node
+
+index = 1
+self.nodes = [<dialogues.SimpleNode object at 0x1a1234eeb8>, <dialogues.TreeNode object at 0x1a1235d080>, <dialogues.SimpleNode object at 0x1a1235d0b8>]
+Simple Node
+Tree Node
+	branch: default
+		Simple Node
+	branch: Feeling
+		Simple Node
+Simple Node
+
+index = 2
+self.nodes = [<dialogues.SimpleNode object at 0x1a1234eeb8>, <dialogues.TreeNode object at 0x1a1235d080>, <dialogues.SimpleNode object at 0x1a1235d0b8>]
+Simple Node
+Tree Node
+	branch: default
+		Simple Node
+	branch: Feeling
+		Simple Node
+Simple Node
+
+index = 0
+self.nodes = [<dialogues.SimpleNode object at 0x1a15d50240>, <dialogues.ValidateInputNode object at 0x1a15d50320>, <dialogues.ValidateInputNode object at 0x1a15d50400>]
+Simple Node
+Validate Input Node
+Validate Input Node
+
+index = 1
+self.nodes = [<dialogues.SimpleNode object at 0x1a15d50240>, <dialogues.ValidateInputNode object at 0x1a15d50320>, <dialogues.ValidateInputNode object at 0x1a15d50400>]
+Simple Node
+Validate Input Node
+Validate Input Node
+
+index = 1
+self.nodes = [<dialogues.SimpleNode object at 0x1a15d50240>, <dialogues.ValidateInputNode object at 0x1a15d50320>, <dialogues.ValidateInputNode object at 0x1a15d50400>]
+Simple Node
+Validate Input Node
+Validate Input Node
+
+index = 1
+self.nodes = [<dialogues.SimpleNode object at 0x1a15d50240>, <dialogues.ValidateInputNode object at 0x1a15d50320>, <dialogues.ValidateInputNode object at 0x1a15d50400>]
+Simple Node
+Validate Input Node
+Validate Input Node
+
+index = 1
+self.nodes = [<dialogues.SimpleNode object at 0x1a15d50240>, <dialogues.ValidateInputNode object at 0x1a15d50320>, <dialogues.ValidateInputNode object at 0x1a15d50400>]
+Simple Node
+Validate Input Node
+Validate Input Node
+
+index = 1
+self.nodes = [<dialogues.SimpleNode object at 0x1a15d50240>, <dialogues.ValidateInputNode object at 0x1a15d50320>, <dialogues.ValidateInputNode object at 0x1a15d50400>]
+Simple Node
+Validate Input Node
+Validate Input Node
+
+index = 1
+self.nodes = [<dialogues.SimpleNode object at 0x1a15d50240>, <dialogues.ValidateInputNode object at 0x1a15d50320>, <dialogues.ValidateInputNode object at 0x1a15d50400>]
+Simple Node
+Validate Input Node
+Validate Input Node
+
+index = 1
+self.nodes = [<dialogues.SimpleNode object at 0x1a15d50240>, <dialogues.ValidateInputNode object at 0x1a15d50320>, <dialogues.ValidateInputNode object at 0x1a15d50400>]
+Simple Node
+Validate Input Node
+Validate Input Node
+
+index = 1
+self.nodes = [<dialogues.SimpleNode object at 0x1a15d50240>, <dialogues.ValidateInputNode object at 0x1a15d50320>, <dialogues.ValidateInputNode object at 0x1a15d50400>]
+Simple Node
+Validate Input Node
+Validate Input Node
+
+index = 2
+self.nodes = [<dialogues.SimpleNode object at 0x1a15d50240>, <dialogues.ValidateInputNode object at 0x1a15d50320>, <dialogues.ValidateInputNode object at 0x1a15d50400>]
+Simple Node
+Validate Input Node
+Validate Input Node
+
+index = 2
+self.nodes = [<dialogues.SimpleNode object at 0x1a15d50240>, <dialogues.ValidateInputNode object at 0x1a15d50320>, <dialogues.ValidateInputNode object at 0x1a15d50400>]
+Simple Node
+Validate Input Node
+Validate Input Node
+
+index = 3
+self.nodes = [<dialogues.SimpleNode object at 0x1a15d50240>, <dialogues.ValidateInputNode object at 0x1a15d50320>, <dialogues.ValidateInputNode object at 0x1a15d50400>]
+Simple Node
+Validate Input Node
+Validate Input Node
+
+index = 3
+self.nodes = [<dialogues.SimpleNode object at 0x1a15d50240>, <dialogues.ValidateInputNode object at 0x1a15d50320>, <dialogues.ValidateInputNode object at 0x1a15d50400>]
+Simple Node
+Validate Input Node
+Validate Input Node
+
+index = 3
+self.nodes = [<dialogues.SimpleNode object at 0x1a15d50240>, <dialogues.ValidateInputNode object at 0x1a15d50320>, <dialogues.ValidateInputNode object at 0x1a15d50400>]
+Simple Node
+Validate Input Node
+Validate Input Node
+
+index = 3
+self.nodes = [<dialogues.SimpleNode object at 0x1a123a0278>, <dialogues.ValidateInputNode object at 0x1a123a0358>, <dialogues.ValidateInputNode object at 0x1a123a0438>]
+Simple Node
+Validate Input Node
+Validate Input Node
+
+index = 3
+self.nodes = [<dialogues.SimpleNode object at 0x1a123a0278>, <dialogues.ValidateInputNode object at 0x1a123a0358>, <dialogues.ValidateInputNode object at 0x1a123a0438>]
+Simple Node
+Validate Input Node
+Validate Input Node
+
+index = 0
+self.nodes = [<dialogues.SimpleNode object at 0x1a1650ecf8>, <dialogues.ValidateInputNode object at 0x1a1650edd8>, <dialogues.ValidateInputNode object at 0x1a1650eeb8>]
+Simple Node
+Validate Input Node
+Validate Input Node
+
+index = 1
+self.nodes = [<dialogues.SimpleNode object at 0x1a1650ecf8>, <dialogues.ValidateInputNode object at 0x1a1650edd8>, <dialogues.ValidateInputNode object at 0x1a1650eeb8>]
+Simple Node
+Validate Input Node
+Validate Input Node
+
+index = 1
+self.nodes = [<dialogues.SimpleNode object at 0x1a1650ecf8>, <dialogues.ValidateInputNode object at 0x1a1650edd8>, <dialogues.ValidateInputNode object at 0x1a1650eeb8>]
+Simple Node
+Validate Input Node
+Validate Input Node
+
+index = 1
+self.nodes = [<dialogues.SimpleNode object at 0x1a1650ecf8>, <dialogues.ValidateInputNode object at 0x1a1650edd8>, <dialogues.ValidateInputNode object at 0x1a1650eeb8>]
+Simple Node
+Validate Input Node
+Validate Input Node
+
+index = 2
+self.nodes = [<dialogues.SimpleNode object at 0x1a1650ecf8>, <dialogues.ValidateInputNode object at 0x1a1650edd8>, <dialogues.ValidateInputNode object at 0x1a1650eeb8>]
+Simple Node
+Validate Input Node
+Validate Input Node
+
+index = 2
+self.nodes = [<dialogues.SimpleNode object at 0x1a1650ecf8>, <dialogues.ValidateInputNode object at 0x1a1650edd8>, <dialogues.ValidateInputNode object at 0x1a1650eeb8>]
+Simple Node
+Validate Input Node
+Validate Input Node
+
+index = 0
+self.nodes = [<dialogues.SimpleNode object at 0x1a1650ecf8>, <dialogues.ValidateInputNode object at 0x1a1650edd8>, <dialogues.ValidateInputNode object at 0x1a1650eeb8>]
+Simple Node
+Validate Input Node
+Validate Input Node
+
+index = 1
+self.nodes = [<dialogues.SimpleNode object at 0x1a1650ecf8>, <dialogues.ValidateInputNode object at 0x1a1650edd8>, <dialogues.ValidateInputNode object at 0x1a1650eeb8>]
+Simple Node
+Validate Input Node
+Validate Input Node
+
+index = 1
+self.nodes = [<dialogues.SimpleNode object at 0x1a1650ecf8>, <dialogues.ValidateInputNode object at 0x1a1650edd8>, <dialogues.ValidateInputNode object at 0x1a1650eeb8>]
+Simple Node
+Validate Input Node
+Validate Input Node
+
+index = 2
+self.nodes = [<dialogues.SimpleNode object at 0x1a0c442c50>, <dialogues.ValidateInputNode object at 0x1a0c442dd8>, <dialogues.ValidateInputNode object at 0x1a0c442eb8>]
+Simple Node
+Validate Input Node
+Validate Input Node
+
+index = 2
+self.nodes = [<dialogues.SimpleNode object at 0x1a0c442c50>, <dialogues.ValidateInputNode object at 0x1a0c442dd8>, <dialogues.ValidateInputNode object at 0x1a0c442eb8>]
+Simple Node
+Validate Input Node
+Validate Input Node
+
+index = 2
+self.nodes = [<dialogues.SimpleNode object at 0x1a0c442c50>, <dialogues.ValidateInputNode object at 0x1a0c442dd8>, <dialogues.ValidateInputNode object at 0x1a0c442eb8>]
+Simple Node
+Validate Input Node
+Validate Input Node
+
+index = 0
+self.nodes = [<dialogues.SimpleNode object at 0x1a0c442c50>, <dialogues.ValidateInputNode object at 0x1a0c442dd8>, <dialogues.ValidateInputNode object at 0x1a0c442eb8>]
+Simple Node
+Validate Input Node
+Validate Input Node
+
+index = 1
+self.nodes = [<dialogues.SimpleNode object at 0x1a0c442c50>, <dialogues.ValidateInputNode object at 0x1a0c442dd8>, <dialogues.ValidateInputNode object at 0x1a0c442eb8>]
+Simple Node
+Validate Input Node
+Validate Input Node
+
+index = 1
+self.nodes = [<dialogues.SimpleNode object at 0x1a0c442c50>, <dialogues.ValidateInputNode object at 0x1a0c442dd8>, <dialogues.ValidateInputNode object at 0x1a0c442eb8>]
+Simple Node
+Validate Input Node
+Validate Input Node
+
+index = 1
+self.nodes = [<dialogues.SimpleNode object at 0x1a0c442c50>, <dialogues.ValidateInputNode object at 0x1a0c442dd8>, <dialogues.ValidateInputNode object at 0x1a0c442eb8>]
+Simple Node
+Validate Input Node
+Validate Input Node
+
+index = 1
+self.nodes = [<dialogues.SimpleNode object at 0x1a0c442c50>, <dialogues.ValidateInputNode object at 0x1a0c442dd8>, <dialogues.ValidateInputNode object at 0x1a0c442eb8>]
+Simple Node
+Validate Input Node
+Validate Input Node
+
+index = 1
+self.nodes = [<dialogues.SimpleNode object at 0x1a0c442c50>, <dialogues.ValidateInputNode object at 0x1a0c442dd8>, <dialogues.ValidateInputNode object at 0x1a0c442eb8>]
+Simple Node
+Validate Input Node
+Validate Input Node
+
+index = 1
+self.nodes = [<dialogues.SimpleNode object at 0x1a0c442c50>, <dialogues.ValidateInputNode object at 0x1a0c442dd8>, <dialogues.ValidateInputNode object at 0x1a0c442eb8>]
+Simple Node
+Validate Input Node
+Validate Input Node
+
+index = 1
+self.nodes = [<dialogues.SimpleNode object at 0x1a0c442c50>, <dialogues.ValidateInputNode object at 0x1a0c442dd8>, <dialogues.ValidateInputNode object at 0x1a0c442eb8>]
+Simple Node
+Validate Input Node
+Validate Input Node
+
+index = 1
+self.nodes = [<dialogues.SimpleNode object at 0x1a0c442c50>, <dialogues.ValidateInputNode object at 0x1a0c442dd8>, <dialogues.ValidateInputNode object at 0x1a0c442eb8>]
+Simple Node
+Validate Input Node
+Validate Input Node
+
+index = 1
+self.nodes = [<dialogues.SimpleNode object at 0x1a0c442c50>, <dialogues.ValidateInputNode object at 0x1a0c442dd8>, <dialogues.ValidateInputNode object at 0x1a0c442eb8>]
+Simple Node
+Validate Input Node
+Validate Input Node
+
+index = 2
+self.nodes = [<dialogues.SimpleNode object at 0x1a0c442c50>, <dialogues.ValidateInputNode object at 0x1a0c442dd8>, <dialogues.ValidateInputNode object at 0x1a0c442eb8>]
+Simple Node
+Validate Input Node
+Validate Input Node
+
+index = 2
+self.nodes = [<dialogues.SimpleNode object at 0x1a0c442c50>, <dialogues.ValidateInputNode object at 0x1a0c442dd8>, <dialogues.ValidateInputNode object at 0x1a0c442eb8>]
+Simple Node
+Validate Input Node
+Validate Input Node
+
+index = 2
+self.nodes = [<dialogues.SimpleNode object at 0x1a0c442c50>, <dialogues.ValidateInputNode object at 0x1a0c442dd8>, <dialogues.ValidateInputNode object at 0x1a0c442eb8>]
+Simple Node
+Validate Input Node
+Validate Input Node
+
+index = 2
+self.nodes = [<dialogues.SimpleNode object at 0x1a0c442c50>, <dialogues.ValidateInputNode object at 0x1a0c442dd8>, <dialogues.ValidateInputNode object at 0x1a0c442eb8>]
+Simple Node
+Validate Input Node
+Validate Input Node
+
+index = 2
+self.nodes = [<dialogues.SimpleNode object at 0x1a0c442c50>, <dialogues.ValidateInputNode object at 0x1a0c442dd8>, <dialogues.ValidateInputNode object at 0x1a0c442eb8>]
+Simple Node
+Validate Input Node
+Validate Input Node
+
+index = 0
+self.nodes = [<dialogues.SimpleNode object at 0x1a0f3c86d8>, <dialogues.ValidateInputNode object at 0x1a0f3c87f0>, <dialogues.ValidateInputNode object at 0x1a0f3c8860>]
+Simple Node
+Validate Input Node
+Validate Input Node
+
+index = 1
+self.nodes = [<dialogues.SimpleNode object at 0x1a0f3c86d8>, <dialogues.ValidateInputNode object at 0x1a0f3c87f0>, <dialogues.ValidateInputNode object at 0x1a0f3c8860>]
+Simple Node
+Validate Input Node
+Validate Input Node
+
+index = 2
+self.nodes = [<dialogues.SimpleNode object at 0x1a0f3c86d8>, <dialogues.ValidateInputNode object at 0x1a0f3c87f0>, <dialogues.ValidateInputNode object at 0x1a0f3c8860>]
+Simple Node
+Validate Input Node
+Validate Input Node
+
+index = 0
+self.nodes = [<dialogues.SimpleNode object at 0x1a07363da0>, <dialogues.ValidateInputNode object at 0x1a07363eb8>, <dialogues.ValidateInputNode object at 0x1a07363f28>]
+Simple Node
+Validate Input Node
+Validate Input Node
+
+index = 1
+self.nodes = [<dialogues.SimpleNode object at 0x1a07363da0>, <dialogues.ValidateInputNode object at 0x1a07363eb8>, <dialogues.ValidateInputNode object at 0x1a07363f28>]
+Simple Node
+Validate Input Node
+Validate Input Node
+
+index = 2
+self.nodes = [<dialogues.SimpleNode object at 0x1a07363da0>, <dialogues.ValidateInputNode object at 0x1a07363eb8>, <dialogues.ValidateInputNode object at 0x1a07363f28>]
+Simple Node
+Validate Input Node
+Validate Input Node
+
+index = 0
+self.nodes = [<dialogues.SimpleNode object at 0x1a0c027cf8>, <dialogues.SimpleNode object at 0x1a0c027e10>, <dialogues.ValidateInputNode object at 0x1a0c027e48>, <dialogues.TreeNode object at 0x1a0c027eb8>]
+Simple Node
+Simple Node
+Validate Input Node
+Tree Node
+	branch: default
+		Simple Node
+	branch: goodbye
+		Simple Node
+		Tree Node
+			branch: default
+				Simple Node
+			branch: affirm
+				Simple Node
+
+index = 1
+self.nodes = [<dialogues.SimpleNode object at 0x1a0c027cf8>, <dialogues.SimpleNode object at 0x1a0c027e10>, <dialogues.ValidateInputNode object at 0x1a0c027e48>, <dialogues.TreeNode object at 0x1a0c027eb8>]
+Simple Node
+Simple Node
+Validate Input Node
+Tree Node
+	branch: default
+		Simple Node
+	branch: goodbye
+		Simple Node
+		Tree Node
+			branch: default
+				Simple Node
+			branch: affirm
+				Simple Node
+
+index = 2
+self.nodes = [<dialogues.SimpleNode object at 0x1a0c027cf8>, <dialogues.SimpleNode object at 0x1a0c027e10>, <dialogues.ValidateInputNode object at 0x1a0c027e48>, <dialogues.TreeNode object at 0x1a0c027eb8>]
+Simple Node
+Simple Node
+Validate Input Node
+Tree Node
+	branch: default
+		Simple Node
+	branch: goodbye
+		Simple Node
+		Tree Node
+			branch: default
+				Simple Node
+			branch: affirm
+				Simple Node
+
+index = 2
+self.nodes = [<dialogues.SimpleNode object at 0x1a0c027cf8>, <dialogues.SimpleNode object at 0x1a0c027e10>, <dialogues.ValidateInputNode object at 0x1a0c027e48>, <dialogues.TreeNode object at 0x1a0c027eb8>]
+Simple Node
+Simple Node
+Validate Input Node
+Tree Node
+	branch: default
+		Simple Node
+	branch: goodbye
+		Simple Node
+		Tree Node
+			branch: default
+				Simple Node
+			branch: affirm
+				Simple Node
+
+index = 3
+self.nodes = [<dialogues.SimpleNode object at 0x1a0c027cf8>, <dialogues.SimpleNode object at 0x1a0c027e10>, <dialogues.ValidateInputNode object at 0x1a0c027e48>, <dialogues.TreeNode object at 0x1a0c027eb8>]
+Simple Node
+Simple Node
+Validate Input Node
+Tree Node
+	branch: default
+		Simple Node
+	branch: goodbye
+		Simple Node
+		Tree Node
+			branch: default
+				Simple Node
+			branch: affirm
+				Simple Node
+
+index = 3
+self.nodes = [<dialogues.SimpleNode object at 0x1a0c027cf8>, <dialogues.SimpleNode object at 0x1a0c027e10>, <dialogues.ValidateInputNode object at 0x1a0c027e48>, <dialogues.TreeNode object at 0x1a0c027eb8>]
+Simple Node
+Simple Node
+Validate Input Node
+Tree Node
+	branch: default
+		Simple Node
+	branch: goodbye
+		Simple Node
+		Tree Node
+			branch: default
+				Simple Node
+			branch: affirm
+				Simple Node
+
+index = 0
+self.nodes = [<dialogues.SimpleNode object at 0x1a089183c8>, <dialogues.TreeNode object at 0x1a08918438>, <dialogues.SimpleNode object at 0x1a08918470>, <dialogues.SimpleNode object at 0x1a08918550>, <dialogues.SimpleNode object at 0x1a089185f8>, <dialogues.SimpleNode object at 0x1a089185c0>, <dialogues.SimpleNode object at 0x1a08918630>, <dialogues.SimpleNode object at 0x1a08918668>, <dialogues.TreeNode object at 0x1a089186a0>, <dialogues.SimpleNode object at 0x1a089186d8>]
+Simple Node
+Tree Node
+	branch: default
+		Simple Node
+	branch: affirm
+		Simple Node
+Simple Node
+Simple Node
+Simple Node
+Simple Node
+Simple Node
+Simple Node
+Tree Node
+	branch: default
+		Simple Node
+	branch: affirm
+		Simple Node
+Simple Node
+
+index = 1
+self.nodes = [<dialogues.SimpleNode object at 0x1a089183c8>, <dialogues.TreeNode object at 0x1a08918438>, <dialogues.SimpleNode object at 0x1a08918470>, <dialogues.SimpleNode object at 0x1a08918550>, <dialogues.SimpleNode object at 0x1a089185f8>, <dialogues.SimpleNode object at 0x1a089185c0>, <dialogues.SimpleNode object at 0x1a08918630>, <dialogues.SimpleNode object at 0x1a08918668>, <dialogues.TreeNode object at 0x1a089186a0>, <dialogues.SimpleNode object at 0x1a089186d8>]
+Simple Node
+Tree Node
+	branch: default
+		Simple Node
+	branch: affirm
+		Simple Node
+Simple Node
+Simple Node
+Simple Node
+Simple Node
+Simple Node
+Simple Node
+Tree Node
+	branch: default
+		Simple Node
+	branch: affirm
+		Simple Node
+Simple Node
+
+index = 2
+self.nodes = [<dialogues.SimpleNode object at 0x1a089183c8>, <dialogues.TreeNode object at 0x1a08918438>, <dialogues.SimpleNode object at 0x1a08918470>, <dialogues.SimpleNode object at 0x1a08918550>, <dialogues.SimpleNode object at 0x1a089185f8>, <dialogues.SimpleNode object at 0x1a089185c0>, <dialogues.SimpleNode object at 0x1a08918630>, <dialogues.SimpleNode object at 0x1a08918668>, <dialogues.TreeNode object at 0x1a089186a0>, <dialogues.SimpleNode object at 0x1a089186d8>]
+Simple Node
+Tree Node
+	branch: default
+		Simple Node
+	branch: affirm
+		Simple Node
+Simple Node
+Simple Node
+Simple Node
+Simple Node
+Simple Node
+Simple Node
+Tree Node
+	branch: default
+		Simple Node
+	branch: affirm
+		Simple Node
+Simple Node
+
+index = 3
+self.nodes = [<dialogues.SimpleNode object at 0x1a089183c8>, <dialogues.TreeNode object at 0x1a08918438>, <dialogues.SimpleNode object at 0x1a08918470>, <dialogues.SimpleNode object at 0x1a08918550>, <dialogues.SimpleNode object at 0x1a089185f8>, <dialogues.SimpleNode object at 0x1a089185c0>, <dialogues.SimpleNode object at 0x1a08918630>, <dialogues.SimpleNode object at 0x1a08918668>, <dialogues.TreeNode object at 0x1a089186a0>, <dialogues.SimpleNode object at 0x1a089186d8>]
+Simple Node
+Tree Node
+	branch: default
+		Simple Node
+	branch: affirm
+		Simple Node
+Simple Node
+Simple Node
+Simple Node
+Simple Node
+Simple Node
+Simple Node
+Tree Node
+	branch: default
+		Simple Node
+	branch: affirm
+		Simple Node
+Simple Node
+
+index = 4
+self.nodes = [<dialogues.SimpleNode object at 0x1a089183c8>, <dialogues.TreeNode object at 0x1a08918438>, <dialogues.SimpleNode object at 0x1a08918470>, <dialogues.SimpleNode object at 0x1a08918550>, <dialogues.SimpleNode object at 0x1a089185f8>, <dialogues.SimpleNode object at 0x1a089185c0>, <dialogues.SimpleNode object at 0x1a08918630>, <dialogues.SimpleNode object at 0x1a08918668>, <dialogues.TreeNode object at 0x1a089186a0>, <dialogues.SimpleNode object at 0x1a089186d8>]
+Simple Node
+Tree Node
+	branch: default
+		Simple Node
+	branch: affirm
+		Simple Node
+Simple Node
+Simple Node
+Simple Node
+Simple Node
+Simple Node
+Simple Node
+Tree Node
+	branch: default
+		Simple Node
+	branch: affirm
+		Simple Node
+Simple Node
+
+index = 5
+self.nodes = [<dialogues.SimpleNode object at 0x1a089183c8>, <dialogues.TreeNode object at 0x1a08918438>, <dialogues.SimpleNode object at 0x1a08918470>, <dialogues.SimpleNode object at 0x1a08918550>, <dialogues.SimpleNode object at 0x1a089185f8>, <dialogues.SimpleNode object at 0x1a089185c0>, <dialogues.SimpleNode object at 0x1a08918630>, <dialogues.SimpleNode object at 0x1a08918668>, <dialogues.TreeNode object at 0x1a089186a0>, <dialogues.SimpleNode object at 0x1a089186d8>]
+Simple Node
+Tree Node
+	branch: default
+		Simple Node
+	branch: affirm
+		Simple Node
+Simple Node
+Simple Node
+Simple Node
+Simple Node
+Simple Node
+Simple Node
+Tree Node
+	branch: default
+		Simple Node
+	branch: affirm
+		Simple Node
+Simple Node
+
+index = 6
+self.nodes = [<dialogues.SimpleNode object at 0x1a089183c8>, <dialogues.TreeNode object at 0x1a08918438>, <dialogues.SimpleNode object at 0x1a08918470>, <dialogues.SimpleNode object at 0x1a08918550>, <dialogues.SimpleNode object at 0x1a089185f8>, <dialogues.SimpleNode object at 0x1a089185c0>, <dialogues.SimpleNode object at 0x1a08918630>, <dialogues.SimpleNode object at 0x1a08918668>, <dialogues.TreeNode object at 0x1a089186a0>, <dialogues.SimpleNode object at 0x1a089186d8>]
+Simple Node
+Tree Node
+	branch: default
+		Simple Node
+	branch: affirm
+		Simple Node
+Simple Node
+Simple Node
+Simple Node
+Simple Node
+Simple Node
+Simple Node
+Tree Node
+	branch: default
+		Simple Node
+	branch: affirm
+		Simple Node
+Simple Node
+
+index = 7
+self.nodes = [<dialogues.SimpleNode object at 0x1a089183c8>, <dialogues.TreeNode object at 0x1a08918438>, <dialogues.SimpleNode object at 0x1a08918470>, <dialogues.SimpleNode object at 0x1a08918550>, <dialogues.SimpleNode object at 0x1a089185f8>, <dialogues.SimpleNode object at 0x1a089185c0>, <dialogues.SimpleNode object at 0x1a08918630>, <dialogues.SimpleNode object at 0x1a08918668>, <dialogues.TreeNode object at 0x1a089186a0>, <dialogues.SimpleNode object at 0x1a089186d8>]
+Simple Node
+Tree Node
+	branch: default
+		Simple Node
+	branch: affirm
+		Simple Node
+Simple Node
+Simple Node
+Simple Node
+Simple Node
+Simple Node
+Simple Node
+Tree Node
+	branch: default
+		Simple Node
+	branch: affirm
+		Simple Node
+Simple Node
+
+index = 8
+self.nodes = [<dialogues.SimpleNode object at 0x1a089183c8>, <dialogues.TreeNode object at 0x1a08918438>, <dialogues.SimpleNode object at 0x1a08918470>, <dialogues.SimpleNode object at 0x1a08918550>, <dialogues.SimpleNode object at 0x1a089185f8>, <dialogues.SimpleNode object at 0x1a089185c0>, <dialogues.SimpleNode object at 0x1a08918630>, <dialogues.SimpleNode object at 0x1a08918668>, <dialogues.TreeNode object at 0x1a089186a0>, <dialogues.SimpleNode object at 0x1a089186d8>]
+Simple Node
+Tree Node
+	branch: default
+		Simple Node
+	branch: affirm
+		Simple Node
+Simple Node
+Simple Node
+Simple Node
+Simple Node
+Simple Node
+Simple Node
+Tree Node
+	branch: default
+		Simple Node
+	branch: affirm
+		Simple Node
+Simple Node
+
+index = 9
+self.nodes = [<dialogues.SimpleNode object at 0x1a089183c8>, <dialogues.TreeNode object at 0x1a08918438>, <dialogues.SimpleNode object at 0x1a08918470>, <dialogues.SimpleNode object at 0x1a08918550>, <dialogues.SimpleNode object at 0x1a089185f8>, <dialogues.SimpleNode object at 0x1a089185c0>, <dialogues.SimpleNode object at 0x1a08918630>, <dialogues.SimpleNode object at 0x1a08918668>, <dialogues.TreeNode object at 0x1a089186a0>, <dialogues.SimpleNode object at 0x1a089186d8>]
+Simple Node
+Tree Node
+	branch: default
+		Simple Node
+	branch: affirm
+		Simple Node
+Simple Node
+Simple Node
+Simple Node
+Simple Node
+Simple Node
+Simple Node
+Tree Node
+	branch: default
+		Simple Node
+	branch: affirm
+		Simple Node
+Simple Node
+
+index = 0
+self.nodes = [<dialogues.SimpleNode object at 0x1a088f9a20>, <dialogues.SimpleNode object at 0x1a088f9c88>, <dialogues.SimpleNode object at 0x1a088f9cf8>, <dialogues.SimpleNode object at 0x1a088f9d30>, <dialogues.SimpleNode object at 0x1a088f9d68>, <dialogues.SimpleNode object at 0x1a088f9da0>, <dialogues.SimpleNode object at 0x1a088f9dd8>, <dialogues.SimpleNode object at 0x1a088f9e10>, <dialogues.SimpleNode object at 0x1a088f9e48>, <dialogues.TreeNode object at 0x1a088f9e80>, <dialogues.SimpleNode object at 0x1a088f9eb8>, <dialogues.SimpleNode object at 0x1a088f9f98>, <dialogues.SimpleNode object at 0x1a08918048>, <dialogues.SimpleNode object at 0x1a089180b8>]
+Simple Node
+Simple Node
+Simple Node
+Simple Node
+Simple Node
+Simple Node
+Simple Node
+Simple Node
+Simple Node
+Tree Node
+	branch: default
+		Simple Node
+	branch: affirm
+		Simple Node
+Simple Node
+Simple Node
+Simple Node
+Simple Node
+
+index = 1
+self.nodes = [<dialogues.SimpleNode object at 0x1a088f9a20>, <dialogues.SimpleNode object at 0x1a088f9c88>, <dialogues.SimpleNode object at 0x1a088f9cf8>, <dialogues.SimpleNode object at 0x1a088f9d30>, <dialogues.SimpleNode object at 0x1a088f9d68>, <dialogues.SimpleNode object at 0x1a088f9da0>, <dialogues.SimpleNode object at 0x1a088f9dd8>, <dialogues.SimpleNode object at 0x1a088f9e10>, <dialogues.SimpleNode object at 0x1a088f9e48>, <dialogues.TreeNode object at 0x1a088f9e80>, <dialogues.SimpleNode object at 0x1a088f9eb8>, <dialogues.SimpleNode object at 0x1a088f9f98>, <dialogues.SimpleNode object at 0x1a08918048>, <dialogues.SimpleNode object at 0x1a089180b8>]
+Simple Node
+Simple Node
+Simple Node
+Simple Node
+Simple Node
+Simple Node
+Simple Node
+Simple Node
+Simple Node
+Tree Node
+	branch: default
+		Simple Node
+	branch: affirm
+		Simple Node
+Simple Node
+Simple Node
+Simple Node
+Simple Node
+
+index = 2
+self.nodes = [<dialogues.SimpleNode object at 0x1a088f9a20>, <dialogues.SimpleNode object at 0x1a088f9c88>, <dialogues.SimpleNode object at 0x1a088f9cf8>, <dialogues.SimpleNode object at 0x1a088f9d30>, <dialogues.SimpleNode object at 0x1a088f9d68>, <dialogues.SimpleNode object at 0x1a088f9da0>, <dialogues.SimpleNode object at 0x1a088f9dd8>, <dialogues.SimpleNode object at 0x1a088f9e10>, <dialogues.SimpleNode object at 0x1a088f9e48>, <dialogues.TreeNode object at 0x1a088f9e80>, <dialogues.SimpleNode object at 0x1a088f9eb8>, <dialogues.SimpleNode object at 0x1a088f9f98>, <dialogues.SimpleNode object at 0x1a08918048>, <dialogues.SimpleNode object at 0x1a089180b8>]
+Simple Node
+Simple Node
+Simple Node
+Simple Node
+Simple Node
+Simple Node
+Simple Node
+Simple Node
+Simple Node
+Tree Node
+	branch: default
+		Simple Node
+	branch: affirm
+		Simple Node
+Simple Node
+Simple Node
+Simple Node
+Simple Node
+
+index = 3
+self.nodes = [<dialogues.SimpleNode object at 0x1a088f9a20>, <dialogues.SimpleNode object at 0x1a088f9c88>, <dialogues.SimpleNode object at 0x1a088f9cf8>, <dialogues.SimpleNode object at 0x1a088f9d30>, <dialogues.SimpleNode object at 0x1a088f9d68>, <dialogues.SimpleNode object at 0x1a088f9da0>, <dialogues.SimpleNode object at 0x1a088f9dd8>, <dialogues.SimpleNode object at 0x1a088f9e10>, <dialogues.SimpleNode object at 0x1a088f9e48>, <dialogues.TreeNode object at 0x1a088f9e80>, <dialogues.SimpleNode object at 0x1a088f9eb8>, <dialogues.SimpleNode object at 0x1a088f9f98>, <dialogues.SimpleNode object at 0x1a08918048>, <dialogues.SimpleNode object at 0x1a089180b8>]
+Simple Node
+Simple Node
+Simple Node
+Simple Node
+Simple Node
+Simple Node
+Simple Node
+Simple Node
+Simple Node
+Tree Node
+	branch: default
+		Simple Node
+	branch: affirm
+		Simple Node
+Simple Node
+Simple Node
+Simple Node
+Simple Node
+
+index = 4
+self.nodes = [<dialogues.SimpleNode object at 0x1a088f9a20>, <dialogues.SimpleNode object at 0x1a088f9c88>, <dialogues.SimpleNode object at 0x1a088f9cf8>, <dialogues.SimpleNode object at 0x1a088f9d30>, <dialogues.SimpleNode object at 0x1a088f9d68>, <dialogues.SimpleNode object at 0x1a088f9da0>, <dialogues.SimpleNode object at 0x1a088f9dd8>, <dialogues.SimpleNode object at 0x1a088f9e10>, <dialogues.SimpleNode object at 0x1a088f9e48>, <dialogues.TreeNode object at 0x1a088f9e80>, <dialogues.SimpleNode object at 0x1a088f9eb8>, <dialogues.SimpleNode object at 0x1a088f9f98>, <dialogues.SimpleNode object at 0x1a08918048>, <dialogues.SimpleNode object at 0x1a089180b8>]
+Simple Node
+Simple Node
+Simple Node
+Simple Node
+Simple Node
+Simple Node
+Simple Node
+Simple Node
+Simple Node
+Tree Node
+	branch: default
+		Simple Node
+	branch: affirm
+		Simple Node
+Simple Node
+Simple Node
+Simple Node
+Simple Node
+
+index = 5
+self.nodes = [<dialogues.SimpleNode object at 0x1a088f9a20>, <dialogues.SimpleNode object at 0x1a088f9c88>, <dialogues.SimpleNode object at 0x1a088f9cf8>, <dialogues.SimpleNode object at 0x1a088f9d30>, <dialogues.SimpleNode object at 0x1a088f9d68>, <dialogues.SimpleNode object at 0x1a088f9da0>, <dialogues.SimpleNode object at 0x1a088f9dd8>, <dialogues.SimpleNode object at 0x1a088f9e10>, <dialogues.SimpleNode object at 0x1a088f9e48>, <dialogues.TreeNode object at 0x1a088f9e80>, <dialogues.SimpleNode object at 0x1a088f9eb8>, <dialogues.SimpleNode object at 0x1a088f9f98>, <dialogues.SimpleNode object at 0x1a08918048>, <dialogues.SimpleNode object at 0x1a089180b8>]
+Simple Node
+Simple Node
+Simple Node
+Simple Node
+Simple Node
+Simple Node
+Simple Node
+Simple Node
+Simple Node
+Tree Node
+	branch: default
+		Simple Node
+	branch: affirm
+		Simple Node
+Simple Node
+Simple Node
+Simple Node
+Simple Node
+
+index = 6
+self.nodes = [<dialogues.SimpleNode object at 0x1a088f9a20>, <dialogues.SimpleNode object at 0x1a088f9c88>, <dialogues.SimpleNode object at 0x1a088f9cf8>, <dialogues.SimpleNode object at 0x1a088f9d30>, <dialogues.SimpleNode object at 0x1a088f9d68>, <dialogues.SimpleNode object at 0x1a088f9da0>, <dialogues.SimpleNode object at 0x1a088f9dd8>, <dialogues.SimpleNode object at 0x1a088f9e10>, <dialogues.SimpleNode object at 0x1a088f9e48>, <dialogues.TreeNode object at 0x1a088f9e80>, <dialogues.SimpleNode object at 0x1a088f9eb8>, <dialogues.SimpleNode object at 0x1a088f9f98>, <dialogues.SimpleNode object at 0x1a08918048>, <dialogues.SimpleNode object at 0x1a089180b8>]
+Simple Node
+Simple Node
+Simple Node
+Simple Node
+Simple Node
+Simple Node
+Simple Node
+Simple Node
+Simple Node
+Tree Node
+	branch: default
+		Simple Node
+	branch: affirm
+		Simple Node
+Simple Node
+Simple Node
+Simple Node
+Simple Node
+
+index = 7
+self.nodes = [<dialogues.SimpleNode object at 0x1a088f9a20>, <dialogues.SimpleNode object at 0x1a088f9c88>, <dialogues.SimpleNode object at 0x1a088f9cf8>, <dialogues.SimpleNode object at 0x1a088f9d30>, <dialogues.SimpleNode object at 0x1a088f9d68>, <dialogues.SimpleNode object at 0x1a088f9da0>, <dialogues.SimpleNode object at 0x1a088f9dd8>, <dialogues.SimpleNode object at 0x1a088f9e10>, <dialogues.SimpleNode object at 0x1a088f9e48>, <dialogues.TreeNode object at 0x1a088f9e80>, <dialogues.SimpleNode object at 0x1a088f9eb8>, <dialogues.SimpleNode object at 0x1a088f9f98>, <dialogues.SimpleNode object at 0x1a08918048>, <dialogues.SimpleNode object at 0x1a089180b8>]
+Simple Node
+Simple Node
+Simple Node
+Simple Node
+Simple Node
+Simple Node
+Simple Node
+Simple Node
+Simple Node
+Tree Node
+	branch: default
+		Simple Node
+	branch: affirm
+		Simple Node
+Simple Node
+Simple Node
+Simple Node
+Simple Node
+
+index = 8
+self.nodes = [<dialogues.SimpleNode object at 0x1a088f9a20>, <dialogues.SimpleNode object at 0x1a088f9c88>, <dialogues.SimpleNode object at 0x1a088f9cf8>, <dialogues.SimpleNode object at 0x1a088f9d30>, <dialogues.SimpleNode object at 0x1a088f9d68>, <dialogues.SimpleNode object at 0x1a088f9da0>, <dialogues.SimpleNode object at 0x1a088f9dd8>, <dialogues.SimpleNode object at 0x1a088f9e10>, <dialogues.SimpleNode object at 0x1a088f9e48>, <dialogues.TreeNode object at 0x1a088f9e80>, <dialogues.SimpleNode object at 0x1a088f9eb8>, <dialogues.SimpleNode object at 0x1a088f9f98>, <dialogues.SimpleNode object at 0x1a08918048>, <dialogues.SimpleNode object at 0x1a089180b8>]
+Simple Node
+Simple Node
+Simple Node
+Simple Node
+Simple Node
+Simple Node
+Simple Node
+Simple Node
+Simple Node
+Tree Node
+	branch: default
+		Simple Node
+	branch: affirm
+		Simple Node
+Simple Node
+Simple Node
+Simple Node
+Simple Node
+
+index = 9
+self.nodes = [<dialogues.SimpleNode object at 0x1a088f9a20>, <dialogues.SimpleNode object at 0x1a088f9c88>, <dialogues.SimpleNode object at 0x1a088f9cf8>, <dialogues.SimpleNode object at 0x1a088f9d30>, <dialogues.SimpleNode object at 0x1a088f9d68>, <dialogues.SimpleNode object at 0x1a088f9da0>, <dialogues.SimpleNode object at 0x1a088f9dd8>, <dialogues.SimpleNode object at 0x1a088f9e10>, <dialogues.SimpleNode object at 0x1a088f9e48>, <dialogues.TreeNode object at 0x1a088f9e80>, <dialogues.SimpleNode object at 0x1a088f9eb8>, <dialogues.SimpleNode object at 0x1a088f9f98>, <dialogues.SimpleNode object at 0x1a08918048>, <dialogues.SimpleNode object at 0x1a089180b8>]
+Simple Node
+Simple Node
+Simple Node
+Simple Node
+Simple Node
+Simple Node
+Simple Node
+Simple Node
+Simple Node
+Tree Node
+	branch: default
+		Simple Node
+	branch: affirm
+		Simple Node
+Simple Node
+Simple Node
+Simple Node
+Simple Node
+
+index = 10
+self.nodes = [<dialogues.SimpleNode object at 0x1a088f9a20>, <dialogues.SimpleNode object at 0x1a088f9c88>, <dialogues.SimpleNode object at 0x1a088f9cf8>, <dialogues.SimpleNode object at 0x1a088f9d30>, <dialogues.SimpleNode object at 0x1a088f9d68>, <dialogues.SimpleNode object at 0x1a088f9da0>, <dialogues.SimpleNode object at 0x1a088f9dd8>, <dialogues.SimpleNode object at 0x1a088f9e10>, <dialogues.SimpleNode object at 0x1a088f9e48>, <dialogues.TreeNode object at 0x1a088f9e80>, <dialogues.SimpleNode object at 0x1a088f9eb8>, <dialogues.SimpleNode object at 0x1a088f9f98>, <dialogues.SimpleNode object at 0x1a08918048>, <dialogues.SimpleNode object at 0x1a089180b8>]
+Simple Node
+Simple Node
+Simple Node
+Simple Node
+Simple Node
+Simple Node
+Simple Node
+Simple Node
+Simple Node
+Tree Node
+	branch: default
+		Simple Node
+	branch: affirm
+		Simple Node
+Simple Node
+Simple Node
+Simple Node
+Simple Node
+
+index = 11
+self.nodes = [<dialogues.SimpleNode object at 0x1a088f9a20>, <dialogues.SimpleNode object at 0x1a088f9c88>, <dialogues.SimpleNode object at 0x1a088f9cf8>, <dialogues.SimpleNode object at 0x1a088f9d30>, <dialogues.SimpleNode object at 0x1a088f9d68>, <dialogues.SimpleNode object at 0x1a088f9da0>, <dialogues.SimpleNode object at 0x1a088f9dd8>, <dialogues.SimpleNode object at 0x1a088f9e10>, <dialogues.SimpleNode object at 0x1a088f9e48>, <dialogues.TreeNode object at 0x1a088f9e80>, <dialogues.SimpleNode object at 0x1a088f9eb8>, <dialogues.SimpleNode object at 0x1a088f9f98>, <dialogues.SimpleNode object at 0x1a08918048>, <dialogues.SimpleNode object at 0x1a089180b8>]
+Simple Node
+Simple Node
+Simple Node
+Simple Node
+Simple Node
+Simple Node
+Simple Node
+Simple Node
+Simple Node
+Tree Node
+	branch: default
+		Simple Node
+	branch: affirm
+		Simple Node
+Simple Node
+Simple Node
+Simple Node
+Simple Node
+
+index = 12
+self.nodes = [<dialogues.SimpleNode object at 0x1a088f9a20>, <dialogues.SimpleNode object at 0x1a088f9c88>, <dialogues.SimpleNode object at 0x1a088f9cf8>, <dialogues.SimpleNode object at 0x1a088f9d30>, <dialogues.SimpleNode object at 0x1a088f9d68>, <dialogues.SimpleNode object at 0x1a088f9da0>, <dialogues.SimpleNode object at 0x1a088f9dd8>, <dialogues.SimpleNode object at 0x1a088f9e10>, <dialogues.SimpleNode object at 0x1a088f9e48>, <dialogues.TreeNode object at 0x1a088f9e80>, <dialogues.SimpleNode object at 0x1a088f9eb8>, <dialogues.SimpleNode object at 0x1a088f9f98>, <dialogues.SimpleNode object at 0x1a08918048>, <dialogues.SimpleNode object at 0x1a089180b8>]
+Simple Node
+Simple Node
+Simple Node
+Simple Node
+Simple Node
+Simple Node
+Simple Node
+Simple Node
+Simple Node
+Tree Node
+	branch: default
+		Simple Node
+	branch: affirm
+		Simple Node
+Simple Node
+Simple Node
+Simple Node
+Simple Node
+
+index = 13
+self.nodes = [<dialogues.SimpleNode object at 0x1a088f9a20>, <dialogues.SimpleNode object at 0x1a088f9c88>, <dialogues.SimpleNode object at 0x1a088f9cf8>, <dialogues.SimpleNode object at 0x1a088f9d30>, <dialogues.SimpleNode object at 0x1a088f9d68>, <dialogues.SimpleNode object at 0x1a088f9da0>, <dialogues.SimpleNode object at 0x1a088f9dd8>, <dialogues.SimpleNode object at 0x1a088f9e10>, <dialogues.SimpleNode object at 0x1a088f9e48>, <dialogues.TreeNode object at 0x1a088f9e80>, <dialogues.SimpleNode object at 0x1a088f9eb8>, <dialogues.SimpleNode object at 0x1a088f9f98>, <dialogues.SimpleNode object at 0x1a08918048>, <dialogues.SimpleNode object at 0x1a089180b8>]
+Simple Node
+Simple Node
+Simple Node
+Simple Node
+Simple Node
+Simple Node
+Simple Node
+Simple Node
+Simple Node
+Tree Node
+	branch: default
+		Simple Node
+	branch: affirm
+		Simple Node
+Simple Node
+Simple Node
+Simple Node
+Simple Node
+
+index = 0
+self.nodes = [<dialogues.SimpleNode object at 0x1a11036630>, <dialogues.SimpleNode object at 0x1a11036898>, <dialogues.SimpleNode object at 0x1a11036908>, <dialogues.SimpleNode object at 0x1a11036940>, <dialogues.SimpleNode object at 0x1a11036978>, <dialogues.SimpleNode object at 0x1a110369b0>, <dialogues.SimpleNode object at 0x1a110369e8>, <dialogues.SimpleNode object at 0x1a11036a20>, <dialogues.SimpleNode object at 0x1a11036a58>, <dialogues.TreeNode object at 0x1a11036a90>, <dialogues.SimpleNode object at 0x1a11036ac8>, <dialogues.SimpleNode object at 0x1a11036ba8>, <dialogues.SimpleNode object at 0x1a11036c50>, <dialogues.SimpleNode object at 0x1a11036c88>]
+Simple Node
+Simple Node
+Simple Node
+Simple Node
+Simple Node
+Simple Node
+Simple Node
+Simple Node
+Simple Node
+Tree Node
+	branch: default
+		Simple Node
+	branch: affirm
+		Simple Node
+Simple Node
+Simple Node
+Simple Node
+Simple Node
+
+index = 1
+self.nodes = [<dialogues.SimpleNode object at 0x1a11036630>, <dialogues.SimpleNode object at 0x1a11036898>, <dialogues.SimpleNode object at 0x1a11036908>, <dialogues.SimpleNode object at 0x1a11036940>, <dialogues.SimpleNode object at 0x1a11036978>, <dialogues.SimpleNode object at 0x1a110369b0>, <dialogues.SimpleNode object at 0x1a110369e8>, <dialogues.SimpleNode object at 0x1a11036a20>, <dialogues.SimpleNode object at 0x1a11036a58>, <dialogues.TreeNode object at 0x1a11036a90>, <dialogues.SimpleNode object at 0x1a11036ac8>, <dialogues.SimpleNode object at 0x1a11036ba8>, <dialogues.SimpleNode object at 0x1a11036c50>, <dialogues.SimpleNode object at 0x1a11036c88>]
+Simple Node
+Simple Node
+Simple Node
+Simple Node
+Simple Node
+Simple Node
+Simple Node
+Simple Node
+Simple Node
+Tree Node
+	branch: default
+		Simple Node
+	branch: affirm
+		Simple Node
+Simple Node
+Simple Node
+Simple Node
+Simple Node
+
+index = 2
+self.nodes = [<dialogues.SimpleNode object at 0x1a13b28668>, <dialogues.SimpleNode object at 0x1a13b288d0>, <dialogues.SimpleNode object at 0x1a13b28940>, <dialogues.SimpleNode object at 0x1a13b28978>, <dialogues.SimpleNode object at 0x1a13b289b0>, <dialogues.SimpleNode object at 0x1a13b289e8>, <dialogues.SimpleNode object at 0x1a13b28a20>, <dialogues.SimpleNode object at 0x1a13b28a58>, <dialogues.SimpleNode object at 0x1a13b28a90>, <dialogues.TreeNode object at 0x1a13b28ac8>, <dialogues.SimpleNode object at 0x1a13b28b00>, <dialogues.SimpleNode object at 0x1a13b28be0>, <dialogues.SimpleNode object at 0x1a13b28c88>, <dialogues.SimpleNode object at 0x1a13b28cc0>]
+Simple Node
+Simple Node
+Simple Node
+Simple Node
+Simple Node
+Simple Node
+Simple Node
+Simple Node
+Simple Node
+Tree Node
+	branch: default
+		Simple Node
+	branch: affirm
+		Simple Node
+Simple Node
+Simple Node
+Simple Node
+Simple Node
+
+index = 3
+self.nodes = [<dialogues.SimpleNode object at 0x1a13b28668>, <dialogues.SimpleNode object at 0x1a13b288d0>, <dialogues.SimpleNode object at 0x1a13b28940>, <dialogues.SimpleNode object at 0x1a13b28978>, <dialogues.SimpleNode object at 0x1a13b289b0>, <dialogues.SimpleNode object at 0x1a13b289e8>, <dialogues.SimpleNode object at 0x1a13b28a20>, <dialogues.SimpleNode object at 0x1a13b28a58>, <dialogues.SimpleNode object at 0x1a13b28a90>, <dialogues.TreeNode object at 0x1a13b28ac8>, <dialogues.SimpleNode object at 0x1a13b28b00>, <dialogues.SimpleNode object at 0x1a13b28be0>, <dialogues.SimpleNode object at 0x1a13b28c88>, <dialogues.SimpleNode object at 0x1a13b28cc0>]
+Simple Node
+Simple Node
+Simple Node
+Simple Node
+Simple Node
+Simple Node
+Simple Node
+Simple Node
+Simple Node
+Tree Node
+	branch: default
+		Simple Node
+	branch: affirm
+		Simple Node
+Simple Node
+Simple Node
+Simple Node
+Simple Node
+
+index = 4
+self.nodes = [<dialogues.SimpleNode object at 0x1a0ffa85f8>, <dialogues.SimpleNode object at 0x1a0ffa8860>, <dialogues.SimpleNode object at 0x1a0ffa88d0>, <dialogues.SimpleNode object at 0x1a0ffa8908>, <dialogues.SimpleNode object at 0x1a0ffa8940>, <dialogues.SimpleNode object at 0x1a0ffa8978>, <dialogues.SimpleNode object at 0x1a0ffa89b0>, <dialogues.SimpleNode object at 0x1a0ffa89e8>, <dialogues.SimpleNode object at 0x1a0ffa8a20>, <dialogues.TreeNode object at 0x1a0ffa8a58>, <dialogues.SimpleNode object at 0x1a0ffa8a90>, <dialogues.SimpleNode object at 0x1a0ffa8b70>, <dialogues.SimpleNode object at 0x1a0ffa8c18>, <dialogues.SimpleNode object at 0x1a0ffa8c50>]
+Simple Node
+Simple Node
+Simple Node
+Simple Node
+Simple Node
+Simple Node
+Simple Node
+Simple Node
+Simple Node
+Tree Node
+	branch: default
+		Simple Node
+	branch: affirm
+		Simple Node
+Simple Node
+Simple Node
+Simple Node
+Simple Node
+
+index = 5
+self.nodes = [<dialogues.SimpleNode object at 0x1a0ffa85f8>, <dialogues.SimpleNode object at 0x1a0ffa8860>, <dialogues.SimpleNode object at 0x1a0ffa88d0>, <dialogues.SimpleNode object at 0x1a0ffa8908>, <dialogues.SimpleNode object at 0x1a0ffa8940>, <dialogues.SimpleNode object at 0x1a0ffa8978>, <dialogues.SimpleNode object at 0x1a0ffa89b0>, <dialogues.SimpleNode object at 0x1a0ffa89e8>, <dialogues.SimpleNode object at 0x1a0ffa8a20>, <dialogues.TreeNode object at 0x1a0ffa8a58>, <dialogues.SimpleNode object at 0x1a0ffa8a90>, <dialogues.SimpleNode object at 0x1a0ffa8b70>, <dialogues.SimpleNode object at 0x1a0ffa8c18>, <dialogues.SimpleNode object at 0x1a0ffa8c50>]
+Simple Node
+Simple Node
+Simple Node
+Simple Node
+Simple Node
+Simple Node
+Simple Node
+Simple Node
+Simple Node
+Tree Node
+	branch: default
+		Simple Node
+	branch: affirm
+		Simple Node
+Simple Node
+Simple Node
+Simple Node
+Simple Node
+
+index = 6
+self.nodes = [<dialogues.SimpleNode object at 0x1a0ffa85f8>, <dialogues.SimpleNode object at 0x1a0ffa8860>, <dialogues.SimpleNode object at 0x1a0ffa88d0>, <dialogues.SimpleNode object at 0x1a0ffa8908>, <dialogues.SimpleNode object at 0x1a0ffa8940>, <dialogues.SimpleNode object at 0x1a0ffa8978>, <dialogues.SimpleNode object at 0x1a0ffa89b0>, <dialogues.SimpleNode object at 0x1a0ffa89e8>, <dialogues.SimpleNode object at 0x1a0ffa8a20>, <dialogues.TreeNode object at 0x1a0ffa8a58>, <dialogues.SimpleNode object at 0x1a0ffa8a90>, <dialogues.SimpleNode object at 0x1a0ffa8b70>, <dialogues.SimpleNode object at 0x1a0ffa8c18>, <dialogues.SimpleNode object at 0x1a0ffa8c50>]
+Simple Node
+Simple Node
+Simple Node
+Simple Node
+Simple Node
+Simple Node
+Simple Node
+Simple Node
+Simple Node
+Tree Node
+	branch: default
+		Simple Node
+	branch: affirm
+		Simple Node
+Simple Node
+Simple Node
+Simple Node
+Simple Node
+
+index = 7
+self.nodes = [<dialogues.SimpleNode object at 0x1a0ffa85f8>, <dialogues.SimpleNode object at 0x1a0ffa8860>, <dialogues.SimpleNode object at 0x1a0ffa88d0>, <dialogues.SimpleNode object at 0x1a0ffa8908>, <dialogues.SimpleNode object at 0x1a0ffa8940>, <dialogues.SimpleNode object at 0x1a0ffa8978>, <dialogues.SimpleNode object at 0x1a0ffa89b0>, <dialogues.SimpleNode object at 0x1a0ffa89e8>, <dialogues.SimpleNode object at 0x1a0ffa8a20>, <dialogues.TreeNode object at 0x1a0ffa8a58>, <dialogues.SimpleNode object at 0x1a0ffa8a90>, <dialogues.SimpleNode object at 0x1a0ffa8b70>, <dialogues.SimpleNode object at 0x1a0ffa8c18>, <dialogues.SimpleNode object at 0x1a0ffa8c50>]
+Simple Node
+Simple Node
+Simple Node
+Simple Node
+Simple Node
+Simple Node
+Simple Node
+Simple Node
+Simple Node
+Tree Node
+	branch: default
+		Simple Node
+	branch: affirm
+		Simple Node
+Simple Node
+Simple Node
+Simple Node
+Simple Node
+
+index = 8
+self.nodes = [<dialogues.SimpleNode object at 0x1a0ffa85f8>, <dialogues.SimpleNode object at 0x1a0ffa8860>, <dialogues.SimpleNode object at 0x1a0ffa88d0>, <dialogues.SimpleNode object at 0x1a0ffa8908>, <dialogues.SimpleNode object at 0x1a0ffa8940>, <dialogues.SimpleNode object at 0x1a0ffa8978>, <dialogues.SimpleNode object at 0x1a0ffa89b0>, <dialogues.SimpleNode object at 0x1a0ffa89e8>, <dialogues.SimpleNode object at 0x1a0ffa8a20>, <dialogues.TreeNode object at 0x1a0ffa8a58>, <dialogues.SimpleNode object at 0x1a0ffa8a90>, <dialogues.SimpleNode object at 0x1a0ffa8b70>, <dialogues.SimpleNode object at 0x1a0ffa8c18>, <dialogues.SimpleNode object at 0x1a0ffa8c50>]
+Simple Node
+Simple Node
+Simple Node
+Simple Node
+Simple Node
+Simple Node
+Simple Node
+Simple Node
+Simple Node
+Tree Node
+	branch: default
+		Simple Node
+	branch: affirm
+		Simple Node
+Simple Node
+Simple Node
+Simple Node
+Simple Node
+
+index = 9
+self.nodes = [<dialogues.SimpleNode object at 0x1a0ffa85f8>, <dialogues.SimpleNode object at 0x1a0ffa8860>, <dialogues.SimpleNode object at 0x1a0ffa88d0>, <dialogues.SimpleNode object at 0x1a0ffa8908>, <dialogues.SimpleNode object at 0x1a0ffa8940>, <dialogues.SimpleNode object at 0x1a0ffa8978>, <dialogues.SimpleNode object at 0x1a0ffa89b0>, <dialogues.SimpleNode object at 0x1a0ffa89e8>, <dialogues.SimpleNode object at 0x1a0ffa8a20>, <dialogues.TreeNode object at 0x1a0ffa8a58>, <dialogues.SimpleNode object at 0x1a0ffa8a90>, <dialogues.SimpleNode object at 0x1a0ffa8b70>, <dialogues.SimpleNode object at 0x1a0ffa8c18>, <dialogues.SimpleNode object at 0x1a0ffa8c50>]
+Simple Node
+Simple Node
+Simple Node
+Simple Node
+Simple Node
+Simple Node
+Simple Node
+Simple Node
+Simple Node
+Tree Node
+	branch: default
+		Simple Node
+	branch: affirm
+		Simple Node
+Simple Node
+Simple Node
+Simple Node
+Simple Node
+
+index = 10
+self.nodes = [<dialogues.SimpleNode object at 0x1a0ffa85f8>, <dialogues.SimpleNode object at 0x1a0ffa8860>, <dialogues.SimpleNode object at 0x1a0ffa88d0>, <dialogues.SimpleNode object at 0x1a0ffa8908>, <dialogues.SimpleNode object at 0x1a0ffa8940>, <dialogues.SimpleNode object at 0x1a0ffa8978>, <dialogues.SimpleNode object at 0x1a0ffa89b0>, <dialogues.SimpleNode object at 0x1a0ffa89e8>, <dialogues.SimpleNode object at 0x1a0ffa8a20>, <dialogues.TreeNode object at 0x1a0ffa8a58>, <dialogues.SimpleNode object at 0x1a0ffa8a90>, <dialogues.SimpleNode object at 0x1a0ffa8b70>, <dialogues.SimpleNode object at 0x1a0ffa8c18>, <dialogues.SimpleNode object at 0x1a0ffa8c50>]
+Simple Node
+Simple Node
+Simple Node
+Simple Node
+Simple Node
+Simple Node
+Simple Node
+Simple Node
+Simple Node
+Tree Node
+	branch: default
+		Simple Node
+	branch: affirm
+		Simple Node
+Simple Node
+Simple Node
+Simple Node
+Simple Node
+
+index = 11
+self.nodes = [<dialogues.SimpleNode object at 0x1a0ffa85f8>, <dialogues.SimpleNode object at 0x1a0ffa8860>, <dialogues.SimpleNode object at 0x1a0ffa88d0>, <dialogues.SimpleNode object at 0x1a0ffa8908>, <dialogues.SimpleNode object at 0x1a0ffa8940>, <dialogues.SimpleNode object at 0x1a0ffa8978>, <dialogues.SimpleNode object at 0x1a0ffa89b0>, <dialogues.SimpleNode object at 0x1a0ffa89e8>, <dialogues.SimpleNode object at 0x1a0ffa8a20>, <dialogues.TreeNode object at 0x1a0ffa8a58>, <dialogues.SimpleNode object at 0x1a0ffa8a90>, <dialogues.SimpleNode object at 0x1a0ffa8b70>, <dialogues.SimpleNode object at 0x1a0ffa8c18>, <dialogues.SimpleNode object at 0x1a0ffa8c50>]
+Simple Node
+Simple Node
+Simple Node
+Simple Node
+Simple Node
+Simple Node
+Simple Node
+Simple Node
+Simple Node
+Tree Node
+	branch: default
+		Simple Node
+	branch: affirm
+		Simple Node
+Simple Node
+Simple Node
+Simple Node
+Simple Node
+
+index = 11
+self.nodes = [<dialogues.SimpleNode object at 0x1a0ffa85f8>, <dialogues.SimpleNode object at 0x1a0ffa8860>, <dialogues.SimpleNode object at 0x1a0ffa88d0>, <dialogues.SimpleNode object at 0x1a0ffa8908>, <dialogues.SimpleNode object at 0x1a0ffa8940>, <dialogues.SimpleNode object at 0x1a0ffa8978>, <dialogues.SimpleNode object at 0x1a0ffa89b0>, <dialogues.SimpleNode object at 0x1a0ffa89e8>, <dialogues.SimpleNode object at 0x1a0ffa8a20>, <dialogues.TreeNode object at 0x1a0ffa8a58>, <dialogues.SimpleNode object at 0x1a0ffa8a90>, <dialogues.SimpleNode object at 0x1a0ffa8b70>, <dialogues.SimpleNode object at 0x1a0ffa8c18>, <dialogues.SimpleNode object at 0x1a0ffa8c50>]
+Simple Node
+Simple Node
+Simple Node
+Simple Node
+Simple Node
+Simple Node
+Simple Node
+Simple Node
+Simple Node
+Tree Node
+	branch: default
+		Simple Node
+	branch: affirm
+		Simple Node
+Simple Node
+Simple Node
+Simple Node
+Simple Node
+
+index = 11
+self.nodes = [<dialogues.SimpleNode object at 0x1a0ffa85f8>, <dialogues.SimpleNode object at 0x1a0ffa8860>, <dialogues.SimpleNode object at 0x1a0ffa88d0>, <dialogues.SimpleNode object at 0x1a0ffa8908>, <dialogues.SimpleNode object at 0x1a0ffa8940>, <dialogues.SimpleNode object at 0x1a0ffa8978>, <dialogues.SimpleNode object at 0x1a0ffa89b0>, <dialogues.SimpleNode object at 0x1a0ffa89e8>, <dialogues.SimpleNode object at 0x1a0ffa8a20>, <dialogues.TreeNode object at 0x1a0ffa8a58>, <dialogues.SimpleNode object at 0x1a0ffa8a90>, <dialogues.SimpleNode object at 0x1a0ffa8b70>, <dialogues.SimpleNode object at 0x1a0ffa8c18>, <dialogues.SimpleNode object at 0x1a0ffa8c50>]
+Simple Node
+Simple Node
+Simple Node
+Simple Node
+Simple Node
+Simple Node
+Simple Node
+Simple Node
+Simple Node
+Tree Node
+	branch: default
+		Simple Node
+	branch: affirm
+		Simple Node
+Simple Node
+Simple Node
+Simple Node
+Simple Node
+
+index = 11
+self.nodes = [<dialogues.SimpleNode object at 0x1a0ffa85f8>, <dialogues.SimpleNode object at 0x1a0ffa8860>, <dialogues.SimpleNode object at 0x1a0ffa88d0>, <dialogues.SimpleNode object at 0x1a0ffa8908>, <dialogues.SimpleNode object at 0x1a0ffa8940>, <dialogues.SimpleNode object at 0x1a0ffa8978>, <dialogues.SimpleNode object at 0x1a0ffa89b0>, <dialogues.SimpleNode object at 0x1a0ffa89e8>, <dialogues.SimpleNode object at 0x1a0ffa8a20>, <dialogues.TreeNode object at 0x1a0ffa8a58>, <dialogues.SimpleNode object at 0x1a0ffa8a90>, <dialogues.SimpleNode object at 0x1a0ffa8b70>, <dialogues.SimpleNode object at 0x1a0ffa8c18>, <dialogues.SimpleNode object at 0x1a0ffa8c50>]
+Simple Node
+Simple Node
+Simple Node
+Simple Node
+Simple Node
+Simple Node
+Simple Node
+Simple Node
+Simple Node
+Tree Node
+	branch: default
+		Simple Node
+	branch: affirm
+		Simple Node
+Simple Node
+Simple Node
+Simple Node
+Simple Node
+
+index = 11
+self.nodes = [<dialogues.SimpleNode object at 0x1a0ffa85f8>, <dialogues.SimpleNode object at 0x1a0ffa8860>, <dialogues.SimpleNode object at 0x1a0ffa88d0>, <dialogues.SimpleNode object at 0x1a0ffa8908>, <dialogues.SimpleNode object at 0x1a0ffa8940>, <dialogues.SimpleNode object at 0x1a0ffa8978>, <dialogues.SimpleNode object at 0x1a0ffa89b0>, <dialogues.SimpleNode object at 0x1a0ffa89e8>, <dialogues.SimpleNode object at 0x1a0ffa8a20>, <dialogues.TreeNode object at 0x1a0ffa8a58>, <dialogues.SimpleNode object at 0x1a0ffa8a90>, <dialogues.SimpleNode object at 0x1a0ffa8b70>, <dialogues.SimpleNode object at 0x1a0ffa8c18>, <dialogues.SimpleNode object at 0x1a0ffa8c50>]
+Simple Node
+Simple Node
+Simple Node
+Simple Node
+Simple Node
+Simple Node
+Simple Node
+Simple Node
+Simple Node
+Tree Node
+	branch: default
+		Simple Node
+	branch: affirm
+		Simple Node
+Simple Node
+Simple Node
+Simple Node
+Simple Node
+
+index = 11
+self.nodes = [<dialogues.SimpleNode object at 0x1a0ffa85f8>, <dialogues.SimpleNode object at 0x1a0ffa8860>, <dialogues.SimpleNode object at 0x1a0ffa88d0>, <dialogues.SimpleNode object at 0x1a0ffa8908>, <dialogues.SimpleNode object at 0x1a0ffa8940>, <dialogues.SimpleNode object at 0x1a0ffa8978>, <dialogues.SimpleNode object at 0x1a0ffa89b0>, <dialogues.SimpleNode object at 0x1a0ffa89e8>, <dialogues.SimpleNode object at 0x1a0ffa8a20>, <dialogues.TreeNode object at 0x1a0ffa8a58>, <dialogues.SimpleNode object at 0x1a0ffa8a90>, <dialogues.SimpleNode object at 0x1a0ffa8b70>, <dialogues.SimpleNode object at 0x1a0ffa8c18>, <dialogues.SimpleNode object at 0x1a0ffa8c50>]
+Simple Node
+Simple Node
+Simple Node
+Simple Node
+Simple Node
+Simple Node
+Simple Node
+Simple Node
+Simple Node
+Tree Node
+	branch: default
+		Simple Node
+	branch: affirm
+		Simple Node
+Simple Node
+Simple Node
+Simple Node
+Simple Node
+
+index = 12
+self.nodes = [<dialogues.SimpleNode object at 0x1a0ffa85f8>, <dialogues.SimpleNode object at 0x1a0ffa8860>, <dialogues.SimpleNode object at 0x1a0ffa88d0>, <dialogues.SimpleNode object at 0x1a0ffa8908>, <dialogues.SimpleNode object at 0x1a0ffa8940>, <dialogues.SimpleNode object at 0x1a0ffa8978>, <dialogues.SimpleNode object at 0x1a0ffa89b0>, <dialogues.SimpleNode object at 0x1a0ffa89e8>, <dialogues.SimpleNode object at 0x1a0ffa8a20>, <dialogues.TreeNode object at 0x1a0ffa8a58>, <dialogues.SimpleNode object at 0x1a0ffa8a90>, <dialogues.SimpleNode object at 0x1a0ffa8b70>, <dialogues.SimpleNode object at 0x1a0ffa8c18>, <dialogues.SimpleNode object at 0x1a0ffa8c50>]
+Simple Node
+Simple Node
+Simple Node
+Simple Node
+Simple Node
+Simple Node
+Simple Node
+Simple Node
+Simple Node
+Tree Node
+	branch: default
+		Simple Node
+	branch: affirm
+		Simple Node
+Simple Node
+Simple Node
+Simple Node
+Simple Node
+
+index = 13
+self.nodes = [<dialogues.SimpleNode object at 0x1a0ffa85f8>, <dialogues.SimpleNode object at 0x1a0ffa8860>, <dialogues.SimpleNode object at 0x1a0ffa88d0>, <dialogues.SimpleNode object at 0x1a0ffa8908>, <dialogues.SimpleNode object at 0x1a0ffa8940>, <dialogues.SimpleNode object at 0x1a0ffa8978>, <dialogues.SimpleNode object at 0x1a0ffa89b0>, <dialogues.SimpleNode object at 0x1a0ffa89e8>, <dialogues.SimpleNode object at 0x1a0ffa8a20>, <dialogues.TreeNode object at 0x1a0ffa8a58>, <dialogues.SimpleNode object at 0x1a0ffa8a90>, <dialogues.SimpleNode object at 0x1a0ffa8b70>, <dialogues.SimpleNode object at 0x1a0ffa8c18>, <dialogues.SimpleNode object at 0x1a0ffa8c50>]
+Simple Node
+Simple Node
+Simple Node
+Simple Node
+Simple Node
+Simple Node
+Simple Node
+Simple Node
+Simple Node
+Tree Node
+	branch: default
+		Simple Node
+	branch: affirm
+		Simple Node
+Simple Node
+Simple Node
+Simple Node
+Simple Node
+
+index = 0
+self.nodes = [<dialogues.SimpleNode object at 0x1a08bf9630>, <dialogues.SimpleNode object at 0x1a08bf9898>, <dialogues.SimpleNode object at 0x1a08bf9908>, <dialogues.SimpleNode object at 0x1a08bf9940>, <dialogues.SimpleNode object at 0x1a08bf9978>, <dialogues.SimpleNode object at 0x1a08bf99b0>, <dialogues.SimpleNode object at 0x1a08bf99e8>, <dialogues.SimpleNode object at 0x1a08bf9a20>, <dialogues.SimpleNode object at 0x1a08bf9a58>, <dialogues.TreeNode object at 0x1a08bf9a90>, <dialogues.SimpleNode object at 0x1a08bf9ac8>, <dialogues.SimpleNode object at 0x1a08bf9ba8>, <dialogues.SimpleNode object at 0x1a08bf9c50>, <dialogues.SimpleNode object at 0x1a08bf9c88>]
+Simple Node
+Simple Node
+Simple Node
+Simple Node
+Simple Node
+Simple Node
+Simple Node
+Simple Node
+Simple Node
+Tree Node
+	branch: default
+		Simple Node
+	branch: affirm
+		Simple Node
+Simple Node
+Simple Node
+Simple Node
+Simple Node
+
+index = 1
+self.nodes = [<dialogues.SimpleNode object at 0x1a08bf9630>, <dialogues.SimpleNode object at 0x1a08bf9898>, <dialogues.SimpleNode object at 0x1a08bf9908>, <dialogues.SimpleNode object at 0x1a08bf9940>, <dialogues.SimpleNode object at 0x1a08bf9978>, <dialogues.SimpleNode object at 0x1a08bf99b0>, <dialogues.SimpleNode object at 0x1a08bf99e8>, <dialogues.SimpleNode object at 0x1a08bf9a20>, <dialogues.SimpleNode object at 0x1a08bf9a58>, <dialogues.TreeNode object at 0x1a08bf9a90>, <dialogues.SimpleNode object at 0x1a08bf9ac8>, <dialogues.SimpleNode object at 0x1a08bf9ba8>, <dialogues.SimpleNode object at 0x1a08bf9c50>, <dialogues.SimpleNode object at 0x1a08bf9c88>]
+Simple Node
+Simple Node
+Simple Node
+Simple Node
+Simple Node
+Simple Node
+Simple Node
+Simple Node
+Simple Node
+Tree Node
+	branch: default
+		Simple Node
+	branch: affirm
+		Simple Node
+Simple Node
+Simple Node
+Simple Node
+Simple Node
+
+index = 2
+self.nodes = [<dialogues.SimpleNode object at 0x1a08bf9630>, <dialogues.SimpleNode object at 0x1a08bf9898>, <dialogues.SimpleNode object at 0x1a08bf9908>, <dialogues.SimpleNode object at 0x1a08bf9940>, <dialogues.SimpleNode object at 0x1a08bf9978>, <dialogues.SimpleNode object at 0x1a08bf99b0>, <dialogues.SimpleNode object at 0x1a08bf99e8>, <dialogues.SimpleNode object at 0x1a08bf9a20>, <dialogues.SimpleNode object at 0x1a08bf9a58>, <dialogues.TreeNode object at 0x1a08bf9a90>, <dialogues.SimpleNode object at 0x1a08bf9ac8>, <dialogues.SimpleNode object at 0x1a08bf9ba8>, <dialogues.SimpleNode object at 0x1a08bf9c50>, <dialogues.SimpleNode object at 0x1a08bf9c88>]
+Simple Node
+Simple Node
+Simple Node
+Simple Node
+Simple Node
+Simple Node
+Simple Node
+Simple Node
+Simple Node
+Tree Node
+	branch: default
+		Simple Node
+	branch: affirm
+		Simple Node
+Simple Node
+Simple Node
+Simple Node
+Simple Node
+
+index = 3
+self.nodes = [<dialogues.SimpleNode object at 0x1a159465f8>, <dialogues.SimpleNode object at 0x1a15946860>, <dialogues.SimpleNode object at 0x1a159468d0>, <dialogues.SimpleNode object at 0x1a15946908>, <dialogues.SimpleNode object at 0x1a15946940>, <dialogues.SimpleNode object at 0x1a15946978>, <dialogues.SimpleNode object at 0x1a159469b0>, <dialogues.SimpleNode object at 0x1a159469e8>, <dialogues.SimpleNode object at 0x1a15946a20>, <dialogues.TreeNode object at 0x1a15946a58>, <dialogues.SimpleNode object at 0x1a15946a90>, <dialogues.SimpleNode object at 0x1a15946b70>, <dialogues.SimpleNode object at 0x1a15946c18>, <dialogues.SimpleNode object at 0x1a15946c50>]
+Simple Node
+Simple Node
+Simple Node
+Simple Node
+Simple Node
+Simple Node
+Simple Node
+Simple Node
+Simple Node
+Tree Node
+	branch: default
+		Simple Node
+	branch: affirm
+		Simple Node
+Simple Node
+Simple Node
+Simple Node
+Simple Node
+
+index = 4
+self.nodes = [<dialogues.SimpleNode object at 0x1a159465f8>, <dialogues.SimpleNode object at 0x1a15946860>, <dialogues.SimpleNode object at 0x1a159468d0>, <dialogues.SimpleNode object at 0x1a15946908>, <dialogues.SimpleNode object at 0x1a15946940>, <dialogues.SimpleNode object at 0x1a15946978>, <dialogues.SimpleNode object at 0x1a159469b0>, <dialogues.SimpleNode object at 0x1a159469e8>, <dialogues.SimpleNode object at 0x1a15946a20>, <dialogues.TreeNode object at 0x1a15946a58>, <dialogues.SimpleNode object at 0x1a15946a90>, <dialogues.SimpleNode object at 0x1a15946b70>, <dialogues.SimpleNode object at 0x1a15946c18>, <dialogues.SimpleNode object at 0x1a15946c50>]
+Simple Node
+Simple Node
+Simple Node
+Simple Node
+Simple Node
+Simple Node
+Simple Node
+Simple Node
+Simple Node
+Tree Node
+	branch: default
+		Simple Node
+	branch: affirm
+		Simple Node
+Simple Node
+Simple Node
+Simple Node
+Simple Node
+
+index = 5
+self.nodes = [<dialogues.SimpleNode object at 0x1a159465f8>, <dialogues.SimpleNode object at 0x1a15946860>, <dialogues.SimpleNode object at 0x1a159468d0>, <dialogues.SimpleNode object at 0x1a15946908>, <dialogues.SimpleNode object at 0x1a15946940>, <dialogues.SimpleNode object at 0x1a15946978>, <dialogues.SimpleNode object at 0x1a159469b0>, <dialogues.SimpleNode object at 0x1a159469e8>, <dialogues.SimpleNode object at 0x1a15946a20>, <dialogues.TreeNode object at 0x1a15946a58>, <dialogues.SimpleNode object at 0x1a15946a90>, <dialogues.SimpleNode object at 0x1a15946b70>, <dialogues.SimpleNode object at 0x1a15946c18>, <dialogues.SimpleNode object at 0x1a15946c50>]
+Simple Node
+Simple Node
+Simple Node
+Simple Node
+Simple Node
+Simple Node
+Simple Node
+Simple Node
+Simple Node
+Tree Node
+	branch: default
+		Simple Node
+	branch: affirm
+		Simple Node
+Simple Node
+Simple Node
+Simple Node
+Simple Node
+
+index = 6
+self.nodes = [<dialogues.SimpleNode object at 0x1a159465f8>, <dialogues.SimpleNode object at 0x1a15946860>, <dialogues.SimpleNode object at 0x1a159468d0>, <dialogues.SimpleNode object at 0x1a15946908>, <dialogues.SimpleNode object at 0x1a15946940>, <dialogues.SimpleNode object at 0x1a15946978>, <dialogues.SimpleNode object at 0x1a159469b0>, <dialogues.SimpleNode object at 0x1a159469e8>, <dialogues.SimpleNode object at 0x1a15946a20>, <dialogues.TreeNode object at 0x1a15946a58>, <dialogues.SimpleNode object at 0x1a15946a90>, <dialogues.SimpleNode object at 0x1a15946b70>, <dialogues.SimpleNode object at 0x1a15946c18>, <dialogues.SimpleNode object at 0x1a15946c50>]
+Simple Node
+Simple Node
+Simple Node
+Simple Node
+Simple Node
+Simple Node
+Simple Node
+Simple Node
+Simple Node
+Tree Node
+	branch: default
+		Simple Node
+	branch: affirm
+		Simple Node
+Simple Node
+Simple Node
+Simple Node
+Simple Node
+
+index = 7
+self.nodes = [<dialogues.SimpleNode object at 0x1a159465f8>, <dialogues.SimpleNode object at 0x1a15946860>, <dialogues.SimpleNode object at 0x1a159468d0>, <dialogues.SimpleNode object at 0x1a15946908>, <dialogues.SimpleNode object at 0x1a15946940>, <dialogues.SimpleNode object at 0x1a15946978>, <dialogues.SimpleNode object at 0x1a159469b0>, <dialogues.SimpleNode object at 0x1a159469e8>, <dialogues.SimpleNode object at 0x1a15946a20>, <dialogues.TreeNode object at 0x1a15946a58>, <dialogues.SimpleNode object at 0x1a15946a90>, <dialogues.SimpleNode object at 0x1a15946b70>, <dialogues.SimpleNode object at 0x1a15946c18>, <dialogues.SimpleNode object at 0x1a15946c50>]
+Simple Node
+Simple Node
+Simple Node
+Simple Node
+Simple Node
+Simple Node
+Simple Node
+Simple Node
+Simple Node
+Tree Node
+	branch: default
+		Simple Node
+	branch: affirm
+		Simple Node
+Simple Node
+Simple Node
+Simple Node
+Simple Node
+
+index = 8
+self.nodes = [<dialogues.SimpleNode object at 0x1a159465f8>, <dialogues.SimpleNode object at 0x1a15946860>, <dialogues.SimpleNode object at 0x1a159468d0>, <dialogues.SimpleNode object at 0x1a15946908>, <dialogues.SimpleNode object at 0x1a15946940>, <dialogues.SimpleNode object at 0x1a15946978>, <dialogues.SimpleNode object at 0x1a159469b0>, <dialogues.SimpleNode object at 0x1a159469e8>, <dialogues.SimpleNode object at 0x1a15946a20>, <dialogues.TreeNode object at 0x1a15946a58>, <dialogues.SimpleNode object at 0x1a15946a90>, <dialogues.SimpleNode object at 0x1a15946b70>, <dialogues.SimpleNode object at 0x1a15946c18>, <dialogues.SimpleNode object at 0x1a15946c50>]
+Simple Node
+Simple Node
+Simple Node
+Simple Node
+Simple Node
+Simple Node
+Simple Node
+Simple Node
+Simple Node
+Tree Node
+	branch: default
+		Simple Node
+	branch: affirm
+		Simple Node
+Simple Node
+Simple Node
+Simple Node
+Simple Node
+
+index = 9
+self.nodes = [<dialogues.SimpleNode object at 0x1a159465f8>, <dialogues.SimpleNode object at 0x1a15946860>, <dialogues.SimpleNode object at 0x1a159468d0>, <dialogues.SimpleNode object at 0x1a15946908>, <dialogues.SimpleNode object at 0x1a15946940>, <dialogues.SimpleNode object at 0x1a15946978>, <dialogues.SimpleNode object at 0x1a159469b0>, <dialogues.SimpleNode object at 0x1a159469e8>, <dialogues.SimpleNode object at 0x1a15946a20>, <dialogues.TreeNode object at 0x1a15946a58>, <dialogues.SimpleNode object at 0x1a15946a90>, <dialogues.SimpleNode object at 0x1a15946b70>, <dialogues.SimpleNode object at 0x1a15946c18>, <dialogues.SimpleNode object at 0x1a15946c50>]
+Simple Node
+Simple Node
+Simple Node
+Simple Node
+Simple Node
+Simple Node
+Simple Node
+Simple Node
+Simple Node
+Tree Node
+	branch: default
+		Simple Node
+	branch: affirm
+		Simple Node
+Simple Node
+Simple Node
+Simple Node
+Simple Node
+
+index = 10
+self.nodes = [<dialogues.SimpleNode object at 0x1a159465f8>, <dialogues.SimpleNode object at 0x1a15946860>, <dialogues.SimpleNode object at 0x1a159468d0>, <dialogues.SimpleNode object at 0x1a15946908>, <dialogues.SimpleNode object at 0x1a15946940>, <dialogues.SimpleNode object at 0x1a15946978>, <dialogues.SimpleNode object at 0x1a159469b0>, <dialogues.SimpleNode object at 0x1a159469e8>, <dialogues.SimpleNode object at 0x1a15946a20>, <dialogues.TreeNode object at 0x1a15946a58>, <dialogues.SimpleNode object at 0x1a15946a90>, <dialogues.SimpleNode object at 0x1a15946b70>, <dialogues.SimpleNode object at 0x1a15946c18>, <dialogues.SimpleNode object at 0x1a15946c50>]
+Simple Node
+Simple Node
+Simple Node
+Simple Node
+Simple Node
+Simple Node
+Simple Node
+Simple Node
+Simple Node
+Tree Node
+	branch: default
+		Simple Node
+	branch: affirm
+		Simple Node
+Simple Node
+Simple Node
+Simple Node
+Simple Node
+
+index = 11
+self.nodes = [<dialogues.SimpleNode object at 0x1a159465f8>, <dialogues.SimpleNode object at 0x1a15946860>, <dialogues.SimpleNode object at 0x1a159468d0>, <dialogues.SimpleNode object at 0x1a15946908>, <dialogues.SimpleNode object at 0x1a15946940>, <dialogues.SimpleNode object at 0x1a15946978>, <dialogues.SimpleNode object at 0x1a159469b0>, <dialogues.SimpleNode object at 0x1a159469e8>, <dialogues.SimpleNode object at 0x1a15946a20>, <dialogues.TreeNode object at 0x1a15946a58>, <dialogues.SimpleNode object at 0x1a15946a90>, <dialogues.SimpleNode object at 0x1a15946b70>, <dialogues.SimpleNode object at 0x1a15946c18>, <dialogues.SimpleNode object at 0x1a15946c50>]
+Simple Node
+Simple Node
+Simple Node
+Simple Node
+Simple Node
+Simple Node
+Simple Node
+Simple Node
+Simple Node
+Tree Node
+	branch: default
+		Simple Node
+	branch: affirm
+		Simple Node
+Simple Node
+Simple Node
+Simple Node
+Simple Node
+
+index = 12
+self.nodes = [<dialogues.SimpleNode object at 0x1a159465f8>, <dialogues.SimpleNode object at 0x1a15946860>, <dialogues.SimpleNode object at 0x1a159468d0>, <dialogues.SimpleNode object at 0x1a15946908>, <dialogues.SimpleNode object at 0x1a15946940>, <dialogues.SimpleNode object at 0x1a15946978>, <dialogues.SimpleNode object at 0x1a159469b0>, <dialogues.SimpleNode object at 0x1a159469e8>, <dialogues.SimpleNode object at 0x1a15946a20>, <dialogues.TreeNode object at 0x1a15946a58>, <dialogues.SimpleNode object at 0x1a15946a90>, <dialogues.SimpleNode object at 0x1a15946b70>, <dialogues.SimpleNode object at 0x1a15946c18>, <dialogues.SimpleNode object at 0x1a15946c50>]
+Simple Node
+Simple Node
+Simple Node
+Simple Node
+Simple Node
+Simple Node
+Simple Node
+Simple Node
+Simple Node
+Tree Node
+	branch: default
+		Simple Node
+	branch: affirm
+		Simple Node
+Simple Node
+Simple Node
+Simple Node
+Simple Node
+
+index = 13
+self.nodes = [<dialogues.SimpleNode object at 0x1a159465f8>, <dialogues.SimpleNode object at 0x1a15946860>, <dialogues.SimpleNode object at 0x1a159468d0>, <dialogues.SimpleNode object at 0x1a15946908>, <dialogues.SimpleNode object at 0x1a15946940>, <dialogues.SimpleNode object at 0x1a15946978>, <dialogues.SimpleNode object at 0x1a159469b0>, <dialogues.SimpleNode object at 0x1a159469e8>, <dialogues.SimpleNode object at 0x1a15946a20>, <dialogues.TreeNode object at 0x1a15946a58>, <dialogues.SimpleNode object at 0x1a15946a90>, <dialogues.SimpleNode object at 0x1a15946b70>, <dialogues.SimpleNode object at 0x1a15946c18>, <dialogues.SimpleNode object at 0x1a15946c50>]
+Simple Node
+Simple Node
+Simple Node
+Simple Node
+Simple Node
+Simple Node
+Simple Node
+Simple Node
+Simple Node
+Tree Node
+	branch: default
+		Simple Node
+	branch: affirm
+		Simple Node
+Simple Node
+Simple Node
+Simple Node
+Simple Node
+
+index = 0
+self.nodes = [<dialogues.SimpleNode object at 0x1a0f93a470>, <dialogues.SimpleNode object at 0x1a0f93a4e0>, <dialogues.ValidateInputNode object at 0x1a0f93a518>, <dialogues.TreeNode object at 0x1a0f93a588>]
+Simple Node
+Simple Node
+Validate Input Node
+Tree Node
+	branch: default
+		Simple Node
+	branch: expressSelfHarm
+		Simple Node
+		Simple Node
+		Tree Node
+			branch: default
+				Simple Node
+	branch: affirm
+		Simple Node
+
+index = 1
+self.nodes = [<dialogues.SimpleNode object at 0x1a0f93a470>, <dialogues.SimpleNode object at 0x1a0f93a4e0>, <dialogues.ValidateInputNode object at 0x1a0f93a518>, <dialogues.TreeNode object at 0x1a0f93a588>]
+Simple Node
+Simple Node
+Validate Input Node
+Tree Node
+	branch: default
+		Simple Node
+	branch: expressSelfHarm
+		Simple Node
+		Simple Node
+		Tree Node
+			branch: default
+				Simple Node
+	branch: affirm
+		Simple Node
+
+index = 2
+self.nodes = [<dialogues.SimpleNode object at 0x1a0f93a470>, <dialogues.SimpleNode object at 0x1a0f93a4e0>, <dialogues.ValidateInputNode object at 0x1a0f93a518>, <dialogues.TreeNode object at 0x1a0f93a588>]
+Simple Node
+Simple Node
+Validate Input Node
+Tree Node
+	branch: default
+		Simple Node
+	branch: expressSelfHarm
+		Simple Node
+		Simple Node
+		Tree Node
+			branch: default
+				Simple Node
+	branch: affirm
+		Simple Node
+
+index = 3
+self.nodes = [<dialogues.SimpleNode object at 0x1a0f93a470>, <dialogues.SimpleNode object at 0x1a0f93a4e0>, <dialogues.ValidateInputNode object at 0x1a0f93a518>, <dialogues.TreeNode object at 0x1a0f93a588>]
+Simple Node
+Simple Node
+Validate Input Node
+Tree Node
+	branch: default
+		Simple Node
+	branch: expressSelfHarm
+		Simple Node
+		Simple Node
+		Tree Node
+			branch: default
+				Simple Node
+	branch: affirm
+		Simple Node
+
+index = 0
+self.nodes = [<dialogues.SimpleNode object at 0x1a13243908>, <dialogues.SimpleNode object at 0x1a13243940>, <dialogues.ValidateInputNode object at 0x1a132439b0>, <dialogues.TreeNode object at 0x1a132439e8>]
+Simple Node
+Simple Node
+Validate Input Node
+Tree Node
+	branch: default
+		Simple Node
+	branch: expressSelfHarm
+		Simple Node
+		Simple Node
+		Tree Node
+			branch: default
+				Simple Node
+	branch: affirm
+		Simple Node
+
+index = 0
+self.nodes = [<dialogues.SimpleNode object at 0x1a136fe4a8>, <dialogues.SimpleNode object at 0x1a136fe470>, <dialogues.ValidateInputNode object at 0x1a136fe518>, <dialogues.TreeNode object at 0x1a136fe550>]
+Simple Node
+Simple Node
+Validate Input Node
+Tree Node
+	branch: default
+		Simple Node
+	branch: expressSelfHarm
+		Simple Node
+		Simple Node
+		Tree Node
+			branch: default
+				Simple Node
+	branch: affirm
+		Simple Node
+
+index = 1
+self.nodes = [<dialogues.SimpleNode object at 0x1a136fe4a8>, <dialogues.SimpleNode object at 0x1a136fe470>, <dialogues.ValidateInputNode object at 0x1a136fe518>, <dialogues.TreeNode object at 0x1a136fe550>]
+Simple Node
+Simple Node
+Validate Input Node
+Tree Node
+	branch: default
+		Simple Node
+	branch: expressSelfHarm
+		Simple Node
+		Simple Node
+		Tree Node
+			branch: default
+				Simple Node
+	branch: affirm
+		Simple Node
+
+index = 2
+self.nodes = [<dialogues.SimpleNode object at 0x1a136fe4a8>, <dialogues.SimpleNode object at 0x1a136fe470>, <dialogues.ValidateInputNode object at 0x1a136fe518>, <dialogues.TreeNode object at 0x1a136fe550>]
+Simple Node
+Simple Node
+Validate Input Node
+Tree Node
+	branch: default
+		Simple Node
+	branch: expressSelfHarm
+		Simple Node
+		Simple Node
+		Tree Node
+			branch: default
+				Simple Node
+	branch: affirm
+		Simple Node
+
+index = 2
+self.nodes = [<dialogues.SimpleNode object at 0x1a136fe4a8>, <dialogues.SimpleNode object at 0x1a136fe470>, <dialogues.ValidateInputNode object at 0x1a136fe518>, <dialogues.TreeNode object at 0x1a136fe550>]
+Simple Node
+Simple Node
+Validate Input Node
+Tree Node
+	branch: default
+		Simple Node
+	branch: expressSelfHarm
+		Simple Node
+		Simple Node
+		Tree Node
+			branch: default
+				Simple Node
+	branch: affirm
+		Simple Node
+
+index = 2
+self.nodes = [<dialogues.SimpleNode object at 0x1a136fe4a8>, <dialogues.SimpleNode object at 0x1a136fe470>, <dialogues.ValidateInputNode object at 0x1a136fe518>, <dialogues.TreeNode object at 0x1a136fe550>]
+Simple Node
+Simple Node
+Validate Input Node
+Tree Node
+	branch: default
+		Simple Node
+	branch: expressSelfHarm
+		Simple Node
+		Simple Node
+		Tree Node
+			branch: default
+				Simple Node
+	branch: affirm
+		Simple Node
+
+index = 0
+self.nodes = [<dialogues.SimpleNode object at 0x1a13ae9978>, <dialogues.TreeNode object at 0x1a13ae99e8>, <dialogues.SimpleNode object at 0x1a13ae9a20>, <dialogues.SimpleNode object at 0x1a13ae9b00>, <dialogues.SimpleNode object at 0x1a13ae9ba8>, <dialogues.SimpleNode object at 0x1a13ae9b70>, <dialogues.SimpleNode object at 0x1a13ae9be0>, <dialogues.SimpleNode object at 0x1a13ae9c18>, <dialogues.TreeNode object at 0x1a13ae9c50>, <dialogues.SimpleNode object at 0x1a13ae9c88>]
+Simple Node
+Tree Node
+	branch: default
+		Simple Node
+	branch: affirm
+		Simple Node
+Simple Node
+Simple Node
+Simple Node
+Simple Node
+Simple Node
+Simple Node
+Tree Node
+	branch: default
+		Simple Node
+	branch: affirm
+		Simple Node
+Simple Node
+
+index = 1
+self.nodes = [<dialogues.SimpleNode object at 0x1a13ae9978>, <dialogues.TreeNode object at 0x1a13ae99e8>, <dialogues.SimpleNode object at 0x1a13ae9a20>, <dialogues.SimpleNode object at 0x1a13ae9b00>, <dialogues.SimpleNode object at 0x1a13ae9ba8>, <dialogues.SimpleNode object at 0x1a13ae9b70>, <dialogues.SimpleNode object at 0x1a13ae9be0>, <dialogues.SimpleNode object at 0x1a13ae9c18>, <dialogues.TreeNode object at 0x1a13ae9c50>, <dialogues.SimpleNode object at 0x1a13ae9c88>]
+Simple Node
+Tree Node
+	branch: default
+		Simple Node
+	branch: affirm
+		Simple Node
+Simple Node
+Simple Node
+Simple Node
+Simple Node
+Simple Node
+Simple Node
+Tree Node
+	branch: default
+		Simple Node
+	branch: affirm
+		Simple Node
+Simple Node
+
+index = 2
+self.nodes = [<dialogues.SimpleNode object at 0x1a13ae9978>, <dialogues.TreeNode object at 0x1a13ae99e8>, <dialogues.SimpleNode object at 0x1a13ae9a20>, <dialogues.SimpleNode object at 0x1a13ae9b00>, <dialogues.SimpleNode object at 0x1a13ae9ba8>, <dialogues.SimpleNode object at 0x1a13ae9b70>, <dialogues.SimpleNode object at 0x1a13ae9be0>, <dialogues.SimpleNode object at 0x1a13ae9c18>, <dialogues.TreeNode object at 0x1a13ae9c50>, <dialogues.SimpleNode object at 0x1a13ae9c88>]
+Simple Node
+Tree Node
+	branch: default
+		Simple Node
+	branch: affirm
+		Simple Node
+Simple Node
+Simple Node
+Simple Node
+Simple Node
+Simple Node
+Simple Node
+Tree Node
+	branch: default
+		Simple Node
+	branch: affirm
+		Simple Node
+Simple Node
+
+index = 3
+self.nodes = [<dialogues.SimpleNode object at 0x1a13ae9978>, <dialogues.TreeNode object at 0x1a13ae99e8>, <dialogues.SimpleNode object at 0x1a13ae9a20>, <dialogues.SimpleNode object at 0x1a13ae9b00>, <dialogues.SimpleNode object at 0x1a13ae9ba8>, <dialogues.SimpleNode object at 0x1a13ae9b70>, <dialogues.SimpleNode object at 0x1a13ae9be0>, <dialogues.SimpleNode object at 0x1a13ae9c18>, <dialogues.TreeNode object at 0x1a13ae9c50>, <dialogues.SimpleNode object at 0x1a13ae9c88>]
+Simple Node
+Tree Node
+	branch: default
+		Simple Node
+	branch: affirm
+		Simple Node
+Simple Node
+Simple Node
+Simple Node
+Simple Node
+Simple Node
+Simple Node
+Tree Node
+	branch: default
+		Simple Node
+	branch: affirm
+		Simple Node
+Simple Node
+
+index = 4
+self.nodes = [<dialogues.SimpleNode object at 0x1a13ae9978>, <dialogues.TreeNode object at 0x1a13ae99e8>, <dialogues.SimpleNode object at 0x1a13ae9a20>, <dialogues.SimpleNode object at 0x1a13ae9b00>, <dialogues.SimpleNode object at 0x1a13ae9ba8>, <dialogues.SimpleNode object at 0x1a13ae9b70>, <dialogues.SimpleNode object at 0x1a13ae9be0>, <dialogues.SimpleNode object at 0x1a13ae9c18>, <dialogues.TreeNode object at 0x1a13ae9c50>, <dialogues.SimpleNode object at 0x1a13ae9c88>]
+Simple Node
+Tree Node
+	branch: default
+		Simple Node
+	branch: affirm
+		Simple Node
+Simple Node
+Simple Node
+Simple Node
+Simple Node
+Simple Node
+Simple Node
+Tree Node
+	branch: default
+		Simple Node
+	branch: affirm
+		Simple Node
+Simple Node
+
+index = 5
+self.nodes = [<dialogues.SimpleNode object at 0x1a13ae9978>, <dialogues.TreeNode object at 0x1a13ae99e8>, <dialogues.SimpleNode object at 0x1a13ae9a20>, <dialogues.SimpleNode object at 0x1a13ae9b00>, <dialogues.SimpleNode object at 0x1a13ae9ba8>, <dialogues.SimpleNode object at 0x1a13ae9b70>, <dialogues.SimpleNode object at 0x1a13ae9be0>, <dialogues.SimpleNode object at 0x1a13ae9c18>, <dialogues.TreeNode object at 0x1a13ae9c50>, <dialogues.SimpleNode object at 0x1a13ae9c88>]
+Simple Node
+Tree Node
+	branch: default
+		Simple Node
+	branch: affirm
+		Simple Node
+Simple Node
+Simple Node
+Simple Node
+Simple Node
+Simple Node
+Simple Node
+Tree Node
+	branch: default
+		Simple Node
+	branch: affirm
+		Simple Node
+Simple Node
+
+index = 6
+self.nodes = [<dialogues.SimpleNode object at 0x1a13ae9978>, <dialogues.TreeNode object at 0x1a13ae99e8>, <dialogues.SimpleNode object at 0x1a13ae9a20>, <dialogues.SimpleNode object at 0x1a13ae9b00>, <dialogues.SimpleNode object at 0x1a13ae9ba8>, <dialogues.SimpleNode object at 0x1a13ae9b70>, <dialogues.SimpleNode object at 0x1a13ae9be0>, <dialogues.SimpleNode object at 0x1a13ae9c18>, <dialogues.TreeNode object at 0x1a13ae9c50>, <dialogues.SimpleNode object at 0x1a13ae9c88>]
+Simple Node
+Tree Node
+	branch: default
+		Simple Node
+	branch: affirm
+		Simple Node
+Simple Node
+Simple Node
+Simple Node
+Simple Node
+Simple Node
+Simple Node
+Tree Node
+	branch: default
+		Simple Node
+	branch: affirm
+		Simple Node
+Simple Node
+
+index = 7
+self.nodes = [<dialogues.SimpleNode object at 0x1a13ae9978>, <dialogues.TreeNode object at 0x1a13ae99e8>, <dialogues.SimpleNode object at 0x1a13ae9a20>, <dialogues.SimpleNode object at 0x1a13ae9b00>, <dialogues.SimpleNode object at 0x1a13ae9ba8>, <dialogues.SimpleNode object at 0x1a13ae9b70>, <dialogues.SimpleNode object at 0x1a13ae9be0>, <dialogues.SimpleNode object at 0x1a13ae9c18>, <dialogues.TreeNode object at 0x1a13ae9c50>, <dialogues.SimpleNode object at 0x1a13ae9c88>]
+Simple Node
+Tree Node
+	branch: default
+		Simple Node
+	branch: affirm
+		Simple Node
+Simple Node
+Simple Node
+Simple Node
+Simple Node
+Simple Node
+Simple Node
+Tree Node
+	branch: default
+		Simple Node
+	branch: affirm
+		Simple Node
+Simple Node
+
+index = 8
+self.nodes = [<dialogues.SimpleNode object at 0x1a13ae9978>, <dialogues.TreeNode object at 0x1a13ae99e8>, <dialogues.SimpleNode object at 0x1a13ae9a20>, <dialogues.SimpleNode object at 0x1a13ae9b00>, <dialogues.SimpleNode object at 0x1a13ae9ba8>, <dialogues.SimpleNode object at 0x1a13ae9b70>, <dialogues.SimpleNode object at 0x1a13ae9be0>, <dialogues.SimpleNode object at 0x1a13ae9c18>, <dialogues.TreeNode object at 0x1a13ae9c50>, <dialogues.SimpleNode object at 0x1a13ae9c88>]
+Simple Node
+Tree Node
+	branch: default
+		Simple Node
+	branch: affirm
+		Simple Node
+Simple Node
+Simple Node
+Simple Node
+Simple Node
+Simple Node
+Simple Node
+Tree Node
+	branch: default
+		Simple Node
+	branch: affirm
+		Simple Node
+Simple Node
+
+index = 9
+self.nodes = [<dialogues.SimpleNode object at 0x1a13ae9978>, <dialogues.TreeNode object at 0x1a13ae99e8>, <dialogues.SimpleNode object at 0x1a13ae9a20>, <dialogues.SimpleNode object at 0x1a13ae9b00>, <dialogues.SimpleNode object at 0x1a13ae9ba8>, <dialogues.SimpleNode object at 0x1a13ae9b70>, <dialogues.SimpleNode object at 0x1a13ae9be0>, <dialogues.SimpleNode object at 0x1a13ae9c18>, <dialogues.TreeNode object at 0x1a13ae9c50>, <dialogues.SimpleNode object at 0x1a13ae9c88>]
+Simple Node
+Tree Node
+	branch: default
+		Simple Node
+	branch: affirm
+		Simple Node
+Simple Node
+Simple Node
+Simple Node
+Simple Node
+Simple Node
+Simple Node
+Tree Node
+	branch: default
+		Simple Node
+	branch: affirm
+		Simple Node
+Simple Node
+
+index = 0
+self.nodes = [<dialogues.SimpleNode object at 0x1a13ae9978>, <dialogues.TreeNode object at 0x1a13ae99e8>, <dialogues.SimpleNode object at 0x1a13ae9a20>, <dialogues.SimpleNode object at 0x1a13ae9b00>, <dialogues.SimpleNode object at 0x1a13ae9ba8>, <dialogues.SimpleNode object at 0x1a13ae9b70>, <dialogues.SimpleNode object at 0x1a13ae9be0>, <dialogues.SimpleNode object at 0x1a13ae9c18>, <dialogues.TreeNode object at 0x1a13ae9c50>, <dialogues.SimpleNode object at 0x1a13ae9c88>]
+Simple Node
+Tree Node
+	branch: default
+		Simple Node
+	branch: affirm
+		Simple Node
+Simple Node
+Simple Node
+Simple Node
+Simple Node
+Simple Node
+Simple Node
+Tree Node
+	branch: default
+		Simple Node
+	branch: affirm
+		Simple Node
+Simple Node
+
+index = 1
+self.nodes = [<dialogues.SimpleNode object at 0x1a13ae9978>, <dialogues.TreeNode object at 0x1a13ae99e8>, <dialogues.SimpleNode object at 0x1a13ae9a20>, <dialogues.SimpleNode object at 0x1a13ae9b00>, <dialogues.SimpleNode object at 0x1a13ae9ba8>, <dialogues.SimpleNode object at 0x1a13ae9b70>, <dialogues.SimpleNode object at 0x1a13ae9be0>, <dialogues.SimpleNode object at 0x1a13ae9c18>, <dialogues.TreeNode object at 0x1a13ae9c50>, <dialogues.SimpleNode object at 0x1a13ae9c88>]
+Simple Node
+Tree Node
+	branch: default
+		Simple Node
+	branch: affirm
+		Simple Node
+Simple Node
+Simple Node
+Simple Node
+Simple Node
+Simple Node
+Simple Node
+Tree Node
+	branch: default
+		Simple Node
+	branch: affirm
+		Simple Node
+Simple Node
+
+index = 2
+self.nodes = [<dialogues.SimpleNode object at 0x1a13ae9978>, <dialogues.TreeNode object at 0x1a13ae99e8>, <dialogues.SimpleNode object at 0x1a13ae9a20>, <dialogues.SimpleNode object at 0x1a13ae9b00>, <dialogues.SimpleNode object at 0x1a13ae9ba8>, <dialogues.SimpleNode object at 0x1a13ae9b70>, <dialogues.SimpleNode object at 0x1a13ae9be0>, <dialogues.SimpleNode object at 0x1a13ae9c18>, <dialogues.TreeNode object at 0x1a13ae9c50>, <dialogues.SimpleNode object at 0x1a13ae9c88>]
+Simple Node
+Tree Node
+	branch: default
+		Simple Node
+	branch: affirm
+		Simple Node
+Simple Node
+Simple Node
+Simple Node
+Simple Node
+Simple Node
+Simple Node
+Tree Node
+	branch: default
+		Simple Node
+	branch: affirm
+		Simple Node
+Simple Node
+
+index = 3
+self.nodes = [<dialogues.SimpleNode object at 0x1a13ae9978>, <dialogues.TreeNode object at 0x1a13ae99e8>, <dialogues.SimpleNode object at 0x1a13ae9a20>, <dialogues.SimpleNode object at 0x1a13ae9b00>, <dialogues.SimpleNode object at 0x1a13ae9ba8>, <dialogues.SimpleNode object at 0x1a13ae9b70>, <dialogues.SimpleNode object at 0x1a13ae9be0>, <dialogues.SimpleNode object at 0x1a13ae9c18>, <dialogues.TreeNode object at 0x1a13ae9c50>, <dialogues.SimpleNode object at 0x1a13ae9c88>]
+Simple Node
+Tree Node
+	branch: default
+		Simple Node
+	branch: affirm
+		Simple Node
+Simple Node
+Simple Node
+Simple Node
+Simple Node
+Simple Node
+Simple Node
+Tree Node
+	branch: default
+		Simple Node
+	branch: affirm
+		Simple Node
+Simple Node
+
+index = 4
+self.nodes = [<dialogues.SimpleNode object at 0x1a13ae9978>, <dialogues.TreeNode object at 0x1a13ae99e8>, <dialogues.SimpleNode object at 0x1a13ae9a20>, <dialogues.SimpleNode object at 0x1a13ae9b00>, <dialogues.SimpleNode object at 0x1a13ae9ba8>, <dialogues.SimpleNode object at 0x1a13ae9b70>, <dialogues.SimpleNode object at 0x1a13ae9be0>, <dialogues.SimpleNode object at 0x1a13ae9c18>, <dialogues.TreeNode object at 0x1a13ae9c50>, <dialogues.SimpleNode object at 0x1a13ae9c88>]
+Simple Node
+Tree Node
+	branch: default
+		Simple Node
+	branch: affirm
+		Simple Node
+Simple Node
+Simple Node
+Simple Node
+Simple Node
+Simple Node
+Simple Node
+Tree Node
+	branch: default
+		Simple Node
+	branch: affirm
+		Simple Node
+Simple Node
+
+index = 5
+self.nodes = [<dialogues.SimpleNode object at 0x1a13ae9978>, <dialogues.TreeNode object at 0x1a13ae99e8>, <dialogues.SimpleNode object at 0x1a13ae9a20>, <dialogues.SimpleNode object at 0x1a13ae9b00>, <dialogues.SimpleNode object at 0x1a13ae9ba8>, <dialogues.SimpleNode object at 0x1a13ae9b70>, <dialogues.SimpleNode object at 0x1a13ae9be0>, <dialogues.SimpleNode object at 0x1a13ae9c18>, <dialogues.TreeNode object at 0x1a13ae9c50>, <dialogues.SimpleNode object at 0x1a13ae9c88>]
+Simple Node
+Tree Node
+	branch: default
+		Simple Node
+	branch: affirm
+		Simple Node
+Simple Node
+Simple Node
+Simple Node
+Simple Node
+Simple Node
+Simple Node
+Tree Node
+	branch: default
+		Simple Node
+	branch: affirm
+		Simple Node
+Simple Node
+
+index = 6
+self.nodes = [<dialogues.SimpleNode object at 0x1a13ae9978>, <dialogues.TreeNode object at 0x1a13ae99e8>, <dialogues.SimpleNode object at 0x1a13ae9a20>, <dialogues.SimpleNode object at 0x1a13ae9b00>, <dialogues.SimpleNode object at 0x1a13ae9ba8>, <dialogues.SimpleNode object at 0x1a13ae9b70>, <dialogues.SimpleNode object at 0x1a13ae9be0>, <dialogues.SimpleNode object at 0x1a13ae9c18>, <dialogues.TreeNode object at 0x1a13ae9c50>, <dialogues.SimpleNode object at 0x1a13ae9c88>]
+Simple Node
+Tree Node
+	branch: default
+		Simple Node
+	branch: affirm
+		Simple Node
+Simple Node
+Simple Node
+Simple Node
+Simple Node
+Simple Node
+Simple Node
+Tree Node
+	branch: default
+		Simple Node
+	branch: affirm
+		Simple Node
+Simple Node
+
+index = 7
+self.nodes = [<dialogues.SimpleNode object at 0x1a13ae9978>, <dialogues.TreeNode object at 0x1a13ae99e8>, <dialogues.SimpleNode object at 0x1a13ae9a20>, <dialogues.SimpleNode object at 0x1a13ae9b00>, <dialogues.SimpleNode object at 0x1a13ae9ba8>, <dialogues.SimpleNode object at 0x1a13ae9b70>, <dialogues.SimpleNode object at 0x1a13ae9be0>, <dialogues.SimpleNode object at 0x1a13ae9c18>, <dialogues.TreeNode object at 0x1a13ae9c50>, <dialogues.SimpleNode object at 0x1a13ae9c88>]
+Simple Node
+Tree Node
+	branch: default
+		Simple Node
+	branch: affirm
+		Simple Node
+Simple Node
+Simple Node
+Simple Node
+Simple Node
+Simple Node
+Simple Node
+Tree Node
+	branch: default
+		Simple Node
+	branch: affirm
+		Simple Node
+Simple Node
+
+index = 8
+self.nodes = [<dialogues.SimpleNode object at 0x1a13ae9978>, <dialogues.TreeNode object at 0x1a13ae99e8>, <dialogues.SimpleNode object at 0x1a13ae9a20>, <dialogues.SimpleNode object at 0x1a13ae9b00>, <dialogues.SimpleNode object at 0x1a13ae9ba8>, <dialogues.SimpleNode object at 0x1a13ae9b70>, <dialogues.SimpleNode object at 0x1a13ae9be0>, <dialogues.SimpleNode object at 0x1a13ae9c18>, <dialogues.TreeNode object at 0x1a13ae9c50>, <dialogues.SimpleNode object at 0x1a13ae9c88>]
+Simple Node
+Tree Node
+	branch: default
+		Simple Node
+	branch: affirm
+		Simple Node
+Simple Node
+Simple Node
+Simple Node
+Simple Node
+Simple Node
+Simple Node
+Tree Node
+	branch: default
+		Simple Node
+	branch: affirm
+		Simple Node
+Simple Node
+
+index = 9
+self.nodes = [<dialogues.SimpleNode object at 0x1a13ae9978>, <dialogues.TreeNode object at 0x1a13ae99e8>, <dialogues.SimpleNode object at 0x1a13ae9a20>, <dialogues.SimpleNode object at 0x1a13ae9b00>, <dialogues.SimpleNode object at 0x1a13ae9ba8>, <dialogues.SimpleNode object at 0x1a13ae9b70>, <dialogues.SimpleNode object at 0x1a13ae9be0>, <dialogues.SimpleNode object at 0x1a13ae9c18>, <dialogues.TreeNode object at 0x1a13ae9c50>, <dialogues.SimpleNode object at 0x1a13ae9c88>]
+Simple Node
+Tree Node
+	branch: default
+		Simple Node
+	branch: affirm
+		Simple Node
+Simple Node
+Simple Node
+Simple Node
+Simple Node
+Simple Node
+Simple Node
+Tree Node
+	branch: default
+		Simple Node
+	branch: affirm
+		Simple Node
+Simple Node
+
